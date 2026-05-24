@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Filter — Flat Fav System</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Mono:ital,wght@0,300;0,400;0,500;1,300&family=DM+Sans:wght@300;400;500&display=swap');
+  :root { --green: #00e87a; --red: #ff3b5c; --gold: #f5c518; --bg: #0a0a0a; --surface: #111; --border: #1e1e1e; --muted: #555; --text: #e8e8e8; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: var(--bg); color: var(--text); font-family: 'DM Sans', sans-serif; padding: 20px 16px 60px; max-width: 900px; margin: 0 auto; }
+  h1 { font-family: 'Bebas Neue', sans-serif; font-size: clamp(48px,12vw,80px); color: var(--gold); letter-spacing: 4px; line-height: 1; }
+  .subtitle { font-family: 'DM Mono', monospace; font-size: 10px; letter-spacing: 2px; color: var(--muted); text-transform: uppercase; margin-top: 4px; border-bottom: 1px solid var(--border); padding-bottom: 20px; margin-bottom: 28px; }
+  .stats-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1px; background: var(--border); margin-bottom: 28px; }
+  .stat { background: var(--surface); padding: 16px 12px; text-align: center; }
+  .stat .val { font-family: 'Bebas Neue', sans-serif; font-size: 36px; line-height: 1; }
+  .stat .lbl { font-family: 'DM Mono', monospace; font-size: 9px; letter-spacing: 1.5px; color: var(--muted); text-transform: uppercase; margin-top: 4px; }
+  .green { color: var(--green); } .red { color: var(--red); } .gold { color: var(--gold); }
+  .section-title { font-family: 'Bebas Neue', sans-serif; font-size: 22px; letter-spacing: 2px; margin-bottom: 12px; }
+  .race-card { background: var(--surface); border: 1px solid var(--border); border-left: 3px solid var(--border); padding: 14px 16px; margin-bottom: 8px; }
+  .race-card.qualified { border-left-color: var(--gold); }
+  .race-card.won { border-left-color: var(--green); }
+  .race-card.lost { border-left-color: var(--red); }
+  .race-header { display: flex; justify-content: space-between; align-items: flex-start; gap: 8px; flex-wrap: wrap; }
+  .race-name { font-family: 'DM Mono', monospace; font-size: 12px; color: var(--text); font-weight: 500; }
+  .race-meta { font-family: 'DM Mono', monospace; font-size: 10px; color: var(--muted); margin-top: 4px; }
+  .badge { font-family: 'DM Mono', monospace; font-size: 9px; letter-spacing: 1px; padding: 3px 7px; border: 1px solid; display: inline-block; white-space: nowrap; }
+  .badge-gold { color: var(--gold); border-color: var(--gold); }
+  .badge-green { color: var(--green); border-color: var(--green); }
+  .badge-red { color: var(--red); border-color: var(--red); }
+  .badge-muted { color: var(--muted); border-color: var(--border); }
+  .progress-bar { height: 3px; background: var(--border); margin: 20px 0; }
+  .progress-fill { height: 100%; background: var(--gold); transition: width 0.5s; }
+  .progress-label { font-family: 'DM Mono', monospace; font-size: 9px; color: var(--muted); letter-spacing: 1px; text-align: right; margin-top: 4px; }
+  .rules { display: grid; grid-template-columns: repeat(2, 1fr); gap: 8px; margin-bottom: 28px; }
+  .rule { background: var(--surface); border: 1px solid var(--border); padding: 10px 14px; }
+  .rule-label { font-family: 'DM Mono', monospace; font-size: 9px; letter-spacing: 1.5px; color: var(--muted); text-transform: uppercase; }
+  .rule-value { font-family: 'Bebas Neue', sans-serif; font-size: 18px; letter-spacing: 1px; color: var(--gold); margin-top: 2px; }
+  .last-updated { font-family: 'DM Mono', monospace; font-size: 10px; color: var(--muted); margin-bottom: 20px; }
+  .empty { text-align: center; padding: 40px; font-family: 'DM Mono', monospace; font-size: 11px; color: var(--muted); border: 1px solid var(--border); }
+  .filters-row { display: flex; gap: 8px; margin-bottom: 16px; flex-wrap: wrap; }
+  .filter-btn { font-family: 'DM Mono', monospace; font-size: 10px; letter-spacing: 1px; padding: 6px 12px; background: transparent; border: 1px solid var(--border); color: var(--muted); cursor: pointer; transition: all 0.15s; }
+  .filter-btn.active { border-color: var(--gold); color: var(--gold); }
+</style>
+</head>
+<body>
+<h1>THE FILTER</h1>
+<div class="subtitle">UK Flat Turf — Favourite System — Auto Tracker</div>
+<div class="rules">
+  <div class="rule"><div class="rule-label">Race Type</div><div class="rule-value">Non-Handicap</div></div>
+  <div class="rule"><div class="rule-label">Field Size</div><div class="rule-value">≤ 10 Runners</div></div>
+  <div class="rule"><div class="rule-label">Fav Odds</div><div class="rule-value">3.0 – 5.0</div></div>
+  <div class="rule"><div class="rule-label">Going</div><div class="rule-value">Not Soft/Heavy</div></div>
+</div>
+<div class="stats-grid">
+  <div class="stat"><div class="val gold" id="s-bets">0</div><div class="lbl">Qualified</div></div>
+  <div class="stat"><div class="val gold" id="s-settled">0</div><div class="lbl">Settled</div></div>
+  <div class="stat"><div class="val gold" id="s-wins">0</div><div class="lbl">Wins</div></div>
+  <div class="stat"><div class="val gold" id="s-sr">—</div><div class="lbl">Strike Rate</div></div>
+  <div class="stat"><div class="val gold" id="s-pnl">—</div><div class="lbl">P&L (£1 stake)</div></div>
+  <div class="stat"><div class="val gold" id="s-roi">—</div><div class="lbl">ROI %</div></div>
+</div>
+<div class="progress-bar"><div class="progress-fill" id="progress-fill" style="width:0%"></div></div>
+<div class="progress-label" id="progress-label">0 / 30 bets for statistical confidence</div>
+<div class="last-updated" id="last-updated">Last updated: —</div>
+<div class="section-title">Race Log</div>
+<div class="filters-row">
+  <button class="filter-btn active" onclick="setFilter('all',this)">All</button>
+  <button class="filter-btn" onclick="setFilter('qualified',this)">Qualified</button>
+  <button class="filter-btn" onclick="setFilter('won',this)">Won</button>
+  <button class="filter-btn" onclick="setFilter('lost',this)">Lost</button>
+  <button class="filter-btn" onclick="setFilter('pending',this)">Pending</button>
+</div>
+<div id="race-list"></div>
+<script>
+  let currentFilter = 'all';
+  function setFilter(f, btn) {
+    currentFilter = f;
+    document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    renderRaces(window._races);
+  }
+  async function loadData() {
+    try {
+      const res = await fetch('data/races.json?t=' + Date.now());
+      if (!res.ok) return null;
+      return await res.json();
+    } catch(e) { return null; }
+  }
+  function formatDate(d) {
+    if (!d) return '—';
+    return new Date(d).toLocaleDateString('en-GB', { weekday:'short', day:'numeric', month:'short' });
+  }
+  function renderStats(races) {
+    const qualified = races.filter(r => r.qualified);
+    const settled = qualified.filter(r => r.result && r.result !== 'pending');
+    const wins = settled.filter(r => r.result === 'won');
+    const staked = settled.length;
+    const returned = wins.reduce((s,r) => s + (r.odds || 0), 0);
+    const pnl = returned - staked;
+    const sr = settled.length ? (wins.length / settled.length * 100).toFixed(1) : null;
+    const roi = staked ? (pnl / staked * 100).toFixed(1) : null;
+    document.getElementById('s-bets').textContent = qualified.length;
+    document.getElementById('s-settled').textContent = settled.length;
+    document.getElementById('s-wins').textContent = wins.length;
+    const srEl = document.getElementById('s-sr');
+    srEl.textContent = sr ? sr + '%' : '—';
+    srEl.className = 'val ' + (sr ? (parseFloat(sr) >= 33.3 ? 'green' : 'red') : 'gold');
+    const pnlEl = document.getElementById('s-pnl');
+    pnlEl.textContent = staked ? (pnl >= 0 ? '+£' + pnl.toFixed(2) : '-£' + Math.abs(pnl).toFixed(2)) : '—';
+    pnlEl.className = 'val ' + (staked ? (pnl >= 0 ? 'green' : 'red') : 'gold');
+    const roiEl = document.getElementById('s-roi');
+    roiEl.textContent = roi ? roi + '%' : '—';
+    roiEl.className = 'val ' + (roi ? (parseFloat(roi) >= 0 ? 'green' : 'red') : 'gold');
+    const pct = Math.min(100, (settled.length / 30) * 100);
+    document.getElementById('progress-fill').style.width = pct + '%';
+    document.getElementById('progress-label').textContent = settled.length + ' / 30 bets for statistical confidence';
+  }
+  function renderRaces(races) {
+    const list = document.getElementById('race-list');
+    if (!races || races.length === 0) {
+      list.innerHTML = '<div class="empty">No races logged yet — system runs daily at 9am and 7pm UTC</div>';
+      return;
+    }
+    let filtered = [...races].reverse();
+    if (currentFilter === 'qualified') filtered = filtered.filter(r => r.qualified);
+    else if (currentFilter === 'won') filtered = filtered.filter(r => r.result === 'won');
+    else if (currentFilter === 'lost') filtered = filtered.filter(r => r.result === 'lost');
+    else if (currentFilter === 'pending') filtered = filtered.filter(r => !r.result || r.result === 'pending');
+    if (filtered.length === 0) {
+      list.innerHTML = '<div class="empty">No races match this filter</div>';
+      return;
+    }
+    list.innerHTML = filtered.map(r => {
+      const cardClass = r.result === 'won' ? 'won' : r.result === 'lost' ? 'lost' : r.qualified ? 'qualified' : '';
+      const badge = r.result === 'won' ? '<span class="badge badge-green">WON</span>'
+        : r.result === 'lost' ? '<span class="badge badge-red">LOST</span>'
+        : r.qualified ? '<span class="badge badge-gold">BET</span>'
+        : '<span class="badge badge-muted">SKIP</span>';
+      const fails = r.filter_fail && r.filter_fail.length ? `<div class="race-meta" style="color:#ff3b5c;margin-top:4px">Failed: ${r.filter_fail.join(', ')}</div>` : '';
+      const winner = (r.result === 'won' || r.result === 'lost') ? `<div class="race-meta" style="margin-top:4px">Winner: ${r.winner || '?'}</div>` : '';
+      return `<div class="race-card ${cardClass}"><div class="race-header"><div>
+        <div class="race-name">${r.course} — ${r.time} — ${r.race_name || ''}</div>
+        <div class="race-meta">${formatDate(r.date)} | ${r.runners || '?'} runners | Fav: ${r.favourite || '?'} @ ${r.odds ? r.odds + ' dec' : '?'} | Going: ${r.going || '?'}</div>
+        ${winner}${fails}</div>${badge}</div></div>`;
+    }).join('');
+  }
+  async function init() {
+    const data = await loadData();
+    if (data) {
+      window._races = data.races || [];
+      if (data.last_updated) document.getElementById('last-updated').textContent = 'Last updated: ' + new Date(data.last_updated).toLocaleString('en-GB');
+      renderStats(window._races);
+      renderRaces(window._races);
+    } else { renderRaces(null); }
+  }
+  init();
+  setInterval(init, 60000);
+</script>
+</body>
+</html>
