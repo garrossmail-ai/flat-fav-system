@@ -1,4 +1,931 @@
 {
-  "last_updated": null,
-  "races": []
+  "last_updated": "2026-05-24T06:47:11.143474",
+  "races": [
+    {
+      "course": "Sha Tin",
+      "date": "24-May-2026",
+      "time": "05:30",
+      "race_name": "05:30Sha Tin (Hong Kong) 24 May 2026",
+      "going": "",
+      "runners": 23,
+      "favourite": "",
+      "odds": 4.5,
+      "url": "https://www.attheraces.com/racecard/Sha-Tin/24-May-2026/0530",
+      "id": "sha-tin_24-may-2026_0530",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Sha Tin",
+      "date": "24-May-2026",
+      "time": "06:00",
+      "race_name": "06:00Sha Tin (Hong Kong) 24 May 2026",
+      "going": "",
+      "runners": 14,
+      "favourite": "",
+      "odds": 2.0,
+      "url": "https://www.attheraces.com/racecard/Sha-Tin/24-May-2026/0600",
+      "id": "sha-tin_24-may-2026_0600",
+      "qualified": false,
+      "filter_fail": [
+        "14 runners",
+        "odds 2.0 too short"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Sha Tin",
+      "date": "24-May-2026",
+      "time": "06:30",
+      "race_name": "NEW CUSTOMER OFFERGET \u00a340 IN FREE BETS",
+      "going": "",
+      "runners": 14,
+      "favourite": "",
+      "odds": 2.0,
+      "url": "https://www.attheraces.com/racecard/Sha-Tin/24-May-2026/0630",
+      "id": "sha-tin_24-may-2026_0630",
+      "qualified": false,
+      "filter_fail": [
+        "14 runners",
+        "odds 2.0 too short"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Sha Tin",
+      "date": "24-May-2026",
+      "time": "07:00",
+      "race_name": "07:00Sha Tin (Hong Kong) 24 May 2026",
+      "going": "",
+      "runners": 14,
+      "favourite": "",
+      "odds": 1.83,
+      "url": "https://www.attheraces.com/racecard/Sha-Tin/24-May-2026/0700",
+      "id": "sha-tin_24-may-2026_0700",
+      "qualified": false,
+      "filter_fail": [
+        "14 runners",
+        "odds 1.83 too short"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Sha Tin",
+      "date": "24-May-2026",
+      "time": "07:30",
+      "race_name": "NEW CUSTOMER OFFERGET A \u00a325 FREE BETPLUS 10 FREE SPINS",
+      "going": "",
+      "runners": 5,
+      "favourite": "",
+      "odds": 4.0,
+      "url": "https://www.attheraces.com/racecard/Sha-Tin/24-May-2026/0730",
+      "id": "sha-tin_24-may-2026_0730",
+      "qualified": true,
+      "filter_fail": [],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Sha Tin",
+      "date": "24-May-2026",
+      "time": "08:00",
+      "race_name": "NEW CUSTOMER OFFERGET A \u00a325 FREE BETPLUS 10 FREE SPINS",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.4,
+      "url": "https://www.attheraces.com/racecard/Sha-Tin/24-May-2026/0800",
+      "id": "sha-tin_24-may-2026_0800",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners",
+        "odds 1.4 too short"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Sha Tin",
+      "date": "24-May-2026",
+      "time": "08:30",
+      "race_name": "NEW CUSTOMER OFFERGET \u00a340 IN FREE BETS",
+      "going": "HG",
+      "runners": 21,
+      "favourite": "",
+      "odds": 1.4,
+      "url": "https://www.attheraces.com/racecard/Sha-Tin/24-May-2026/0830",
+      "id": "sha-tin_24-may-2026_0830",
+      "qualified": false,
+      "filter_fail": [
+        "21 runners",
+        "odds 1.4 too short"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Sha Tin",
+      "date": "24-May-2026",
+      "time": "09:05",
+      "race_name": "NEW CUSTOMER OFFERGET A \u00a325 FREE BETPLUS 10 FREE SPINS",
+      "going": "HG",
+      "runners": 21,
+      "favourite": "",
+      "odds": 1.4,
+      "url": "https://www.attheraces.com/racecard/Sha-Tin/24-May-2026/0905",
+      "id": "sha-tin_24-may-2026_0905",
+      "qualified": false,
+      "filter_fail": [
+        "21 runners",
+        "odds 1.4 too short"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Sha Tin",
+      "date": "24-May-2026",
+      "time": "09:45",
+      "race_name": "09:45Sha Tin (Hong Kong) 24 May 2026",
+      "going": "HG",
+      "runners": 21,
+      "favourite": "",
+      "odds": 1.4,
+      "url": "https://www.attheraces.com/racecard/Sha-Tin/24-May-2026/0945",
+      "id": "sha-tin_24-may-2026_0945",
+      "qualified": false,
+      "filter_fail": [
+        "21 runners",
+        "odds 1.4 too short"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Saint Malo",
+      "date": "24-May-2026",
+      "time": "10:00",
+      "race_name": "Error 403 - Forbidden",
+      "going": "",
+      "runners": null,
+      "favourite": "",
+      "odds": null,
+      "url": "https://www.attheraces.com/racecard/Saint-Malo/24-May-2026/1000",
+      "id": "saint-malo_24-may-2026_1000",
+      "qualified": false,
+      "filter_fail": [
+        "odds unknown"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Vichy",
+      "date": "24-May-2026",
+      "time": "10:15",
+      "race_name": "Error 403 - Forbidden",
+      "going": "",
+      "runners": null,
+      "favourite": "",
+      "odds": null,
+      "url": "https://www.attheraces.com/racecard/Vichy/24-May-2026/1015",
+      "id": "vichy_24-may-2026_1015",
+      "qualified": false,
+      "filter_fail": [
+        "odds unknown"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Sha Tin",
+      "date": "24-May-2026",
+      "time": "10:20",
+      "race_name": "10:20Sha Tin (Hong Kong) 24 May 2026",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.4,
+      "url": "https://www.attheraces.com/racecard/Sha-Tin/24-May-2026/1020",
+      "id": "sha-tin_24-may-2026_1020",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners",
+        "odds 1.4 too short"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Saint Malo",
+      "date": "24-May-2026",
+      "time": "10:30",
+      "race_name": "Error 403 - Forbidden",
+      "going": "",
+      "runners": null,
+      "favourite": "",
+      "odds": null,
+      "url": "https://www.attheraces.com/racecard/Saint-Malo/24-May-2026/1030",
+      "id": "saint-malo_24-may-2026_1030",
+      "qualified": false,
+      "filter_fail": [
+        "odds unknown"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Vichy",
+      "date": "24-May-2026",
+      "time": "10:46",
+      "race_name": "Error 403 - Forbidden",
+      "going": "",
+      "runners": null,
+      "favourite": "",
+      "odds": null,
+      "url": "https://www.attheraces.com/racecard/Vichy/24-May-2026/1046",
+      "id": "vichy_24-may-2026_1046",
+      "qualified": false,
+      "filter_fail": [
+        "odds unknown"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Sha Tin",
+      "date": "24-May-2026",
+      "time": "10:55",
+      "race_name": "10:55Sha Tin (Hong Kong) 24 May 2026",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.4,
+      "url": "https://www.attheraces.com/racecard/Sha-Tin/24-May-2026/1055",
+      "id": "sha-tin_24-may-2026_1055",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners",
+        "odds 1.4 too short"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Saint Malo",
+      "date": "24-May-2026",
+      "time": "11:02",
+      "race_name": "Error 403 - Forbidden",
+      "going": "",
+      "runners": null,
+      "favourite": "",
+      "odds": null,
+      "url": "https://www.attheraces.com/racecard/Saint-Malo/24-May-2026/1102",
+      "id": "saint-malo_24-may-2026_1102",
+      "qualified": false,
+      "filter_fail": [
+        "odds unknown"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Vichy",
+      "date": "24-May-2026",
+      "time": "11:18",
+      "race_name": "NEW CUSTOMER OFFERGET \u00a340 IN FREE BETS",
+      "going": "HG",
+      "runners": 15,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Vichy/24-May-2026/1118",
+      "id": "vichy_24-may-2026_1118",
+      "qualified": false,
+      "filter_fail": [
+        "15 runners",
+        "odds 1.2 too short"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Saint Malo",
+      "date": "24-May-2026",
+      "time": "11:34",
+      "race_name": "NEW CUSTOMER OFFERGET A \u00a325 FREE BETPLUS 10 FREE SPINS",
+      "going": "HG",
+      "runners": 9,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Saint-Malo/24-May-2026/1134",
+      "id": "saint-malo_24-may-2026_1134",
+      "qualified": false,
+      "filter_fail": [
+        "odds 1.2 too short"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Kenilworth",
+      "date": "24-May-2026",
+      "time": "11:45",
+      "race_name": "11:45Kenilworth (RSA) 24 May 2026",
+      "going": "HG",
+      "runners": 10,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Kenilworth/24-May-2026/1145",
+      "id": "kenilworth_24-may-2026_1145",
+      "qualified": false,
+      "filter_fail": [
+        "odds 1.2 too short"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Vichy",
+      "date": "24-May-2026",
+      "time": "11:50",
+      "race_name": "NEW CUSTOMER OFFERGET \u00a340 IN FREE BETS",
+      "going": "HG",
+      "runners": 15,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Vichy/24-May-2026/1150",
+      "id": "vichy_24-may-2026_1150",
+      "qualified": false,
+      "filter_fail": [
+        "15 runners",
+        "odds 1.2 too short"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Saint Malo",
+      "date": "24-May-2026",
+      "time": "12:06",
+      "race_name": "12:06Saint-Malo (France) 24 May 2026",
+      "going": "HG",
+      "runners": 9,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Saint-Malo/24-May-2026/1206",
+      "id": "saint-malo_24-may-2026_1206",
+      "qualified": false,
+      "filter_fail": [
+        "odds 1.2 too short"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Kenilworth",
+      "date": "24-May-2026",
+      "time": "12:20",
+      "race_name": "12:20Kenilworth (RSA) 24 May 2026",
+      "going": "HG",
+      "runners": 11,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Kenilworth/24-May-2026/1220",
+      "id": "kenilworth_24-may-2026_1220",
+      "qualified": false,
+      "filter_fail": [
+        "11 runners",
+        "odds 1.2 too short"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Vichy",
+      "date": "24-May-2026",
+      "time": "12:22",
+      "race_name": "NEW CUSTOMER OFFERGET \u00a340 IN FREE BETS",
+      "going": "HG",
+      "runners": 15,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Vichy/24-May-2026/1222",
+      "id": "vichy_24-may-2026_1222",
+      "qualified": false,
+      "filter_fail": [
+        "15 runners",
+        "odds 1.2 too short"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Saint Malo",
+      "date": "24-May-2026",
+      "time": "12:38",
+      "race_name": "NEW CUSTOMER OFFERGET A \u00a325 FREE BETPLUS 10 FREE SPINS",
+      "going": "HG",
+      "runners": 16,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Saint-Malo/24-May-2026/1238",
+      "id": "saint-malo_24-may-2026_1238",
+      "qualified": false,
+      "filter_fail": [
+        "16 runners",
+        "odds 1.2 too short"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Vichy",
+      "date": "24-May-2026",
+      "time": "12:54",
+      "race_name": "NEW CUSTOMER OFFERGET \u00a340 IN FREE BETS",
+      "going": "HG",
+      "runners": 15,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Vichy/24-May-2026/1254",
+      "id": "vichy_24-may-2026_1254",
+      "qualified": false,
+      "filter_fail": [
+        "15 runners",
+        "odds 1.2 too short"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Kenilworth",
+      "date": "24-May-2026",
+      "time": "12:55",
+      "race_name": "NEW CUSTOMER OFFERGET A \u00a325 FREE BETPLUS 10 FREE SPINS",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Kenilworth/24-May-2026/1255",
+      "id": "kenilworth_24-may-2026_1255",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners",
+        "odds 1.2 too short"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Parislongchamp",
+      "date": "24-May-2026",
+      "time": "12:58",
+      "race_name": "12:58Parislongchamp (France) 24 May 2026",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Parislongchamp/24-May-2026/1258",
+      "id": "parislongchamp_24-may-2026_1258",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners",
+        "odds 1.2 too short"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Saint Malo",
+      "date": "24-May-2026",
+      "time": "13:15",
+      "race_name": "NEW CUSTOMER OFFERGET \u00a340 IN FREE BETS",
+      "going": "HG",
+      "runners": 15,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Saint-Malo/24-May-2026/1315",
+      "id": "saint-malo_24-may-2026_1315",
+      "qualified": false,
+      "filter_fail": [
+        "15 runners",
+        "odds 1.2 too short"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Kenilworth",
+      "date": "24-May-2026",
+      "time": "13:30",
+      "race_name": "NEW CUSTOMER OFFERGET \u00a340 IN FREE BETS",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Kenilworth/24-May-2026/1330",
+      "id": "kenilworth_24-may-2026_1330",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners",
+        "odds 1.2 too short"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Vichy",
+      "date": "24-May-2026",
+      "time": "13:30",
+      "race_name": "NEW CUSTOMER OFFERGET A \u00a325 FREE BETPLUS 10 FREE SPINS",
+      "going": "HG",
+      "runners": 7,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Vichy/24-May-2026/1330",
+      "id": "vichy_24-may-2026_1330",
+      "qualified": false,
+      "filter_fail": [
+        "odds 1.2 too short"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Parislongchamp",
+      "date": "24-May-2026",
+      "time": "13:33",
+      "race_name": "NEW CUSTOMER OFFERGET \u00a340 IN FREE BETS",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Parislongchamp/24-May-2026/1333",
+      "id": "parislongchamp_24-may-2026_1333",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners",
+        "odds 1.2 too short"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Curragh",
+      "date": "24-May-2026",
+      "time": "13:45",
+      "race_name": "Error 403 - Forbidden",
+      "going": "",
+      "runners": null,
+      "favourite": "",
+      "odds": null,
+      "url": "https://www.attheraces.com/racecard/Curragh/24-May-2026/1345",
+      "id": "curragh_24-may-2026_1345",
+      "qualified": false,
+      "filter_fail": [
+        "odds unknown"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Saint Malo",
+      "date": "24-May-2026",
+      "time": "13:50",
+      "race_name": "NEW CUSTOMER OFFERGET \u00a340 IN FREE BETS",
+      "going": "HG",
+      "runners": 15,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Saint-Malo/24-May-2026/1350",
+      "id": "saint-malo_24-may-2026_1350",
+      "qualified": false,
+      "filter_fail": [
+        "15 runners",
+        "odds 1.2 too short"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Fontwell",
+      "date": "24-May-2026",
+      "time": "14:00",
+      "race_name": "Error 403 - Forbidden",
+      "going": "",
+      "runners": null,
+      "favourite": "",
+      "odds": null,
+      "url": "https://www.attheraces.com/racecard/Fontwell/24-May-2026/1400",
+      "id": "fontwell_24-may-2026_1400",
+      "qualified": false,
+      "filter_fail": [
+        "odds unknown"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Kenilworth",
+      "date": "24-May-2026",
+      "time": "14:05",
+      "race_name": "NEW CUSTOMER OFFERGET \u00a340 IN FREE BETS",
+      "going": "HG",
+      "runners": 21,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Kenilworth/24-May-2026/1405",
+      "id": "kenilworth_24-may-2026_1405",
+      "qualified": false,
+      "filter_fail": [
+        "21 runners",
+        "odds 1.2 too short"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Curragh",
+      "date": "24-May-2026",
+      "time": "14:15",
+      "race_name": "Error 403 - Forbidden",
+      "going": "",
+      "runners": null,
+      "favourite": "",
+      "odds": null,
+      "url": "https://www.attheraces.com/racecard/Curragh/24-May-2026/1415",
+      "id": "curragh_24-may-2026_1415",
+      "qualified": false,
+      "filter_fail": [
+        "odds unknown"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Parislongchamp",
+      "date": "24-May-2026",
+      "time": "14:15",
+      "race_name": "14:15Parislongchamp (France) 24 May 2026",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Parislongchamp/24-May-2026/1415",
+      "id": "parislongchamp_24-may-2026_1415",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners",
+        "odds 1.2 too short"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Uttoxeter",
+      "date": "24-May-2026",
+      "time": "14:22",
+      "race_name": "Error 403 - Forbidden",
+      "going": "",
+      "runners": null,
+      "favourite": "",
+      "odds": null,
+      "url": "https://www.attheraces.com/racecard/Uttoxeter/24-May-2026/1422",
+      "id": "uttoxeter_24-may-2026_1422",
+      "qualified": false,
+      "filter_fail": [
+        "odds unknown"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Kelso",
+      "date": "24-May-2026",
+      "time": "14:28",
+      "race_name": "Error 403 - Forbidden",
+      "going": "",
+      "runners": null,
+      "favourite": "",
+      "odds": null,
+      "url": "https://www.attheraces.com/racecard/Kelso/24-May-2026/1428",
+      "id": "kelso_24-may-2026_1428",
+      "qualified": false,
+      "filter_fail": [
+        "odds unknown"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Fontwell",
+      "date": "24-May-2026",
+      "time": "14:35",
+      "race_name": "Error 403 - Forbidden",
+      "going": "",
+      "runners": null,
+      "favourite": "",
+      "odds": null,
+      "url": "https://www.attheraces.com/racecard/Fontwell/24-May-2026/1435",
+      "id": "fontwell_24-may-2026_1435",
+      "qualified": false,
+      "filter_fail": [
+        "odds unknown"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Kenilworth",
+      "date": "24-May-2026",
+      "time": "14:40",
+      "race_name": "NEW CUSTOMER OFFERGET \u00a340 IN FREE BETS",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Kenilworth/24-May-2026/1440",
+      "id": "kenilworth_24-may-2026_1440",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners",
+        "odds 1.2 too short"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Curragh",
+      "date": "24-May-2026",
+      "time": "14:45",
+      "race_name": "Error 403 - Forbidden",
+      "going": "",
+      "runners": null,
+      "favourite": "",
+      "odds": null,
+      "url": "https://www.attheraces.com/racecard/Curragh/24-May-2026/1445",
+      "id": "curragh_24-may-2026_1445",
+      "qualified": false,
+      "filter_fail": [
+        "odds unknown"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Parislongchamp",
+      "date": "24-May-2026",
+      "time": "14:50",
+      "race_name": "NEW CUSTOMER OFFERGET \u00a340 IN FREE BETS",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Parislongchamp/24-May-2026/1450",
+      "id": "parislongchamp_24-may-2026_1450",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners",
+        "odds 1.2 too short"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Uttoxeter",
+      "date": "24-May-2026",
+      "time": "14:52",
+      "race_name": "Error 403 - Forbidden",
+      "going": "",
+      "runners": null,
+      "favourite": "",
+      "odds": null,
+      "url": "https://www.attheraces.com/racecard/Uttoxeter/24-May-2026/1452",
+      "id": "uttoxeter_24-may-2026_1452",
+      "qualified": false,
+      "filter_fail": [
+        "odds unknown"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Kelso",
+      "date": "24-May-2026",
+      "time": "15:03",
+      "race_name": "Error 403 - Forbidden",
+      "going": "",
+      "runners": null,
+      "favourite": "",
+      "odds": null,
+      "url": "https://www.attheraces.com/racecard/Kelso/24-May-2026/1503",
+      "id": "kelso_24-may-2026_1503",
+      "qualified": false,
+      "filter_fail": [
+        "odds unknown"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Chateaubriant",
+      "date": "24-May-2026",
+      "time": "15:07",
+      "race_name": "15:07Chateaubriant (France) 24 May 2026",
+      "going": "HG",
+      "runners": 22,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Chateaubriant/24-May-2026/1507",
+      "id": "chateaubriant_24-may-2026_1507",
+      "qualified": false,
+      "filter_fail": [
+        "22 runners",
+        "odds 1.2 too short"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Fontwell",
+      "date": "24-May-2026",
+      "time": "15:10",
+      "race_name": "Error 403 - Forbidden",
+      "going": "",
+      "runners": null,
+      "favourite": "",
+      "odds": null,
+      "url": "https://www.attheraces.com/racecard/Fontwell/24-May-2026/1510",
+      "id": "fontwell_24-may-2026_1510",
+      "qualified": false,
+      "filter_fail": [
+        "odds unknown"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Kenilworth",
+      "date": "24-May-2026",
+      "time": "15:15",
+      "race_name": "NEW CUSTOMER OFFERGET \u00a340 IN FREE BETS",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Kenilworth/24-May-2026/1515",
+      "id": "kenilworth_24-may-2026_1515",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners",
+        "odds 1.2 too short"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Curragh",
+      "date": "24-May-2026",
+      "time": "15:20",
+      "race_name": "Error 403 - Forbidden",
+      "going": "",
+      "runners": null,
+      "favourite": "",
+      "odds": null,
+      "url": "https://www.attheraces.com/racecard/Curragh/24-May-2026/1520",
+      "id": "curragh_24-may-2026_1520",
+      "qualified": false,
+      "filter_fail": [
+        "odds unknown"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Parislongchamp",
+      "date": "24-May-2026",
+      "time": "15:25",
+      "race_name": "15:25Parislongchamp (France) 24 May 2026",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Parislongchamp/24-May-2026/1525",
+      "id": "parislongchamp_24-may-2026_1525",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners",
+        "odds 1.2 too short"
+      ],
+      "result": "pending",
+      "winner": null
+    }
+  ]
 }
