@@ -173,14 +173,7 @@ def apply_filter(race):
     runners = race.get('runners')
     if runners and runners > 10:
         fails.append(f'{runners} runners')
-    odds = race.get('odds')
-    if odds:
-        if odds < 3.0:
-            fails.append(f'odds {odds} too short')
-        elif odds > 5.0:
-            fails.append(f'odds {odds} too long')
-    else:
-        fails.append('odds unknown')
+    
     if not going_ok(race.get('going', '')):
         fails.append(f'going: {race.get("going")}')
     return len(fails) == 0, fails
