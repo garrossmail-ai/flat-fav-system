@@ -1,4 +1,77 @@
 {
-  "last_updated": "2026-05-29T23:01:01.049377",
-  "races": []
+  "last_updated": "2026-05-30T12:50:19.101905",
+  "races": [
+    {
+      "course": "Chester",
+      "date": "30-May-2026",
+      "time": "13:15",
+      "race_name": "",
+      "going": "Ran",
+      "runners": 11,
+      "favourite": "",
+      "odds": 4.0,
+      "url": "https://www.attheraces.com/racecard/Chester/30-May-2026/1315",
+      "id": "chester_30-may-2026_1315",
+      "qualified": false,
+      "filter_fail": [
+        "11 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Carlisle",
+      "date": "30-May-2026",
+      "time": "13:30",
+      "race_name": "",
+      "going": "Ran",
+      "runners": 14,
+      "favourite": "",
+      "odds": 2.1,
+      "url": "https://www.attheraces.com/racecard/Carlisle/30-May-2026/1330",
+      "id": "carlisle_30-may-2026_1330",
+      "qualified": false,
+      "filter_fail": [
+        "14 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Beverley",
+      "date": "30-May-2026",
+      "time": "15:25",
+      "race_name": "",
+      "going": "HG",
+      "runners": 16,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Beverley/30-May-2026/1525",
+      "id": "beverley_30-may-2026_1525",
+      "qualified": false,
+      "filter_fail": [
+        "16 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Lingfield",
+      "date": "30-May-2026",
+      "time": "19:12",
+      "race_name": "",
+      "going": "HG",
+      "runners": 17,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Lingfield/30-May-2026/1912",
+      "id": "lingfield_30-may-2026_1912",
+      "qualified": false,
+      "filter_fail": [
+        "17 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    }
+  ]
 }
