@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-30T22:16:53.546958",
+  "last_updated": "2026-05-31T14:58:10.606397",
   "races": [
     {
       "course": "Chester",
@@ -69,6 +69,150 @@
       "qualified": false,
       "filter_fail": [
         "17 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Thirsk",
+      "date": "31-May-2026",
+      "time": "16:15",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Thirsk/31-May-2026/1615",
+      "id": "thirsk_31-may-2026_1615",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Thirsk",
+      "date": "31-May-2026",
+      "time": "16:45",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Thirsk/31-May-2026/1645",
+      "id": "thirsk_31-may-2026_1645",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Nottingham",
+      "date": "31-May-2026",
+      "time": "16:55",
+      "race_name": "",
+      "going": "HG",
+      "runners": 21,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Nottingham/31-May-2026/1655",
+      "id": "nottingham_31-may-2026_1655",
+      "qualified": false,
+      "filter_fail": [
+        "21 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Thirsk",
+      "date": "31-May-2026",
+      "time": "17:15",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Thirsk/31-May-2026/1715",
+      "id": "thirsk_31-may-2026_1715",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Nottingham",
+      "date": "31-May-2026",
+      "time": "17:25",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Nottingham/31-May-2026/1725",
+      "id": "nottingham_31-may-2026_1725",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Thirsk",
+      "date": "31-May-2026",
+      "time": "17:45",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Thirsk/31-May-2026/1745",
+      "id": "thirsk_31-may-2026_1745",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Thirsk",
+      "date": "31-May-2026",
+      "time": "18:15",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Thirsk/31-May-2026/1815",
+      "id": "thirsk_31-may-2026_1815",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Thirsk",
+      "date": "31-May-2026",
+      "time": "18:45",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Thirsk/31-May-2026/1845",
+      "id": "thirsk_31-may-2026_1845",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
       ],
       "result": "pending",
       "winner": null
