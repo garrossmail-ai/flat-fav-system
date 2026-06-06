@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-05T22:46:56.815483",
+  "last_updated": "2026-06-06T12:59:02.284864",
   "races": [
     {
       "course": "Chester",
@@ -210,6 +210,78 @@
       "odds": 1.2,
       "url": "https://www.attheraces.com/racecard/Thirsk/31-May-2026/1845",
       "id": "thirsk_31-may-2026_1845",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Epsom Downs",
+      "date": "06-June-2026",
+      "time": "14:40",
+      "race_name": "",
+      "going": "HG",
+      "runners": 17,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Epsom-Downs/06-June-2026/1440",
+      "id": "epsom-downs_06-june-2026_1440",
+      "qualified": false,
+      "filter_fail": [
+        "17 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Doncaster",
+      "date": "06-June-2026",
+      "time": "15:05",
+      "race_name": "",
+      "going": "HG",
+      "runners": 21,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Doncaster/06-June-2026/1505",
+      "id": "doncaster_06-june-2026_1505",
+      "qualified": false,
+      "filter_fail": [
+        "21 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Doncaster",
+      "date": "06-June-2026",
+      "time": "15:45",
+      "race_name": "",
+      "going": "HG",
+      "runners": 22,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Doncaster/06-June-2026/1545",
+      "id": "doncaster_06-june-2026_1545",
+      "qualified": false,
+      "filter_fail": [
+        "22 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Musselburgh",
+      "date": "06-June-2026",
+      "time": "16:45",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Musselburgh/06-June-2026/1645",
+      "id": "musselburgh_06-june-2026_1645",
       "qualified": false,
       "filter_fail": [
         "25 runners"
