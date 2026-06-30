@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-29T20:45:53.479550",
+  "last_updated": "2026-06-30T11:41:11.014385",
   "races": [
     {
       "course": "Chester",
@@ -356,6 +356,42 @@
       "id": "salisbury_24-june-2026_2047",
       "qualified": true,
       "filter_fail": [],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Musselburgh",
+      "date": "30-June-2026",
+      "time": "14:00",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Musselburgh/30-June-2026/1400",
+      "id": "musselburgh_30-june-2026_1400",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Salisbury",
+      "date": "30-June-2026",
+      "time": "14:07",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Salisbury/30-June-2026/1407",
+      "id": "salisbury_30-june-2026_1407",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
       "result": "pending",
       "winner": null
     }
