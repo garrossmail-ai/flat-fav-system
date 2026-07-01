@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-30T20:50:47.304154",
+  "last_updated": "2026-07-01T11:56:12.909487",
   "races": [
     {
       "course": "Chester",
@@ -388,6 +388,78 @@
       "odds": 1.2,
       "url": "https://www.attheraces.com/racecard/Salisbury/30-June-2026/1407",
       "id": "salisbury_30-june-2026_1407",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Thirsk",
+      "date": "01-July-2026",
+      "time": "13:08",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.14,
+      "url": "https://www.attheraces.com/racecard/Thirsk/01-July-2026/1308",
+      "id": "thirsk_01-july-2026_1308",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Thirsk",
+      "date": "01-July-2026",
+      "time": "14:08",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.14,
+      "url": "https://www.attheraces.com/racecard/Thirsk/01-July-2026/1408",
+      "id": "thirsk_01-july-2026_1408",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Epsom Downs",
+      "date": "01-July-2026",
+      "time": "19:32",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.14,
+      "url": "https://www.attheraces.com/racecard/Epsom-Downs/01-July-2026/1932",
+      "id": "epsom-downs_01-july-2026_1932",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Epsom Downs",
+      "date": "01-July-2026",
+      "time": "20:07",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.14,
+      "url": "https://www.attheraces.com/racecard/Epsom-Downs/01-July-2026/2007",
+      "id": "epsom-downs_01-july-2026_2007",
       "qualified": false,
       "filter_fail": [
         "25 runners"
