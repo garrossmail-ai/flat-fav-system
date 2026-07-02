@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-01T20:45:02.993479",
+  "last_updated": "2026-07-02T11:29:52.634826",
   "races": [
     {
       "course": "Chester",
@@ -460,6 +460,60 @@
       "odds": 1.14,
       "url": "https://www.attheraces.com/racecard/Epsom-Downs/01-July-2026/2007",
       "id": "epsom-downs_01-july-2026_2007",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Nottingham",
+      "date": "02-July-2026",
+      "time": "14:00",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Nottingham/02-July-2026/1400",
+      "id": "nottingham_02-july-2026_1400",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Kempton",
+      "date": "02-July-2026",
+      "time": "19:08",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Kempton/02-July-2026/1908",
+      "id": "kempton_02-july-2026_1908",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newbury",
+      "date": "02-July-2026",
+      "time": "20:00",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Newbury/02-July-2026/2000",
+      "id": "newbury_02-july-2026_2000",
       "qualified": false,
       "filter_fail": [
         "25 runners"
