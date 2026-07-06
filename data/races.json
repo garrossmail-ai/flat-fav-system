@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-05T20:05:49.021326",
+  "last_updated": "2026-07-06T12:41:38.251150",
   "races": [
     {
       "course": "Chester",
@@ -553,6 +553,222 @@
       "qualified": false,
       "filter_fail": [
         "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Lingfield",
+      "date": "06-July-2026",
+      "time": "14:15",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Lingfield/06-July-2026/1415",
+      "id": "lingfield_06-july-2026_1415",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Lingfield",
+      "date": "06-July-2026",
+      "time": "14:45",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Lingfield/06-July-2026/1445",
+      "id": "lingfield_06-july-2026_1445",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Lingfield",
+      "date": "06-July-2026",
+      "time": "15:15",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Lingfield/06-July-2026/1515",
+      "id": "lingfield_06-july-2026_1515",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ayr",
+      "date": "06-July-2026",
+      "time": "15:30",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Ayr/06-July-2026/1530",
+      "id": "ayr_06-july-2026_1530",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Lingfield",
+      "date": "06-July-2026",
+      "time": "15:45",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Lingfield/06-July-2026/1545",
+      "id": "lingfield_06-july-2026_1545",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ayr",
+      "date": "06-July-2026",
+      "time": "16:00",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Ayr/06-July-2026/1600",
+      "id": "ayr_06-july-2026_1600",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Lingfield",
+      "date": "06-July-2026",
+      "time": "16:15",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Lingfield/06-July-2026/1615",
+      "id": "lingfield_06-july-2026_1615",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Lingfield",
+      "date": "06-July-2026",
+      "time": "16:50",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Lingfield/06-July-2026/1650",
+      "id": "lingfield_06-july-2026_1650",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Lingfield",
+      "date": "06-July-2026",
+      "time": "17:20",
+      "race_name": "",
+      "going": "HG",
+      "runners": 16,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Lingfield/06-July-2026/1720",
+      "id": "lingfield_06-july-2026_1720",
+      "qualified": false,
+      "filter_fail": [
+        "16 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Lingfield",
+      "date": "06-July-2026",
+      "time": "17:55",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Lingfield/06-July-2026/1755",
+      "id": "lingfield_06-july-2026_1755",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ripon",
+      "date": "06-July-2026",
+      "time": "18:09",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Ripon/06-July-2026/1809",
+      "id": "ripon_06-july-2026_1809",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Wolverhampton",
+      "date": "06-July-2026",
+      "time": "20:30",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Wolverhampton/06-July-2026/2030",
+      "id": "wolverhampton_06-july-2026_2030",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
       ],
       "result": "pending",
       "winner": null
