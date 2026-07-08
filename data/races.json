@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T20:44:34.726892",
+  "last_updated": "2026-07-08T10:59:35.941104",
   "races": [
     {
       "course": "Chester",
@@ -766,6 +766,150 @@
       "odds": 1.2,
       "url": "https://www.attheraces.com/racecard/Wolverhampton/06-July-2026/2030",
       "id": "wolverhampton_06-july-2026_2030",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Catterick",
+      "date": "08-July-2026",
+      "time": "14:00",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Catterick/08-July-2026/1400",
+      "id": "catterick_08-july-2026_1400",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Yarmouth",
+      "date": "08-July-2026",
+      "time": "14:15",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Yarmouth/08-July-2026/1415",
+      "id": "yarmouth_08-july-2026_1415",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Yarmouth",
+      "date": "08-July-2026",
+      "time": "14:45",
+      "race_name": "",
+      "going": "HG",
+      "runners": 21,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Yarmouth/08-July-2026/1445",
+      "id": "yarmouth_08-july-2026_1445",
+      "qualified": false,
+      "filter_fail": [
+        "21 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Yarmouth",
+      "date": "08-July-2026",
+      "time": "16:15",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Yarmouth/08-July-2026/1615",
+      "id": "yarmouth_08-july-2026_1615",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Kempton",
+      "date": "08-July-2026",
+      "time": "17:28",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Kempton/08-July-2026/1728",
+      "id": "kempton_08-july-2026_1728",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Chepstow",
+      "date": "08-July-2026",
+      "time": "19:01",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Chepstow/08-July-2026/1901",
+      "id": "chepstow_08-july-2026_1901",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Chepstow",
+      "date": "08-July-2026",
+      "time": "19:36",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Chepstow/08-July-2026/1936",
+      "id": "chepstow_08-july-2026_1936",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Kempton",
+      "date": "08-July-2026",
+      "time": "20:55",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Kempton/08-July-2026/2055",
+      "id": "kempton_08-july-2026_2055",
       "qualified": false,
       "filter_fail": [
         "25 runners"
