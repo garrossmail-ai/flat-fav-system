@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08T20:15:52.496940",
+  "last_updated": "2026-07-09T11:52:15.278307",
   "races": [
     {
       "course": "Chester",
@@ -913,6 +913,24 @@
       "qualified": false,
       "filter_fail": [
         "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newmarket",
+      "date": "09-July-2026",
+      "time": "13:50",
+      "race_name": "",
+      "going": "HG",
+      "runners": 22,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Newmarket/09-July-2026/1350",
+      "id": "newmarket_09-july-2026_1350",
+      "qualified": false,
+      "filter_fail": [
+        "22 runners"
       ],
       "result": "pending",
       "winner": null
