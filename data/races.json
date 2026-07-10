@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-09T20:41:04.110682",
+  "last_updated": "2026-07-10T11:45:55.510168",
   "races": [
     {
       "course": "Chester",
@@ -931,6 +931,204 @@
       "qualified": false,
       "filter_fail": [
         "22 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newmarket",
+      "date": "10-July-2026",
+      "time": "13:50",
+      "race_name": "",
+      "going": "HG",
+      "runners": 22,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Newmarket/10-July-2026/1350",
+      "id": "newmarket_10-july-2026_1350",
+      "qualified": false,
+      "filter_fail": [
+        "22 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "York",
+      "date": "10-July-2026",
+      "time": "14:10",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/York/10-July-2026/1410",
+      "id": "york_10-july-2026_1410",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "York",
+      "date": "10-July-2026",
+      "time": "14:45",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/York/10-July-2026/1445",
+      "id": "york_10-july-2026_1445",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "York",
+      "date": "10-July-2026",
+      "time": "15:20",
+      "race_name": "",
+      "going": "HG",
+      "runners": 16,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/York/10-July-2026/1520",
+      "id": "york_10-july-2026_1520",
+      "qualified": false,
+      "filter_fail": [
+        "16 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ascot",
+      "date": "10-July-2026",
+      "time": "15:45",
+      "race_name": "",
+      "going": "HG",
+      "runners": 22,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Ascot/10-July-2026/1545",
+      "id": "ascot_10-july-2026_1545",
+      "qualified": false,
+      "filter_fail": [
+        "22 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "York",
+      "date": "10-July-2026",
+      "time": "15:55",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/York/10-July-2026/1555",
+      "id": "york_10-july-2026_1555",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ascot",
+      "date": "10-July-2026",
+      "time": "16:23",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Ascot/10-July-2026/1623",
+      "id": "ascot_10-july-2026_1623",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "York",
+      "date": "10-July-2026",
+      "time": "16:30",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/York/10-July-2026/1630",
+      "id": "york_10-july-2026_1630",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "York",
+      "date": "10-July-2026",
+      "time": "17:05",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/York/10-July-2026/1705",
+      "id": "york_10-july-2026_1705",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newmarket",
+      "date": "10-July-2026",
+      "time": "17:20",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Newmarket/10-July-2026/1720",
+      "id": "newmarket_10-july-2026_1720",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "York",
+      "date": "10-July-2026",
+      "time": "17:40",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/York/10-July-2026/1740",
+      "id": "york_10-july-2026_1740",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
       ],
       "result": "pending",
       "winner": null
