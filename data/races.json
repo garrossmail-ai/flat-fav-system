@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-10T20:12:49.931387",
+  "last_updated": "2026-07-11T10:10:58.685521",
   "races": [
     {
       "course": "Chester",
@@ -1126,6 +1126,672 @@
       "odds": 1.2,
       "url": "https://www.attheraces.com/racecard/York/10-July-2026/1740",
       "id": "york_10-july-2026_1740",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newmarket",
+      "date": "11-July-2026",
+      "time": "13:40",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Newmarket/11-July-2026/1340",
+      "id": "newmarket_11-july-2026_1340",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ascot",
+      "date": "11-July-2026",
+      "time": "13:55",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Ascot/11-July-2026/1355",
+      "id": "ascot_11-july-2026_1355",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "York",
+      "date": "11-July-2026",
+      "time": "14:02",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/York/11-July-2026/1402",
+      "id": "york_11-july-2026_1402",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Chester",
+      "date": "11-July-2026",
+      "time": "14:10",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Chester/11-July-2026/1410",
+      "id": "chester_11-july-2026_1410",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newmarket",
+      "date": "11-July-2026",
+      "time": "14:15",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Newmarket/11-July-2026/1415",
+      "id": "newmarket_11-july-2026_1415",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ascot",
+      "date": "11-July-2026",
+      "time": "14:27",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Ascot/11-July-2026/1427",
+      "id": "ascot_11-july-2026_1427",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "York",
+      "date": "11-July-2026",
+      "time": "14:39",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/York/11-July-2026/1439",
+      "id": "york_11-july-2026_1439",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Chester",
+      "date": "11-July-2026",
+      "time": "14:45",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Chester/11-July-2026/1445",
+      "id": "chester_11-july-2026_1445",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newmarket",
+      "date": "11-July-2026",
+      "time": "14:52",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Newmarket/11-July-2026/1452",
+      "id": "newmarket_11-july-2026_1452",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ascot",
+      "date": "11-July-2026",
+      "time": "15:02",
+      "race_name": "",
+      "going": "HG",
+      "runners": 22,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Ascot/11-July-2026/1502",
+      "id": "ascot_11-july-2026_1502",
+      "qualified": false,
+      "filter_fail": [
+        "22 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "York",
+      "date": "11-July-2026",
+      "time": "15:12",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.14,
+      "url": "https://www.attheraces.com/racecard/York/11-July-2026/1512",
+      "id": "york_11-july-2026_1512",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Chester",
+      "date": "11-July-2026",
+      "time": "15:18",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Chester/11-July-2026/1518",
+      "id": "chester_11-july-2026_1518",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newmarket",
+      "date": "11-July-2026",
+      "time": "15:25",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Newmarket/11-July-2026/1525",
+      "id": "newmarket_11-july-2026_1525",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ascot",
+      "date": "11-July-2026",
+      "time": "15:34",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Ascot/11-July-2026/1534",
+      "id": "ascot_11-july-2026_1534",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "York",
+      "date": "11-July-2026",
+      "time": "15:45",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/York/11-July-2026/1545",
+      "id": "york_11-july-2026_1545",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Chester",
+      "date": "11-July-2026",
+      "time": "15:52",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Chester/11-July-2026/1552",
+      "id": "chester_11-july-2026_1552",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newmarket",
+      "date": "11-July-2026",
+      "time": "16:00",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Newmarket/11-July-2026/1600",
+      "id": "newmarket_11-july-2026_1600",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ascot",
+      "date": "11-July-2026",
+      "time": "16:12",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Ascot/11-July-2026/1612",
+      "id": "ascot_11-july-2026_1612",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "York",
+      "date": "11-July-2026",
+      "time": "16:20",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/York/11-July-2026/1620",
+      "id": "york_11-july-2026_1620",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Chester",
+      "date": "11-July-2026",
+      "time": "16:24",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Chester/11-July-2026/1624",
+      "id": "chester_11-july-2026_1624",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newmarket",
+      "date": "11-July-2026",
+      "time": "16:35",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Newmarket/11-July-2026/1635",
+      "id": "newmarket_11-july-2026_1635",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ascot",
+      "date": "11-July-2026",
+      "time": "16:45",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Ascot/11-July-2026/1645",
+      "id": "ascot_11-july-2026_1645",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "York",
+      "date": "11-July-2026",
+      "time": "16:55",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/York/11-July-2026/1655",
+      "id": "york_11-july-2026_1655",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Chester",
+      "date": "11-July-2026",
+      "time": "17:00",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Chester/11-July-2026/1700",
+      "id": "chester_11-july-2026_1700",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Salisbury",
+      "date": "11-July-2026",
+      "time": "17:05",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Salisbury/11-July-2026/1705",
+      "id": "salisbury_11-july-2026_1705",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ascot",
+      "date": "11-July-2026",
+      "time": "17:20",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Ascot/11-July-2026/1720",
+      "id": "ascot_11-july-2026_1720",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "York",
+      "date": "11-July-2026",
+      "time": "17:30",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/York/11-July-2026/1730",
+      "id": "york_11-july-2026_1730",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Chester",
+      "date": "11-July-2026",
+      "time": "17:32",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Chester/11-July-2026/1732",
+      "id": "chester_11-july-2026_1732",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Salisbury",
+      "date": "11-July-2026",
+      "time": "17:36",
+      "race_name": "",
+      "going": "HG",
+      "runners": 21,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Salisbury/11-July-2026/1736",
+      "id": "salisbury_11-july-2026_1736",
+      "qualified": false,
+      "filter_fail": [
+        "21 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Hamilton",
+      "date": "11-July-2026",
+      "time": "17:40",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Hamilton/11-July-2026/1740",
+      "id": "hamilton_11-july-2026_1740",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Salisbury",
+      "date": "11-July-2026",
+      "time": "18:08",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Salisbury/11-July-2026/1808",
+      "id": "salisbury_11-july-2026_1808",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Hamilton",
+      "date": "11-July-2026",
+      "time": "18:15",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Hamilton/11-July-2026/1815",
+      "id": "hamilton_11-july-2026_1815",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Hamilton",
+      "date": "11-July-2026",
+      "time": "18:50",
+      "race_name": "",
+      "going": "HG",
+      "runners": 22,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Hamilton/11-July-2026/1850",
+      "id": "hamilton_11-july-2026_1850",
+      "qualified": false,
+      "filter_fail": [
+        "22 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Salisbury",
+      "date": "11-July-2026",
+      "time": "19:10",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Salisbury/11-July-2026/1910",
+      "id": "salisbury_11-july-2026_1910",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Hamilton",
+      "date": "11-July-2026",
+      "time": "19:20",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Hamilton/11-July-2026/1920",
+      "id": "hamilton_11-july-2026_1920",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Salisbury",
+      "date": "11-July-2026",
+      "time": "19:40",
+      "race_name": "",
+      "going": "HG",
+      "runners": 14,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Salisbury/11-July-2026/1940",
+      "id": "salisbury_11-july-2026_1940",
+      "qualified": false,
+      "filter_fail": [
+        "14 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Hamilton",
+      "date": "11-July-2026",
+      "time": "20:50",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Hamilton/11-July-2026/2050",
+      "id": "hamilton_11-july-2026_2050",
       "qualified": false,
       "filter_fail": [
         "25 runners"
