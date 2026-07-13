@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12T20:02:07.201226",
+  "last_updated": "2026-07-13T11:56:29.091379",
   "races": [
     {
       "course": "Chester",
@@ -1795,6 +1795,366 @@
       "qualified": false,
       "filter_fail": [
         "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ayr",
+      "date": "13-July-2026",
+      "time": "14:00",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Ayr/13-July-2026/1400",
+      "id": "ayr_13-july-2026_1400",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ayr",
+      "date": "13-July-2026",
+      "time": "14:30",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Ayr/13-July-2026/1430",
+      "id": "ayr_13-july-2026_1430",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ayr",
+      "date": "13-July-2026",
+      "time": "15:00",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Ayr/13-July-2026/1500",
+      "id": "ayr_13-july-2026_1500",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ayr",
+      "date": "13-July-2026",
+      "time": "15:30",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Ayr/13-July-2026/1530",
+      "id": "ayr_13-july-2026_1530",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ayr",
+      "date": "13-July-2026",
+      "time": "16:00",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Ayr/13-July-2026/1600",
+      "id": "ayr_13-july-2026_1600",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ayr",
+      "date": "13-July-2026",
+      "time": "16:30",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Ayr/13-July-2026/1630",
+      "id": "ayr_13-july-2026_1630",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Lingfield",
+      "date": "13-July-2026",
+      "time": "17:10",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Lingfield/13-July-2026/1710",
+      "id": "lingfield_13-july-2026_1710",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Windsor",
+      "date": "13-July-2026",
+      "time": "17:20",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.4,
+      "url": "https://www.attheraces.com/racecard/Windsor/13-July-2026/1720",
+      "id": "windsor_13-july-2026_1720",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Lingfield",
+      "date": "13-July-2026",
+      "time": "17:40",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Lingfield/13-July-2026/1740",
+      "id": "lingfield_13-july-2026_1740",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Windsor",
+      "date": "13-July-2026",
+      "time": "17:50",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.14,
+      "url": "https://www.attheraces.com/racecard/Windsor/13-July-2026/1750",
+      "id": "windsor_13-july-2026_1750",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Lingfield",
+      "date": "13-July-2026",
+      "time": "18:10",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Lingfield/13-July-2026/1810",
+      "id": "lingfield_13-july-2026_1810",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Windsor",
+      "date": "13-July-2026",
+      "time": "18:20",
+      "race_name": "",
+      "going": "HG",
+      "runners": 20,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Windsor/13-July-2026/1820",
+      "id": "windsor_13-july-2026_1820",
+      "qualified": false,
+      "filter_fail": [
+        "20 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Lingfield",
+      "date": "13-July-2026",
+      "time": "18:40",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Lingfield/13-July-2026/1840",
+      "id": "lingfield_13-july-2026_1840",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Lingfield",
+      "date": "13-July-2026",
+      "time": "19:10",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Lingfield/13-July-2026/1910",
+      "id": "lingfield_13-july-2026_1910",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Windsor",
+      "date": "13-July-2026",
+      "time": "19:20",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Windsor/13-July-2026/1920",
+      "id": "windsor_13-july-2026_1920",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Windsor",
+      "date": "13-July-2026",
+      "time": "19:50",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Windsor/13-July-2026/1950",
+      "id": "windsor_13-july-2026_1950",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Lingfield",
+      "date": "13-July-2026",
+      "time": "20:10",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Lingfield/13-July-2026/2010",
+      "id": "lingfield_13-july-2026_2010",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Windsor",
+      "date": "13-July-2026",
+      "time": "20:20",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Windsor/13-July-2026/2020",
+      "id": "windsor_13-july-2026_2020",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Lingfield",
+      "date": "13-July-2026",
+      "time": "20:40",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Lingfield/13-July-2026/2040",
+      "id": "lingfield_13-july-2026_2040",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Windsor",
+      "date": "13-July-2026",
+      "time": "20:50",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Windsor/13-July-2026/2050",
+      "id": "windsor_13-july-2026_2050",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
       ],
       "result": "pending",
       "winner": null
