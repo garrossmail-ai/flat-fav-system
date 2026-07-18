@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17T19:58:05.500759",
+  "last_updated": "2026-07-18T10:14:46.942423",
   "races": [
     {
       "course": "Chester",
@@ -3917,6 +3917,528 @@
       "qualified": false,
       "filter_fail": [
         "22 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newbury",
+      "date": "18-July-2026",
+      "time": "13:55",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Newbury/18-July-2026/1355",
+      "id": "newbury_18-july-2026_1355",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newbury",
+      "date": "18-July-2026",
+      "time": "14:25",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Newbury/18-July-2026/1425",
+      "id": "newbury_18-july-2026_1425",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newmarket",
+      "date": "18-July-2026",
+      "time": "14:30",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Newmarket/18-July-2026/1430",
+      "id": "newmarket_18-july-2026_1430",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newbury",
+      "date": "18-July-2026",
+      "time": "15:02",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Newbury/18-July-2026/1502",
+      "id": "newbury_18-july-2026_1502",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newmarket",
+      "date": "18-July-2026",
+      "time": "15:05",
+      "race_name": "",
+      "going": "HG",
+      "runners": 21,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Newmarket/18-July-2026/1505",
+      "id": "newmarket_18-july-2026_1505",
+      "qualified": false,
+      "filter_fail": [
+        "21 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ripon",
+      "date": "18-July-2026",
+      "time": "15:15",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Ripon/18-July-2026/1515",
+      "id": "ripon_18-july-2026_1515",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newbury",
+      "date": "18-July-2026",
+      "time": "15:37",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Newbury/18-July-2026/1537",
+      "id": "newbury_18-july-2026_1537",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ripon",
+      "date": "18-July-2026",
+      "time": "15:53",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Ripon/18-July-2026/1553",
+      "id": "ripon_18-july-2026_1553",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newbury",
+      "date": "18-July-2026",
+      "time": "16:12",
+      "race_name": "",
+      "going": "HG",
+      "runners": 19,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Newbury/18-July-2026/1612",
+      "id": "newbury_18-july-2026_1612",
+      "qualified": false,
+      "filter_fail": [
+        "19 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newmarket",
+      "date": "18-July-2026",
+      "time": "16:17",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Newmarket/18-July-2026/1617",
+      "id": "newmarket_18-july-2026_1617",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ripon",
+      "date": "18-July-2026",
+      "time": "16:25",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Ripon/18-July-2026/1625",
+      "id": "ripon_18-july-2026_1625",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newbury",
+      "date": "18-July-2026",
+      "time": "16:47",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Newbury/18-July-2026/1647",
+      "id": "newbury_18-july-2026_1647",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newmarket",
+      "date": "18-July-2026",
+      "time": "16:52",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Newmarket/18-July-2026/1652",
+      "id": "newmarket_18-july-2026_1652",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ripon",
+      "date": "18-July-2026",
+      "time": "17:03",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Ripon/18-July-2026/1703",
+      "id": "ripon_18-july-2026_1703",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newbury",
+      "date": "18-July-2026",
+      "time": "17:20",
+      "race_name": "",
+      "going": "HG",
+      "runners": 22,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Newbury/18-July-2026/1720",
+      "id": "newbury_18-july-2026_1720",
+      "qualified": false,
+      "filter_fail": [
+        "22 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newmarket",
+      "date": "18-July-2026",
+      "time": "17:25",
+      "race_name": "",
+      "going": "HG",
+      "runners": 22,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Newmarket/18-July-2026/1725",
+      "id": "newmarket_18-july-2026_1725",
+      "qualified": false,
+      "filter_fail": [
+        "22 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ripon",
+      "date": "18-July-2026",
+      "time": "17:35",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Ripon/18-July-2026/1735",
+      "id": "ripon_18-july-2026_1735",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Doncaster",
+      "date": "18-July-2026",
+      "time": "17:40",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Doncaster/18-July-2026/1740",
+      "id": "doncaster_18-july-2026_1740",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Nottingham",
+      "date": "18-July-2026",
+      "time": "17:55",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Nottingham/18-July-2026/1755",
+      "id": "nottingham_18-july-2026_1755",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Doncaster",
+      "date": "18-July-2026",
+      "time": "18:15",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Doncaster/18-July-2026/1815",
+      "id": "doncaster_18-july-2026_1815",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Nottingham",
+      "date": "18-July-2026",
+      "time": "18:30",
+      "race_name": "",
+      "going": "HG",
+      "runners": 22,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Nottingham/18-July-2026/1830",
+      "id": "nottingham_18-july-2026_1830",
+      "qualified": false,
+      "filter_fail": [
+        "22 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Doncaster",
+      "date": "18-July-2026",
+      "time": "18:45",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Doncaster/18-July-2026/1845",
+      "id": "doncaster_18-july-2026_1845",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Nottingham",
+      "date": "18-July-2026",
+      "time": "19:00",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Nottingham/18-July-2026/1900",
+      "id": "nottingham_18-july-2026_1900",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Doncaster",
+      "date": "18-July-2026",
+      "time": "19:15",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Doncaster/18-July-2026/1915",
+      "id": "doncaster_18-july-2026_1915",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Nottingham",
+      "date": "18-July-2026",
+      "time": "19:33",
+      "race_name": "",
+      "going": "HG",
+      "runners": 16,
+      "favourite": "",
+      "odds": 1.4,
+      "url": "https://www.attheraces.com/racecard/Nottingham/18-July-2026/1933",
+      "id": "nottingham_18-july-2026_1933",
+      "qualified": false,
+      "filter_fail": [
+        "16 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Doncaster",
+      "date": "18-July-2026",
+      "time": "19:50",
+      "race_name": "",
+      "going": "HG",
+      "runners": 16,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Doncaster/18-July-2026/1950",
+      "id": "doncaster_18-july-2026_1950",
+      "qualified": false,
+      "filter_fail": [
+        "16 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Nottingham",
+      "date": "18-July-2026",
+      "time": "20:08",
+      "race_name": "",
+      "going": "HG",
+      "runners": 21,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Nottingham/18-July-2026/2008",
+      "id": "nottingham_18-july-2026_2008",
+      "qualified": false,
+      "filter_fail": [
+        "21 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Nottingham",
+      "date": "18-July-2026",
+      "time": "20:43",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Nottingham/18-July-2026/2043",
+      "id": "nottingham_18-july-2026_2043",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Doncaster",
+      "date": "18-July-2026",
+      "time": "21:00",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.4,
+      "url": "https://www.attheraces.com/racecard/Doncaster/18-July-2026/2100",
+      "id": "doncaster_18-july-2026_2100",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
       ],
       "result": "pending",
       "winner": null
