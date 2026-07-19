@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18T19:58:05.960428",
+  "last_updated": "2026-07-19T10:22:19.696575",
   "races": [
     {
       "course": "Chester",
@@ -4436,6 +4436,114 @@
       "odds": 1.4,
       "url": "https://www.attheraces.com/racecard/Doncaster/18-July-2026/2100",
       "id": "doncaster_18-july-2026_2100",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Redcar",
+      "date": "19-July-2026",
+      "time": "14:23",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Redcar/19-July-2026/1423",
+      "id": "redcar_19-july-2026_1423",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Redcar",
+      "date": "19-July-2026",
+      "time": "14:58",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.36,
+      "url": "https://www.attheraces.com/racecard/Redcar/19-July-2026/1458",
+      "id": "redcar_19-july-2026_1458",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Redcar",
+      "date": "19-July-2026",
+      "time": "15:33",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Redcar/19-July-2026/1533",
+      "id": "redcar_19-july-2026_1533",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Redcar",
+      "date": "19-July-2026",
+      "time": "16:08",
+      "race_name": "",
+      "going": "HG",
+      "runners": 22,
+      "favourite": "",
+      "odds": 1.4,
+      "url": "https://www.attheraces.com/racecard/Redcar/19-July-2026/1608",
+      "id": "redcar_19-july-2026_1608",
+      "qualified": false,
+      "filter_fail": [
+        "22 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Redcar",
+      "date": "19-July-2026",
+      "time": "16:43",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Redcar/19-July-2026/1643",
+      "id": "redcar_19-july-2026_1643",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Redcar",
+      "date": "19-July-2026",
+      "time": "17:17",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Redcar/19-July-2026/1717",
+      "id": "redcar_19-july-2026_1717",
       "qualified": false,
       "filter_fail": [
         "25 runners"
