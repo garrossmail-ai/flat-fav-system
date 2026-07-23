@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22T20:05:50.533674",
+  "last_updated": "2026-07-23T11:05:24.579355",
   "races": [
     {
       "course": "Chester",
@@ -5188,6 +5188,580 @@
       "odds": 4.0,
       "url": "https://www.attheraces.com/racecard/Musselburgh/21-July-2026/1700",
       "id": "musselburgh_21-july-2026_1700",
+      "qualified": true,
+      "filter_fail": [],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Sandown",
+      "date": "23-July-2026",
+      "time": "13:55",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Sandown/23-July-2026/1355",
+      "id": "sandown_23-july-2026_1355",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Doncaster",
+      "date": "23-July-2026",
+      "time": "14:10",
+      "race_name": "",
+      "going": "HG",
+      "runners": 19,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Doncaster/23-July-2026/1410",
+      "id": "doncaster_23-july-2026_1410",
+      "qualified": false,
+      "filter_fail": [
+        "19 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Sandown",
+      "date": "23-July-2026",
+      "time": "14:25",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Sandown/23-July-2026/1425",
+      "id": "sandown_23-july-2026_1425",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Doncaster",
+      "date": "23-July-2026",
+      "time": "14:40",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.29,
+      "url": "https://www.attheraces.com/racecard/Doncaster/23-July-2026/1440",
+      "id": "doncaster_23-july-2026_1440",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Sandown",
+      "date": "23-July-2026",
+      "time": "14:55",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Sandown/23-July-2026/1455",
+      "id": "sandown_23-july-2026_1455",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Doncaster",
+      "date": "23-July-2026",
+      "time": "15:10",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Doncaster/23-July-2026/1510",
+      "id": "doncaster_23-july-2026_1510",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Sandown",
+      "date": "23-July-2026",
+      "time": "15:30",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Sandown/23-July-2026/1530",
+      "id": "sandown_23-july-2026_1530",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Sandown",
+      "date": "23-July-2026",
+      "time": "16:07",
+      "race_name": "",
+      "going": "HG",
+      "runners": 22,
+      "favourite": "",
+      "odds": 1.4,
+      "url": "https://www.attheraces.com/racecard/Sandown/23-July-2026/1607",
+      "id": "sandown_23-july-2026_1607",
+      "qualified": false,
+      "filter_fail": [
+        "22 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Doncaster",
+      "date": "23-July-2026",
+      "time": "16:15",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Doncaster/23-July-2026/1615",
+      "id": "doncaster_23-july-2026_1615",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Sandown",
+      "date": "23-July-2026",
+      "time": "16:42",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Sandown/23-July-2026/1642",
+      "id": "sandown_23-july-2026_1642",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Doncaster",
+      "date": "23-July-2026",
+      "time": "16:48",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Doncaster/23-July-2026/1648",
+      "id": "doncaster_23-july-2026_1648",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Southwell",
+      "date": "23-July-2026",
+      "time": "16:53",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Southwell/23-July-2026/1653",
+      "id": "southwell_23-july-2026_1653",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Sandown",
+      "date": "23-July-2026",
+      "time": "17:17",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Sandown/23-July-2026/1717",
+      "id": "sandown_23-july-2026_1717",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Doncaster",
+      "date": "23-July-2026",
+      "time": "17:23",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Doncaster/23-July-2026/1723",
+      "id": "doncaster_23-july-2026_1723",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Southwell",
+      "date": "23-July-2026",
+      "time": "17:28",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Southwell/23-July-2026/1728",
+      "id": "southwell_23-july-2026_1728",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Yarmouth",
+      "date": "23-July-2026",
+      "time": "17:39",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Yarmouth/23-July-2026/1739",
+      "id": "yarmouth_23-july-2026_1739",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newbury",
+      "date": "23-July-2026",
+      "time": "17:55",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Newbury/23-July-2026/1755",
+      "id": "newbury_23-july-2026_1755",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Southwell",
+      "date": "23-July-2026",
+      "time": "18:01",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Southwell/23-July-2026/1801",
+      "id": "southwell_23-july-2026_1801",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Yarmouth",
+      "date": "23-July-2026",
+      "time": "18:14",
+      "race_name": "",
+      "going": "HG",
+      "runners": 15,
+      "favourite": "",
+      "odds": 1.4,
+      "url": "https://www.attheraces.com/racecard/Yarmouth/23-July-2026/1814",
+      "id": "yarmouth_23-july-2026_1814",
+      "qualified": false,
+      "filter_fail": [
+        "15 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newbury",
+      "date": "23-July-2026",
+      "time": "18:30",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Newbury/23-July-2026/1830",
+      "id": "newbury_23-july-2026_1830",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Southwell",
+      "date": "23-July-2026",
+      "time": "18:36",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Southwell/23-July-2026/1836",
+      "id": "southwell_23-july-2026_1836",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Yarmouth",
+      "date": "23-July-2026",
+      "time": "18:49",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Yarmouth/23-July-2026/1849",
+      "id": "yarmouth_23-july-2026_1849",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newbury",
+      "date": "23-July-2026",
+      "time": "19:05",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Newbury/23-July-2026/1905",
+      "id": "newbury_23-july-2026_1905",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Yarmouth",
+      "date": "23-July-2026",
+      "time": "19:24",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Yarmouth/23-July-2026/1924",
+      "id": "yarmouth_23-july-2026_1924",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Southwell",
+      "date": "23-July-2026",
+      "time": "19:46",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Southwell/23-July-2026/1946",
+      "id": "southwell_23-july-2026_1946",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Yarmouth",
+      "date": "23-July-2026",
+      "time": "19:59",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Yarmouth/23-July-2026/1959",
+      "id": "yarmouth_23-july-2026_1959",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newbury",
+      "date": "23-July-2026",
+      "time": "20:15",
+      "race_name": "",
+      "going": "HG",
+      "runners": 17,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Newbury/23-July-2026/2015",
+      "id": "newbury_23-july-2026_2015",
+      "qualified": false,
+      "filter_fail": [
+        "17 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Southwell",
+      "date": "23-July-2026",
+      "time": "20:21",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Southwell/23-July-2026/2021",
+      "id": "southwell_23-july-2026_2021",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Yarmouth",
+      "date": "23-July-2026",
+      "time": "20:34",
+      "race_name": "",
+      "going": "HG",
+      "runners": 15,
+      "favourite": "",
+      "odds": 1.4,
+      "url": "https://www.attheraces.com/racecard/Yarmouth/23-July-2026/2034",
+      "id": "yarmouth_23-july-2026_2034",
+      "qualified": false,
+      "filter_fail": [
+        "15 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newbury",
+      "date": "23-July-2026",
+      "time": "20:48",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Newbury/23-July-2026/2048",
+      "id": "newbury_23-july-2026_2048",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Southwell",
+      "date": "23-July-2026",
+      "time": "20:56",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Southwell/23-July-2026/2056",
+      "id": "southwell_23-july-2026_2056",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Chelmsford City",
+      "date": "23-July-2026",
+      "time": "19:11",
+      "race_name": "",
+      "going": "",
+      "runners": 3,
+      "favourite": "",
+      "odds": 1.5,
+      "url": "https://www.attheraces.com/racecard/Chelmsford-City/23-July-2026/1911",
+      "id": "chelmsford-city_23-july-2026_1911",
       "qualified": true,
       "filter_fail": [],
       "result": "pending",
