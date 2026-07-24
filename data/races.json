@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23T20:07:01.346017",
+  "last_updated": "2026-07-24T10:58:41.414255",
   "races": [
     {
       "course": "Chester",
@@ -5764,6 +5764,528 @@
       "id": "chelmsford-city_23-july-2026_1911",
       "qualified": true,
       "filter_fail": [],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ascot",
+      "date": "24-July-2026",
+      "time": "14:20",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Ascot/24-July-2026/1420",
+      "id": "ascot_24-july-2026_1420",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Thirsk",
+      "date": "24-July-2026",
+      "time": "14:30",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Thirsk/24-July-2026/1430",
+      "id": "thirsk_24-july-2026_1430",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ascot",
+      "date": "24-July-2026",
+      "time": "14:55",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Ascot/24-July-2026/1455",
+      "id": "ascot_24-july-2026_1455",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Thirsk",
+      "date": "24-July-2026",
+      "time": "15:05",
+      "race_name": "",
+      "going": "HG",
+      "runners": 22,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Thirsk/24-July-2026/1505",
+      "id": "thirsk_24-july-2026_1505",
+      "qualified": false,
+      "filter_fail": [
+        "22 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ascot",
+      "date": "24-July-2026",
+      "time": "15:30",
+      "race_name": "",
+      "going": "HG",
+      "runners": 18,
+      "favourite": "",
+      "odds": 1.4,
+      "url": "https://www.attheraces.com/racecard/Ascot/24-July-2026/1530",
+      "id": "ascot_24-july-2026_1530",
+      "qualified": false,
+      "filter_fail": [
+        "18 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Thirsk",
+      "date": "24-July-2026",
+      "time": "15:40",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Thirsk/24-July-2026/1540",
+      "id": "thirsk_24-july-2026_1540",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ascot",
+      "date": "24-July-2026",
+      "time": "16:05",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Ascot/24-July-2026/1605",
+      "id": "ascot_24-july-2026_1605",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Thirsk",
+      "date": "24-July-2026",
+      "time": "16:18",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Thirsk/24-July-2026/1618",
+      "id": "thirsk_24-july-2026_1618",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ascot",
+      "date": "24-July-2026",
+      "time": "16:40",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Ascot/24-July-2026/1640",
+      "id": "ascot_24-july-2026_1640",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Thirsk",
+      "date": "24-July-2026",
+      "time": "16:53",
+      "race_name": "",
+      "going": "HG",
+      "runners": 19,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Thirsk/24-July-2026/1653",
+      "id": "thirsk_24-july-2026_1653",
+      "qualified": false,
+      "filter_fail": [
+        "19 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ascot",
+      "date": "24-July-2026",
+      "time": "17:12",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Ascot/24-July-2026/1712",
+      "id": "ascot_24-july-2026_1712",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Chepstow",
+      "date": "24-July-2026",
+      "time": "17:18",
+      "race_name": "",
+      "going": "HG",
+      "runners": 18,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Chepstow/24-July-2026/1718",
+      "id": "chepstow_24-july-2026_1718",
+      "qualified": false,
+      "filter_fail": [
+        "18 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Thirsk",
+      "date": "24-July-2026",
+      "time": "17:27",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Thirsk/24-July-2026/1727",
+      "id": "thirsk_24-july-2026_1727",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "York",
+      "date": "24-July-2026",
+      "time": "17:32",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/York/24-July-2026/1732",
+      "id": "york_24-july-2026_1732",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Sandown",
+      "date": "24-July-2026",
+      "time": "17:47",
+      "race_name": "",
+      "going": "HG",
+      "runners": 22,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Sandown/24-July-2026/1747",
+      "id": "sandown_24-july-2026_1747",
+      "qualified": false,
+      "filter_fail": [
+        "22 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Chepstow",
+      "date": "24-July-2026",
+      "time": "17:52",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Chepstow/24-July-2026/1752",
+      "id": "chepstow_24-july-2026_1752",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "York",
+      "date": "24-July-2026",
+      "time": "18:05",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/York/24-July-2026/1805",
+      "id": "york_24-july-2026_1805",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Sandown",
+      "date": "24-July-2026",
+      "time": "18:20",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Sandown/24-July-2026/1820",
+      "id": "sandown_24-july-2026_1820",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Chepstow",
+      "date": "24-July-2026",
+      "time": "18:26",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Chepstow/24-July-2026/1826",
+      "id": "chepstow_24-july-2026_1826",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "York",
+      "date": "24-July-2026",
+      "time": "18:40",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/York/24-July-2026/1840",
+      "id": "york_24-july-2026_1840",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Sandown",
+      "date": "24-July-2026",
+      "time": "18:55",
+      "race_name": "",
+      "going": "HG",
+      "runners": 21,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Sandown/24-July-2026/1855",
+      "id": "sandown_24-july-2026_1855",
+      "qualified": false,
+      "filter_fail": [
+        "21 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Chepstow",
+      "date": "24-July-2026",
+      "time": "19:01",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Chepstow/24-July-2026/1901",
+      "id": "chepstow_24-july-2026_1901",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "York",
+      "date": "24-July-2026",
+      "time": "19:15",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/York/24-July-2026/1915",
+      "id": "york_24-july-2026_1915",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Sandown",
+      "date": "24-July-2026",
+      "time": "19:30",
+      "race_name": "",
+      "going": "HG",
+      "runners": 22,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Sandown/24-July-2026/1930",
+      "id": "sandown_24-july-2026_1930",
+      "qualified": false,
+      "filter_fail": [
+        "22 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Chepstow",
+      "date": "24-July-2026",
+      "time": "19:36",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Chepstow/24-July-2026/1936",
+      "id": "chepstow_24-july-2026_1936",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Sandown",
+      "date": "24-July-2026",
+      "time": "20:05",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Sandown/24-July-2026/2005",
+      "id": "sandown_24-july-2026_2005",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Chepstow",
+      "date": "24-July-2026",
+      "time": "20:11",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Chepstow/24-July-2026/2011",
+      "id": "chepstow_24-july-2026_2011",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "York",
+      "date": "24-July-2026",
+      "time": "20:25",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/York/24-July-2026/2025",
+      "id": "york_24-july-2026_2025",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Chepstow",
+      "date": "24-July-2026",
+      "time": "20:46",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Chepstow/24-July-2026/2046",
+      "id": "chepstow_24-july-2026_2046",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
       "result": "pending",
       "winner": null
     }
