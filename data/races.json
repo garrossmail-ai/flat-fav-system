@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-25T20:04:54.392385",
+  "last_updated": "2026-07-26T10:39:47.536205",
   "races": [
     {
       "course": "Chester",
@@ -7023,6 +7023,114 @@
       "qualified": false,
       "filter_fail": [
         "20 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Pontefract",
+      "date": "26-July-2026",
+      "time": "14:30",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.17,
+      "url": "https://www.attheraces.com/racecard/Pontefract/26-July-2026/1430",
+      "id": "pontefract_26-july-2026_1430",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Pontefract",
+      "date": "26-July-2026",
+      "time": "15:00",
+      "race_name": "",
+      "going": "HG",
+      "runners": 16,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Pontefract/26-July-2026/1500",
+      "id": "pontefract_26-july-2026_1500",
+      "qualified": false,
+      "filter_fail": [
+        "16 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Pontefract",
+      "date": "26-July-2026",
+      "time": "15:30",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Pontefract/26-July-2026/1530",
+      "id": "pontefract_26-july-2026_1530",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Pontefract",
+      "date": "26-July-2026",
+      "time": "16:30",
+      "race_name": "",
+      "going": "HG",
+      "runners": 20,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Pontefract/26-July-2026/1630",
+      "id": "pontefract_26-july-2026_1630",
+      "qualified": false,
+      "filter_fail": [
+        "20 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Pontefract",
+      "date": "26-July-2026",
+      "time": "17:00",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Pontefract/26-July-2026/1700",
+      "id": "pontefract_26-july-2026_1700",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Pontefract",
+      "date": "26-July-2026",
+      "time": "17:30",
+      "race_name": "",
+      "going": "HG",
+      "runners": 22,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Pontefract/26-July-2026/1730",
+      "id": "pontefract_26-july-2026_1730",
+      "qualified": false,
+      "filter_fail": [
+        "22 runners"
       ],
       "result": "pending",
       "winner": null
