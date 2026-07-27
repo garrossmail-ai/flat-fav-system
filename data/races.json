@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-26T20:04:23.915232",
+  "last_updated": "2026-07-27T12:16:30.640442",
   "races": [
     {
       "course": "Chester",
@@ -7131,6 +7131,438 @@
       "qualified": false,
       "filter_fail": [
         "22 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ayr",
+      "date": "27-July-2026",
+      "time": "14:15",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Ayr/27-July-2026/1415",
+      "id": "ayr_27-july-2026_1415",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Southwell",
+      "date": "27-July-2026",
+      "time": "14:30",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Southwell/27-July-2026/1430",
+      "id": "southwell_27-july-2026_1430",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ayr",
+      "date": "27-July-2026",
+      "time": "14:45",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Ayr/27-July-2026/1445",
+      "id": "ayr_27-july-2026_1445",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Southwell",
+      "date": "27-July-2026",
+      "time": "15:00",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Southwell/27-July-2026/1500",
+      "id": "southwell_27-july-2026_1500",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ayr",
+      "date": "27-July-2026",
+      "time": "15:15",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Ayr/27-July-2026/1515",
+      "id": "ayr_27-july-2026_1515",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Southwell",
+      "date": "27-July-2026",
+      "time": "15:30",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Southwell/27-July-2026/1530",
+      "id": "southwell_27-july-2026_1530",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ayr",
+      "date": "27-July-2026",
+      "time": "15:45",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Ayr/27-July-2026/1545",
+      "id": "ayr_27-july-2026_1545",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Southwell",
+      "date": "27-July-2026",
+      "time": "16:00",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Southwell/27-July-2026/1600",
+      "id": "southwell_27-july-2026_1600",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ayr",
+      "date": "27-July-2026",
+      "time": "16:15",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Ayr/27-July-2026/1615",
+      "id": "ayr_27-july-2026_1615",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Southwell",
+      "date": "27-July-2026",
+      "time": "16:30",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Southwell/27-July-2026/1630",
+      "id": "southwell_27-july-2026_1630",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ayr",
+      "date": "27-July-2026",
+      "time": "16:45",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Ayr/27-July-2026/1645",
+      "id": "ayr_27-july-2026_1645",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Southwell",
+      "date": "27-July-2026",
+      "time": "17:00",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Southwell/27-July-2026/1700",
+      "id": "southwell_27-july-2026_1700",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Windsor",
+      "date": "27-July-2026",
+      "time": "17:15",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Windsor/27-July-2026/1715",
+      "id": "windsor_27-july-2026_1715",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ayr",
+      "date": "27-July-2026",
+      "time": "17:20",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Ayr/27-July-2026/1720",
+      "id": "ayr_27-july-2026_1720",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Southwell",
+      "date": "27-July-2026",
+      "time": "17:30",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Southwell/27-July-2026/1730",
+      "id": "southwell_27-july-2026_1730",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Windsor",
+      "date": "27-July-2026",
+      "time": "17:50",
+      "race_name": "",
+      "going": "HG",
+      "runners": 13,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Windsor/27-July-2026/1750",
+      "id": "windsor_27-july-2026_1750",
+      "qualified": false,
+      "filter_fail": [
+        "13 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ripon",
+      "date": "27-July-2026",
+      "time": "18:00",
+      "race_name": "",
+      "going": "HG",
+      "runners": 22,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Ripon/27-July-2026/1800",
+      "id": "ripon_27-july-2026_1800",
+      "qualified": false,
+      "filter_fail": [
+        "22 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Southwell",
+      "date": "27-July-2026",
+      "time": "18:05",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Southwell/27-July-2026/1805",
+      "id": "southwell_27-july-2026_1805",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Windsor",
+      "date": "27-July-2026",
+      "time": "18:20",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Windsor/27-July-2026/1820",
+      "id": "windsor_27-july-2026_1820",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ripon",
+      "date": "27-July-2026",
+      "time": "18:30",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Ripon/27-July-2026/1830",
+      "id": "ripon_27-july-2026_1830",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ripon",
+      "date": "27-July-2026",
+      "time": "19:05",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Ripon/27-July-2026/1905",
+      "id": "ripon_27-july-2026_1905",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Windsor",
+      "date": "27-July-2026",
+      "time": "19:28",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Windsor/27-July-2026/1928",
+      "id": "windsor_27-july-2026_1928",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Windsor",
+      "date": "27-July-2026",
+      "time": "20:00",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Windsor/27-July-2026/2000",
+      "id": "windsor_27-july-2026_2000",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Windsor",
+      "date": "27-July-2026",
+      "time": "20:30",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Windsor/27-July-2026/2030",
+      "id": "windsor_27-july-2026_2030",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
       ],
       "result": "pending",
       "winner": null
