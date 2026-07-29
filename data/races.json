@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-28T20:09:58.732782",
+  "last_updated": "2026-07-29T11:20:15.214110",
   "races": [
     {
       "course": "Chester",
@@ -8010,6 +8010,420 @@
       "odds": 1.2,
       "url": "https://www.attheraces.com/racecard/Ffos-Las/28-July-2026/2000",
       "id": "ffos-las_28-july-2026_2000",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Goodwood",
+      "date": "29-July-2026",
+      "time": "13:50",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Goodwood/29-July-2026/1350",
+      "id": "goodwood_29-july-2026_1350",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Redcar",
+      "date": "29-July-2026",
+      "time": "14:05",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Redcar/29-July-2026/1405",
+      "id": "redcar_29-july-2026_1405",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Goodwood",
+      "date": "29-July-2026",
+      "time": "14:25",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Goodwood/29-July-2026/1425",
+      "id": "goodwood_29-july-2026_1425",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Redcar",
+      "date": "29-July-2026",
+      "time": "14:40",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Redcar/29-July-2026/1440",
+      "id": "redcar_29-july-2026_1440",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Goodwood",
+      "date": "29-July-2026",
+      "time": "15:00",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Goodwood/29-July-2026/1500",
+      "id": "goodwood_29-july-2026_1500",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Redcar",
+      "date": "29-July-2026",
+      "time": "15:15",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Redcar/29-July-2026/1515",
+      "id": "redcar_29-july-2026_1515",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Goodwood",
+      "date": "29-July-2026",
+      "time": "15:35",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Goodwood/29-July-2026/1535",
+      "id": "goodwood_29-july-2026_1535",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Goodwood",
+      "date": "29-July-2026",
+      "time": "16:10",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Goodwood/29-July-2026/1610",
+      "id": "goodwood_29-july-2026_1610",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Redcar",
+      "date": "29-July-2026",
+      "time": "16:20",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Redcar/29-July-2026/1620",
+      "id": "redcar_29-july-2026_1620",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Redcar",
+      "date": "29-July-2026",
+      "time": "16:50",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Redcar/29-July-2026/1650",
+      "id": "redcar_29-july-2026_1650",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Goodwood",
+      "date": "29-July-2026",
+      "time": "17:00",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Goodwood/29-July-2026/1700",
+      "id": "goodwood_29-july-2026_1700",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Goodwood",
+      "date": "29-July-2026",
+      "time": "17:40",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Goodwood/29-July-2026/1740",
+      "id": "goodwood_29-july-2026_1740",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Sandown",
+      "date": "29-July-2026",
+      "time": "17:45",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Sandown/29-July-2026/1745",
+      "id": "sandown_29-july-2026_1745",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Leicester",
+      "date": "29-July-2026",
+      "time": "17:55",
+      "race_name": "",
+      "going": "HG",
+      "runners": 22,
+      "favourite": "",
+      "odds": 1.4,
+      "url": "https://www.attheraces.com/racecard/Leicester/29-July-2026/1755",
+      "id": "leicester_29-july-2026_1755",
+      "qualified": false,
+      "filter_fail": [
+        "22 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Sandown",
+      "date": "29-July-2026",
+      "time": "18:15",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Sandown/29-July-2026/1815",
+      "id": "sandown_29-july-2026_1815",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Leicester",
+      "date": "29-July-2026",
+      "time": "18:27",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Leicester/29-July-2026/1827",
+      "id": "leicester_29-july-2026_1827",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Sandown",
+      "date": "29-July-2026",
+      "time": "18:50",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Sandown/29-July-2026/1850",
+      "id": "sandown_29-july-2026_1850",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Leicester",
+      "date": "29-July-2026",
+      "time": "19:02",
+      "race_name": "",
+      "going": "HG",
+      "runners": 15,
+      "favourite": "",
+      "odds": 1.4,
+      "url": "https://www.attheraces.com/racecard/Leicester/29-July-2026/1902",
+      "id": "leicester_29-july-2026_1902",
+      "qualified": false,
+      "filter_fail": [
+        "15 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Sandown",
+      "date": "29-July-2026",
+      "time": "19:25",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Sandown/29-July-2026/1925",
+      "id": "sandown_29-july-2026_1925",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Leicester",
+      "date": "29-July-2026",
+      "time": "19:37",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.4,
+      "url": "https://www.attheraces.com/racecard/Leicester/29-July-2026/1937",
+      "id": "leicester_29-july-2026_1937",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Sandown",
+      "date": "29-July-2026",
+      "time": "20:00",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Sandown/29-July-2026/2000",
+      "id": "sandown_29-july-2026_2000",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Leicester",
+      "date": "29-July-2026",
+      "time": "20:10",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.4,
+      "url": "https://www.attheraces.com/racecard/Leicester/29-July-2026/2010",
+      "id": "leicester_29-july-2026_2010",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Leicester",
+      "date": "29-July-2026",
+      "time": "20:40",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Leicester/29-July-2026/2040",
+      "id": "leicester_29-july-2026_2040",
       "qualified": false,
       "filter_fail": [
         "25 runners"
