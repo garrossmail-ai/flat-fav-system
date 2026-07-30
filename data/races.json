@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-29T20:07:19.434999",
+  "last_updated": "2026-07-30T11:02:30.061515",
   "races": [
     {
       "course": "Chester",
@@ -8424,6 +8424,402 @@
       "odds": 1.25,
       "url": "https://www.attheraces.com/racecard/Leicester/29-July-2026/2040",
       "id": "leicester_29-july-2026_2040",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Goodwood",
+      "date": "30-July-2026",
+      "time": "13:50",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Goodwood/30-July-2026/1350",
+      "id": "goodwood_30-july-2026_1350",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Nottingham",
+      "date": "30-July-2026",
+      "time": "14:00",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.4,
+      "url": "https://www.attheraces.com/racecard/Nottingham/30-July-2026/1400",
+      "id": "nottingham_30-july-2026_1400",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Goodwood",
+      "date": "30-July-2026",
+      "time": "14:25",
+      "race_name": "",
+      "going": "HG",
+      "runners": 21,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Goodwood/30-July-2026/1425",
+      "id": "goodwood_30-july-2026_1425",
+      "qualified": false,
+      "filter_fail": [
+        "21 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Nottingham",
+      "date": "30-July-2026",
+      "time": "14:35",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Nottingham/30-July-2026/1435",
+      "id": "nottingham_30-july-2026_1435",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Goodwood",
+      "date": "30-July-2026",
+      "time": "15:00",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Goodwood/30-July-2026/1500",
+      "id": "goodwood_30-july-2026_1500",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Nottingham",
+      "date": "30-July-2026",
+      "time": "15:10",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Nottingham/30-July-2026/1510",
+      "id": "nottingham_30-july-2026_1510",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Goodwood",
+      "date": "30-July-2026",
+      "time": "15:35",
+      "race_name": "",
+      "going": "HG",
+      "runners": 20,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Goodwood/30-July-2026/1535",
+      "id": "goodwood_30-july-2026_1535",
+      "qualified": false,
+      "filter_fail": [
+        "20 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Goodwood",
+      "date": "30-July-2026",
+      "time": "16:10",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Goodwood/30-July-2026/1610",
+      "id": "goodwood_30-july-2026_1610",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Wolverhampton",
+      "date": "30-July-2026",
+      "time": "16:35",
+      "race_name": "",
+      "going": "HG",
+      "runners": 21,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Wolverhampton/30-July-2026/1635",
+      "id": "wolverhampton_30-july-2026_1635",
+      "qualified": false,
+      "filter_fail": [
+        "21 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Goodwood",
+      "date": "30-July-2026",
+      "time": "16:45",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Goodwood/30-July-2026/1645",
+      "id": "goodwood_30-july-2026_1645",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Nottingham",
+      "date": "30-July-2026",
+      "time": "16:55",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Nottingham/30-July-2026/1655",
+      "id": "nottingham_30-july-2026_1655",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Goodwood",
+      "date": "30-July-2026",
+      "time": "17:20",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Goodwood/30-July-2026/1720",
+      "id": "goodwood_30-july-2026_1720",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Nottingham",
+      "date": "30-July-2026",
+      "time": "17:25",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.15,
+      "url": "https://www.attheraces.com/racecard/Nottingham/30-July-2026/1725",
+      "id": "nottingham_30-july-2026_1725",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Wolverhampton",
+      "date": "30-July-2026",
+      "time": "17:47",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Wolverhampton/30-July-2026/1747",
+      "id": "wolverhampton_30-july-2026_1747",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Goodwood",
+      "date": "30-July-2026",
+      "time": "17:55",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Goodwood/30-July-2026/1755",
+      "id": "goodwood_30-july-2026_1755",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Epsom Downs",
+      "date": "30-July-2026",
+      "time": "18:05",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Epsom-Downs/30-July-2026/1805",
+      "id": "epsom-downs_30-july-2026_1805",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Wolverhampton",
+      "date": "30-July-2026",
+      "time": "18:22",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Wolverhampton/30-July-2026/1822",
+      "id": "wolverhampton_30-july-2026_1822",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Epsom Downs",
+      "date": "30-July-2026",
+      "time": "19:15",
+      "race_name": "",
+      "going": "HG",
+      "runners": 19,
+      "favourite": "",
+      "odds": 1.4,
+      "url": "https://www.attheraces.com/racecard/Epsom-Downs/30-July-2026/1915",
+      "id": "epsom-downs_30-july-2026_1915",
+      "qualified": false,
+      "filter_fail": [
+        "19 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Wolverhampton",
+      "date": "30-July-2026",
+      "time": "19:32",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Wolverhampton/30-July-2026/1932",
+      "id": "wolverhampton_30-july-2026_1932",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Epsom Downs",
+      "date": "30-July-2026",
+      "time": "19:50",
+      "race_name": "",
+      "going": "HG",
+      "runners": 21,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Epsom-Downs/30-July-2026/1950",
+      "id": "epsom-downs_30-july-2026_1950",
+      "qualified": false,
+      "filter_fail": [
+        "21 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Wolverhampton",
+      "date": "30-July-2026",
+      "time": "20:07",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Wolverhampton/30-July-2026/2007",
+      "id": "wolverhampton_30-july-2026_2007",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Wolverhampton",
+      "date": "30-July-2026",
+      "time": "20:42",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Wolverhampton/30-July-2026/2042",
+      "id": "wolverhampton_30-july-2026_2042",
       "qualified": false,
       "filter_fail": [
         "25 runners"
