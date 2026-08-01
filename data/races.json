@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-31T20:13:46.326298",
+  "last_updated": "2026-08-01T10:38:07.234946",
   "races": [
     {
       "course": "Chester",
@@ -9306,6 +9306,672 @@
       "odds": 1.2,
       "url": "https://www.attheraces.com/racecard/Musselburgh/31-July-2026/2025",
       "id": "musselburgh_31-july-2026_2025",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newmarket",
+      "date": "01-August-2026",
+      "time": "13:33",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.12,
+      "url": "https://www.attheraces.com/racecard/Newmarket/01-August-2026/1333",
+      "id": "newmarket_01-august-2026_1333",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Goodwood",
+      "date": "01-August-2026",
+      "time": "13:50",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.12,
+      "url": "https://www.attheraces.com/racecard/Goodwood/01-August-2026/1350",
+      "id": "goodwood_01-august-2026_1350",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Doncaster",
+      "date": "01-August-2026",
+      "time": "13:55",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.12,
+      "url": "https://www.attheraces.com/racecard/Doncaster/01-August-2026/1355",
+      "id": "doncaster_01-august-2026_1355",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Thirsk",
+      "date": "01-August-2026",
+      "time": "14:08",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.12,
+      "url": "https://www.attheraces.com/racecard/Thirsk/01-August-2026/1408",
+      "id": "thirsk_01-august-2026_1408",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newmarket",
+      "date": "01-August-2026",
+      "time": "14:13",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.12,
+      "url": "https://www.attheraces.com/racecard/Newmarket/01-August-2026/1413",
+      "id": "newmarket_01-august-2026_1413",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Goodwood",
+      "date": "01-August-2026",
+      "time": "14:25",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.12,
+      "url": "https://www.attheraces.com/racecard/Goodwood/01-August-2026/1425",
+      "id": "goodwood_01-august-2026_1425",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Doncaster",
+      "date": "01-August-2026",
+      "time": "14:30",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.12,
+      "url": "https://www.attheraces.com/racecard/Doncaster/01-August-2026/1430",
+      "id": "doncaster_01-august-2026_1430",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Thirsk",
+      "date": "01-August-2026",
+      "time": "14:43",
+      "race_name": "",
+      "going": "HG",
+      "runners": 22,
+      "favourite": "",
+      "odds": 1.12,
+      "url": "https://www.attheraces.com/racecard/Thirsk/01-August-2026/1443",
+      "id": "thirsk_01-august-2026_1443",
+      "qualified": false,
+      "filter_fail": [
+        "22 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Goodwood",
+      "date": "01-August-2026",
+      "time": "15:00",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.12,
+      "url": "https://www.attheraces.com/racecard/Goodwood/01-August-2026/1500",
+      "id": "goodwood_01-august-2026_1500",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Doncaster",
+      "date": "01-August-2026",
+      "time": "15:05",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.12,
+      "url": "https://www.attheraces.com/racecard/Doncaster/01-August-2026/1505",
+      "id": "doncaster_01-august-2026_1505",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Thirsk",
+      "date": "01-August-2026",
+      "time": "15:17",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.12,
+      "url": "https://www.attheraces.com/racecard/Thirsk/01-August-2026/1517",
+      "id": "thirsk_01-august-2026_1517",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Goodwood",
+      "date": "01-August-2026",
+      "time": "15:35",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.12,
+      "url": "https://www.attheraces.com/racecard/Goodwood/01-August-2026/1535",
+      "id": "goodwood_01-august-2026_1535",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Thirsk",
+      "date": "01-August-2026",
+      "time": "15:47",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.12,
+      "url": "https://www.attheraces.com/racecard/Thirsk/01-August-2026/1547",
+      "id": "thirsk_01-august-2026_1547",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newmarket",
+      "date": "01-August-2026",
+      "time": "15:58",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.12,
+      "url": "https://www.attheraces.com/racecard/Newmarket/01-August-2026/1558",
+      "id": "newmarket_01-august-2026_1558",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Goodwood",
+      "date": "01-August-2026",
+      "time": "16:10",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.12,
+      "url": "https://www.attheraces.com/racecard/Goodwood/01-August-2026/1610",
+      "id": "goodwood_01-august-2026_1610",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Doncaster",
+      "date": "01-August-2026",
+      "time": "16:15",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.12,
+      "url": "https://www.attheraces.com/racecard/Doncaster/01-August-2026/1615",
+      "id": "doncaster_01-august-2026_1615",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Thirsk",
+      "date": "01-August-2026",
+      "time": "16:22",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.12,
+      "url": "https://www.attheraces.com/racecard/Thirsk/01-August-2026/1622",
+      "id": "thirsk_01-august-2026_1622",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newmarket",
+      "date": "01-August-2026",
+      "time": "16:33",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.12,
+      "url": "https://www.attheraces.com/racecard/Newmarket/01-August-2026/1633",
+      "id": "newmarket_01-august-2026_1633",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Goodwood",
+      "date": "01-August-2026",
+      "time": "16:45",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.12,
+      "url": "https://www.attheraces.com/racecard/Goodwood/01-August-2026/1645",
+      "id": "goodwood_01-august-2026_1645",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Doncaster",
+      "date": "01-August-2026",
+      "time": "16:50",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.12,
+      "url": "https://www.attheraces.com/racecard/Doncaster/01-August-2026/1650",
+      "id": "doncaster_01-august-2026_1650",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Thirsk",
+      "date": "01-August-2026",
+      "time": "16:55",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.12,
+      "url": "https://www.attheraces.com/racecard/Thirsk/01-August-2026/1655",
+      "id": "thirsk_01-august-2026_1655",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newmarket",
+      "date": "01-August-2026",
+      "time": "17:10",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.12,
+      "url": "https://www.attheraces.com/racecard/Newmarket/01-August-2026/1710",
+      "id": "newmarket_01-august-2026_1710",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Goodwood",
+      "date": "01-August-2026",
+      "time": "17:20",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.12,
+      "url": "https://www.attheraces.com/racecard/Goodwood/01-August-2026/1720",
+      "id": "goodwood_01-august-2026_1720",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Doncaster",
+      "date": "01-August-2026",
+      "time": "17:25",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.12,
+      "url": "https://www.attheraces.com/racecard/Doncaster/01-August-2026/1725",
+      "id": "doncaster_01-august-2026_1725",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Lingfield",
+      "date": "01-August-2026",
+      "time": "17:40",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.12,
+      "url": "https://www.attheraces.com/racecard/Lingfield/01-August-2026/1740",
+      "id": "lingfield_01-august-2026_1740",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Hamilton",
+      "date": "01-August-2026",
+      "time": "17:50",
+      "race_name": "",
+      "going": "HG",
+      "runners": 21,
+      "favourite": "",
+      "odds": 1.12,
+      "url": "https://www.attheraces.com/racecard/Hamilton/01-August-2026/1750",
+      "id": "hamilton_01-august-2026_1750",
+      "qualified": false,
+      "filter_fail": [
+        "21 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Doncaster",
+      "date": "01-August-2026",
+      "time": "18:00",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.12,
+      "url": "https://www.attheraces.com/racecard/Doncaster/01-August-2026/1800",
+      "id": "doncaster_01-august-2026_1800",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Lingfield",
+      "date": "01-August-2026",
+      "time": "18:15",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.12,
+      "url": "https://www.attheraces.com/racecard/Lingfield/01-August-2026/1815",
+      "id": "lingfield_01-august-2026_1815",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Hamilton",
+      "date": "01-August-2026",
+      "time": "18:25",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.12,
+      "url": "https://www.attheraces.com/racecard/Hamilton/01-August-2026/1825",
+      "id": "hamilton_01-august-2026_1825",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Lingfield",
+      "date": "01-August-2026",
+      "time": "18:45",
+      "race_name": "",
+      "going": "HG",
+      "runners": 21,
+      "favourite": "",
+      "odds": 1.12,
+      "url": "https://www.attheraces.com/racecard/Lingfield/01-August-2026/1845",
+      "id": "lingfield_01-august-2026_1845",
+      "qualified": false,
+      "filter_fail": [
+        "21 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Lingfield",
+      "date": "01-August-2026",
+      "time": "19:15",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.12,
+      "url": "https://www.attheraces.com/racecard/Lingfield/01-August-2026/1915",
+      "id": "lingfield_01-august-2026_1915",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Hamilton",
+      "date": "01-August-2026",
+      "time": "19:30",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.12,
+      "url": "https://www.attheraces.com/racecard/Hamilton/01-August-2026/1930",
+      "id": "hamilton_01-august-2026_1930",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Lingfield",
+      "date": "01-August-2026",
+      "time": "19:45",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.12,
+      "url": "https://www.attheraces.com/racecard/Lingfield/01-August-2026/1945",
+      "id": "lingfield_01-august-2026_1945",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Hamilton",
+      "date": "01-August-2026",
+      "time": "20:00",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.12,
+      "url": "https://www.attheraces.com/racecard/Hamilton/01-August-2026/2000",
+      "id": "hamilton_01-august-2026_2000",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Lingfield",
+      "date": "01-August-2026",
+      "time": "20:15",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.12,
+      "url": "https://www.attheraces.com/racecard/Lingfield/01-August-2026/2015",
+      "id": "lingfield_01-august-2026_2015",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Hamilton",
+      "date": "01-August-2026",
+      "time": "20:30",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.12,
+      "url": "https://www.attheraces.com/racecard/Hamilton/01-August-2026/2030",
+      "id": "hamilton_01-august-2026_2030",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Hamilton",
+      "date": "01-August-2026",
+      "time": "21:00",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.12,
+      "url": "https://www.attheraces.com/racecard/Hamilton/01-August-2026/2100",
+      "id": "hamilton_01-august-2026_2100",
       "qualified": false,
       "filter_fail": [
         "25 runners"
