@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-05T20:20:30.713427",
+  "last_updated": "2026-08-06T11:16:00.030116",
   "races": [
     {
       "course": "Chester",
@@ -10984,6 +10984,508 @@
       "filter_fail": [
         "25 runners"
       ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newmarket",
+      "date": "06-August-2026",
+      "time": "14:20",
+      "race_name": "",
+      "going": "HG",
+      "runners": 22,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Newmarket/06-August-2026/1420",
+      "id": "newmarket_06-august-2026_1420",
+      "qualified": false,
+      "filter_fail": [
+        "22 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Brighton",
+      "date": "06-August-2026",
+      "time": "14:38",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Brighton/06-August-2026/1438",
+      "id": "brighton_06-august-2026_1438",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newmarket",
+      "date": "06-August-2026",
+      "time": "14:55",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Newmarket/06-August-2026/1455",
+      "id": "newmarket_06-august-2026_1455",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newmarket",
+      "date": "06-August-2026",
+      "time": "15:30",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Newmarket/06-August-2026/1530",
+      "id": "newmarket_06-august-2026_1530",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Brighton",
+      "date": "06-August-2026",
+      "time": "15:50",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Brighton/06-August-2026/1550",
+      "id": "brighton_06-august-2026_1550",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newmarket",
+      "date": "06-August-2026",
+      "time": "16:00",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.12,
+      "url": "https://www.attheraces.com/racecard/Newmarket/06-August-2026/1600",
+      "id": "newmarket_06-august-2026_1600",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newmarket",
+      "date": "06-August-2026",
+      "time": "16:33",
+      "race_name": "",
+      "going": "HG",
+      "runners": 22,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Newmarket/06-August-2026/1633",
+      "id": "newmarket_06-august-2026_1633",
+      "qualified": false,
+      "filter_fail": [
+        "22 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Brighton",
+      "date": "06-August-2026",
+      "time": "16:55",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Brighton/06-August-2026/1655",
+      "id": "brighton_06-august-2026_1655",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Sandown",
+      "date": "06-August-2026",
+      "time": "17:00",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Sandown/06-August-2026/1700",
+      "id": "sandown_06-august-2026_1700",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newmarket",
+      "date": "06-August-2026",
+      "time": "17:08",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Newmarket/06-August-2026/1708",
+      "id": "newmarket_06-august-2026_1708",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Chepstow",
+      "date": "06-August-2026",
+      "time": "17:20",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Chepstow/06-August-2026/1720",
+      "id": "chepstow_06-august-2026_1720",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Brighton",
+      "date": "06-August-2026",
+      "time": "17:30",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Brighton/06-August-2026/1730",
+      "id": "brighton_06-august-2026_1730",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Sandown",
+      "date": "06-August-2026",
+      "time": "17:38",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Sandown/06-August-2026/1738",
+      "id": "sandown_06-august-2026_1738",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Southwell",
+      "date": "06-August-2026",
+      "time": "18:06",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Southwell/06-August-2026/1806",
+      "id": "southwell_06-august-2026_1806",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Sandown",
+      "date": "06-August-2026",
+      "time": "18:13",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.4,
+      "url": "https://www.attheraces.com/racecard/Sandown/06-August-2026/1813",
+      "id": "sandown_06-august-2026_1813",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Chepstow",
+      "date": "06-August-2026",
+      "time": "18:30",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Chepstow/06-August-2026/1830",
+      "id": "chepstow_06-august-2026_1830",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Southwell",
+      "date": "06-August-2026",
+      "time": "18:41",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Southwell/06-August-2026/1841",
+      "id": "southwell_06-august-2026_1841",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Sandown",
+      "date": "06-August-2026",
+      "time": "18:48",
+      "race_name": "",
+      "going": "HG",
+      "runners": 19,
+      "favourite": "",
+      "odds": 1.4,
+      "url": "https://www.attheraces.com/racecard/Sandown/06-August-2026/1848",
+      "id": "sandown_06-august-2026_1848",
+      "qualified": false,
+      "filter_fail": [
+        "19 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Chepstow",
+      "date": "06-August-2026",
+      "time": "19:05",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Chepstow/06-August-2026/1905",
+      "id": "chepstow_06-august-2026_1905",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Southwell",
+      "date": "06-August-2026",
+      "time": "19:16",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Southwell/06-August-2026/1916",
+      "id": "southwell_06-august-2026_1916",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Sandown",
+      "date": "06-August-2026",
+      "time": "19:23",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Sandown/06-August-2026/1923",
+      "id": "sandown_06-august-2026_1923",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Chepstow",
+      "date": "06-August-2026",
+      "time": "19:40",
+      "race_name": "",
+      "going": "HG",
+      "runners": 21,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Chepstow/06-August-2026/1940",
+      "id": "chepstow_06-august-2026_1940",
+      "qualified": false,
+      "filter_fail": [
+        "21 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Southwell",
+      "date": "06-August-2026",
+      "time": "19:51",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Southwell/06-August-2026/1951",
+      "id": "southwell_06-august-2026_1951",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Sandown",
+      "date": "06-August-2026",
+      "time": "19:58",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Sandown/06-August-2026/1958",
+      "id": "sandown_06-august-2026_1958",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Chepstow",
+      "date": "06-August-2026",
+      "time": "20:15",
+      "race_name": "",
+      "going": "HG",
+      "runners": 14,
+      "favourite": "",
+      "odds": 1.4,
+      "url": "https://www.attheraces.com/racecard/Chepstow/06-August-2026/2015",
+      "id": "chepstow_06-august-2026_2015",
+      "qualified": false,
+      "filter_fail": [
+        "14 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Southwell",
+      "date": "06-August-2026",
+      "time": "20:26",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Southwell/06-August-2026/2026",
+      "id": "southwell_06-august-2026_2026",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Southwell",
+      "date": "06-August-2026",
+      "time": "21:00",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Southwell/06-August-2026/2100",
+      "id": "southwell_06-august-2026_2100",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Chelmsford City",
+      "date": "06-August-2026",
+      "time": "19:16",
+      "race_name": "",
+      "going": "",
+      "runners": 3,
+      "favourite": "",
+      "odds": 1.75,
+      "url": "https://www.attheraces.com/racecard/Chelmsford-City/06-August-2026/1916",
+      "id": "chelmsford-city_06-august-2026_1916",
+      "qualified": true,
+      "filter_fail": [],
       "result": "pending",
       "winner": null
     }
