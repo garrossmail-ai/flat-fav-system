@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-08T19:20:51.095249",
+  "last_updated": "2026-08-09T09:33:05.502091",
   "races": [
     {
       "course": "Chester",
@@ -11486,6 +11486,222 @@
       "id": "chelmsford-city_06-august-2026_1916",
       "qualified": true,
       "filter_fail": [],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Chepstow",
+      "date": "09-August-2026",
+      "time": "14:06",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Chepstow/09-August-2026/1406",
+      "id": "chepstow_09-august-2026_1406",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Leicester",
+      "date": "09-August-2026",
+      "time": "14:24",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.22,
+      "url": "https://www.attheraces.com/racecard/Leicester/09-August-2026/1424",
+      "id": "leicester_09-august-2026_1424",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Chepstow",
+      "date": "09-August-2026",
+      "time": "14:41",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Chepstow/09-August-2026/1441",
+      "id": "chepstow_09-august-2026_1441",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Leicester",
+      "date": "09-August-2026",
+      "time": "14:59",
+      "race_name": "",
+      "going": "HG",
+      "runners": 15,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Leicester/09-August-2026/1459",
+      "id": "leicester_09-august-2026_1459",
+      "qualified": false,
+      "filter_fail": [
+        "15 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Chepstow",
+      "date": "09-August-2026",
+      "time": "15:16",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Chepstow/09-August-2026/1516",
+      "id": "chepstow_09-august-2026_1516",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Leicester",
+      "date": "09-August-2026",
+      "time": "15:34",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Leicester/09-August-2026/1534",
+      "id": "leicester_09-august-2026_1534",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Chepstow",
+      "date": "09-August-2026",
+      "time": "15:51",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Chepstow/09-August-2026/1551",
+      "id": "chepstow_09-august-2026_1551",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Leicester",
+      "date": "09-August-2026",
+      "time": "16:09",
+      "race_name": "",
+      "going": "HG",
+      "runners": 18,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Leicester/09-August-2026/1609",
+      "id": "leicester_09-august-2026_1609",
+      "qualified": false,
+      "filter_fail": [
+        "18 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Chepstow",
+      "date": "09-August-2026",
+      "time": "16:26",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Chepstow/09-August-2026/1626",
+      "id": "chepstow_09-august-2026_1626",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Leicester",
+      "date": "09-August-2026",
+      "time": "16:44",
+      "race_name": "",
+      "going": "HG",
+      "runners": 15,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Leicester/09-August-2026/1644",
+      "id": "leicester_09-august-2026_1644",
+      "qualified": false,
+      "filter_fail": [
+        "15 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Chepstow",
+      "date": "09-August-2026",
+      "time": "17:01",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Chepstow/09-August-2026/1701",
+      "id": "chepstow_09-august-2026_1701",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Leicester",
+      "date": "09-August-2026",
+      "time": "17:19",
+      "race_name": "",
+      "going": "HG",
+      "runners": 19,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Leicester/09-August-2026/1719",
+      "id": "leicester_09-august-2026_1719",
+      "qualified": false,
+      "filter_fail": [
+        "19 runners"
+      ],
       "result": "pending",
       "winner": null
     }
