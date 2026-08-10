@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-09T19:24:05.056631",
+  "last_updated": "2026-08-10T10:12:00.247142",
   "races": [
     {
       "course": "Chester",
@@ -11701,6 +11701,312 @@
       "qualified": false,
       "filter_fail": [
         "19 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ayr",
+      "date": "10-August-2026",
+      "time": "13:45",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Ayr/10-August-2026/1345",
+      "id": "ayr_10-august-2026_1345",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ayr",
+      "date": "10-August-2026",
+      "time": "14:15",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Ayr/10-August-2026/1415",
+      "id": "ayr_10-august-2026_1415",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Kempton",
+      "date": "10-August-2026",
+      "time": "14:30",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Kempton/10-August-2026/1430",
+      "id": "kempton_10-august-2026_1430",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ayr",
+      "date": "10-August-2026",
+      "time": "14:45",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Ayr/10-August-2026/1445",
+      "id": "ayr_10-august-2026_1445",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ayr",
+      "date": "10-August-2026",
+      "time": "15:15",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Ayr/10-August-2026/1515",
+      "id": "ayr_10-august-2026_1515",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Kempton",
+      "date": "10-August-2026",
+      "time": "15:30",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Kempton/10-August-2026/1530",
+      "id": "kempton_10-august-2026_1530",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ayr",
+      "date": "10-August-2026",
+      "time": "15:45",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Ayr/10-August-2026/1545",
+      "id": "ayr_10-august-2026_1545",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Kempton",
+      "date": "10-August-2026",
+      "time": "16:00",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Kempton/10-August-2026/1600",
+      "id": "kempton_10-august-2026_1600",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ayr",
+      "date": "10-August-2026",
+      "time": "16:15",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Ayr/10-August-2026/1615",
+      "id": "ayr_10-august-2026_1615",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Kempton",
+      "date": "10-August-2026",
+      "time": "16:30",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Kempton/10-August-2026/1630",
+      "id": "kempton_10-august-2026_1630",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ayr",
+      "date": "10-August-2026",
+      "time": "16:45",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Ayr/10-August-2026/1645",
+      "id": "ayr_10-august-2026_1645",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Kempton",
+      "date": "10-August-2026",
+      "time": "17:00",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Kempton/10-August-2026/1700",
+      "id": "kempton_10-august-2026_1700",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Windsor",
+      "date": "10-August-2026",
+      "time": "17:45",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Windsor/10-August-2026/1745",
+      "id": "windsor_10-august-2026_1745",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Windsor",
+      "date": "10-August-2026",
+      "time": "18:15",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Windsor/10-August-2026/1815",
+      "id": "windsor_10-august-2026_1815",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Windsor",
+      "date": "10-August-2026",
+      "time": "18:45",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Windsor/10-August-2026/1845",
+      "id": "windsor_10-august-2026_1845",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Windsor",
+      "date": "10-August-2026",
+      "time": "19:15",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Windsor/10-August-2026/1915",
+      "id": "windsor_10-august-2026_1915",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Windsor",
+      "date": "10-August-2026",
+      "time": "20:15",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Windsor/10-August-2026/2015",
+      "id": "windsor_10-august-2026_2015",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
       ],
       "result": "pending",
       "winner": null
