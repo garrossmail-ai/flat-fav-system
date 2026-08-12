@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-11T19:53:51.732994",
+  "last_updated": "2026-08-12T09:56:20.442262",
   "races": [
     {
       "course": "Chester",
@@ -12418,6 +12418,456 @@
       "odds": 1.25,
       "url": "https://www.attheraces.com/racecard/Nottingham/11-August-2026/2015",
       "id": "nottingham_11-august-2026_2015",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Beverley",
+      "date": "12-August-2026",
+      "time": "14:15",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Beverley/12-August-2026/1415",
+      "id": "beverley_12-august-2026_1415",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Salisbury",
+      "date": "12-August-2026",
+      "time": "14:30",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Salisbury/12-August-2026/1430",
+      "id": "salisbury_12-august-2026_1430",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Beverley",
+      "date": "12-August-2026",
+      "time": "14:45",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Beverley/12-August-2026/1445",
+      "id": "beverley_12-august-2026_1445",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Salisbury",
+      "date": "12-August-2026",
+      "time": "15:00",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Salisbury/12-August-2026/1500",
+      "id": "salisbury_12-august-2026_1500",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Beverley",
+      "date": "12-August-2026",
+      "time": "15:15",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Beverley/12-August-2026/1515",
+      "id": "beverley_12-august-2026_1515",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Salisbury",
+      "date": "12-August-2026",
+      "time": "15:30",
+      "race_name": "",
+      "going": "HG",
+      "runners": 19,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Salisbury/12-August-2026/1530",
+      "id": "salisbury_12-august-2026_1530",
+      "qualified": false,
+      "filter_fail": [
+        "19 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ffos Las",
+      "date": "12-August-2026",
+      "time": "15:37",
+      "race_name": "",
+      "going": "HG",
+      "runners": 17,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Ffos-Las/12-August-2026/1537",
+      "id": "ffos-las_12-august-2026_1537",
+      "qualified": false,
+      "filter_fail": [
+        "17 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Beverley",
+      "date": "12-August-2026",
+      "time": "15:45",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Beverley/12-August-2026/1545",
+      "id": "beverley_12-august-2026_1545",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Salisbury",
+      "date": "12-August-2026",
+      "time": "16:00",
+      "race_name": "",
+      "going": "HG",
+      "runners": 22,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Salisbury/12-August-2026/1600",
+      "id": "salisbury_12-august-2026_1600",
+      "qualified": false,
+      "filter_fail": [
+        "22 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ffos Las",
+      "date": "12-August-2026",
+      "time": "16:07",
+      "race_name": "",
+      "going": "HG",
+      "runners": 22,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Ffos-Las/12-August-2026/1607",
+      "id": "ffos-las_12-august-2026_1607",
+      "qualified": false,
+      "filter_fail": [
+        "22 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Beverley",
+      "date": "12-August-2026",
+      "time": "16:15",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Beverley/12-August-2026/1615",
+      "id": "beverley_12-august-2026_1615",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Salisbury",
+      "date": "12-August-2026",
+      "time": "16:30",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Salisbury/12-August-2026/1630",
+      "id": "salisbury_12-august-2026_1630",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ffos Las",
+      "date": "12-August-2026",
+      "time": "16:37",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Ffos-Las/12-August-2026/1637",
+      "id": "ffos-las_12-august-2026_1637",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Beverley",
+      "date": "12-August-2026",
+      "time": "16:45",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Beverley/12-August-2026/1645",
+      "id": "beverley_12-august-2026_1645",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Salisbury",
+      "date": "12-August-2026",
+      "time": "17:00",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Salisbury/12-August-2026/1700",
+      "id": "salisbury_12-august-2026_1700",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Kempton",
+      "date": "12-August-2026",
+      "time": "17:30",
+      "race_name": "",
+      "going": "HG",
+      "runners": 21,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Kempton/12-August-2026/1730",
+      "id": "kempton_12-august-2026_1730",
+      "qualified": false,
+      "filter_fail": [
+        "21 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ffos Las",
+      "date": "12-August-2026",
+      "time": "17:40",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Ffos-Las/12-August-2026/1740",
+      "id": "ffos-las_12-august-2026_1740",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Kempton",
+      "date": "12-August-2026",
+      "time": "18:00",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Kempton/12-August-2026/1800",
+      "id": "kempton_12-august-2026_1800",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ffos Las",
+      "date": "12-August-2026",
+      "time": "18:10",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Ffos-Las/12-August-2026/1810",
+      "id": "ffos-las_12-august-2026_1810",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Kempton",
+      "date": "12-August-2026",
+      "time": "18:30",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Kempton/12-August-2026/1830",
+      "id": "kempton_12-august-2026_1830",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Kempton",
+      "date": "12-August-2026",
+      "time": "19:00",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Kempton/12-August-2026/1900",
+      "id": "kempton_12-august-2026_1900",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Kempton",
+      "date": "12-August-2026",
+      "time": "19:30",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Kempton/12-August-2026/1930",
+      "id": "kempton_12-august-2026_1930",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Kempton",
+      "date": "12-August-2026",
+      "time": "20:00",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Kempton/12-August-2026/2000",
+      "id": "kempton_12-august-2026_2000",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Kempton",
+      "date": "12-August-2026",
+      "time": "20:30",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Kempton/12-August-2026/2030",
+      "id": "kempton_12-august-2026_2030",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Kempton",
+      "date": "12-August-2026",
+      "time": "21:00",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.13,
+      "url": "https://www.attheraces.com/racecard/Kempton/12-August-2026/2100",
+      "id": "kempton_12-august-2026_2100",
       "qualified": false,
       "filter_fail": [
         "25 runners"
