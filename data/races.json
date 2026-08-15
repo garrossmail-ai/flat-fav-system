@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-14T19:41:00.703493",
+  "last_updated": "2026-08-15T09:20:26.736843",
   "races": [
     {
       "course": "Chester",
@@ -13267,6 +13267,508 @@
       "qualified": false,
       "filter_fail": [
         "20 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newbury",
+      "date": "15-August-2026",
+      "time": "13:25",
+      "race_name": "",
+      "going": "HG",
+      "runners": 17,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Newbury/15-August-2026/1325",
+      "id": "newbury_15-august-2026_1325",
+      "qualified": false,
+      "filter_fail": [
+        "17 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newmarket",
+      "date": "15-August-2026",
+      "time": "13:35",
+      "race_name": "",
+      "going": "HG",
+      "runners": 8,
+      "favourite": "",
+      "odds": 1.33,
+      "url": "https://www.attheraces.com/racecard/Newmarket/15-August-2026/1335",
+      "id": "newmarket_15-august-2026_1335",
+      "qualified": true,
+      "filter_fail": [],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ripon",
+      "date": "15-August-2026",
+      "time": "13:45",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Ripon/15-August-2026/1345",
+      "id": "ripon_15-august-2026_1345",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newbury",
+      "date": "15-August-2026",
+      "time": "13:55",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Newbury/15-August-2026/1355",
+      "id": "newbury_15-august-2026_1355",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Doncaster",
+      "date": "15-August-2026",
+      "time": "14:00",
+      "race_name": "",
+      "going": "HG",
+      "runners": 22,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Doncaster/15-August-2026/1400",
+      "id": "doncaster_15-august-2026_1400",
+      "qualified": false,
+      "filter_fail": [
+        "22 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newmarket",
+      "date": "15-August-2026",
+      "time": "14:10",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Newmarket/15-August-2026/1410",
+      "id": "newmarket_15-august-2026_1410",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ripon",
+      "date": "15-August-2026",
+      "time": "14:20",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Ripon/15-August-2026/1420",
+      "id": "ripon_15-august-2026_1420",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Doncaster",
+      "date": "15-August-2026",
+      "time": "14:30",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.4,
+      "url": "https://www.attheraces.com/racecard/Doncaster/15-August-2026/1430",
+      "id": "doncaster_15-august-2026_1430",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newbury",
+      "date": "15-August-2026",
+      "time": "14:35",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Newbury/15-August-2026/1435",
+      "id": "newbury_15-august-2026_1435",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newmarket",
+      "date": "15-August-2026",
+      "time": "14:43",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Newmarket/15-August-2026/1443",
+      "id": "newmarket_15-august-2026_1443",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ripon",
+      "date": "15-August-2026",
+      "time": "14:55",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Ripon/15-August-2026/1455",
+      "id": "ripon_15-august-2026_1455",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Doncaster",
+      "date": "15-August-2026",
+      "time": "15:05",
+      "race_name": "",
+      "going": "HG",
+      "runners": 18,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Doncaster/15-August-2026/1505",
+      "id": "doncaster_15-august-2026_1505",
+      "qualified": false,
+      "filter_fail": [
+        "18 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newbury",
+      "date": "15-August-2026",
+      "time": "15:10",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Newbury/15-August-2026/1510",
+      "id": "newbury_15-august-2026_1510",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newmarket",
+      "date": "15-August-2026",
+      "time": "15:13",
+      "race_name": "",
+      "going": "HG",
+      "runners": 19,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Newmarket/15-August-2026/1513",
+      "id": "newmarket_15-august-2026_1513",
+      "qualified": false,
+      "filter_fail": [
+        "19 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ripon",
+      "date": "15-August-2026",
+      "time": "15:25",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Ripon/15-August-2026/1525",
+      "id": "ripon_15-august-2026_1525",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Doncaster",
+      "date": "15-August-2026",
+      "time": "15:37",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Doncaster/15-August-2026/1537",
+      "id": "doncaster_15-august-2026_1537",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newbury",
+      "date": "15-August-2026",
+      "time": "15:42",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Newbury/15-August-2026/1542",
+      "id": "newbury_15-august-2026_1542",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newmarket",
+      "date": "15-August-2026",
+      "time": "15:50",
+      "race_name": "",
+      "going": "HG",
+      "runners": 19,
+      "favourite": "",
+      "odds": 1.4,
+      "url": "https://www.attheraces.com/racecard/Newmarket/15-August-2026/1550",
+      "id": "newmarket_15-august-2026_1550",
+      "qualified": false,
+      "filter_fail": [
+        "19 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Doncaster",
+      "date": "15-August-2026",
+      "time": "16:10",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Doncaster/15-August-2026/1610",
+      "id": "doncaster_15-august-2026_1610",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newbury",
+      "date": "15-August-2026",
+      "time": "16:20",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Newbury/15-August-2026/1620",
+      "id": "newbury_15-august-2026_1620",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newmarket",
+      "date": "15-August-2026",
+      "time": "16:25",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Newmarket/15-August-2026/1625",
+      "id": "newmarket_15-august-2026_1625",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Doncaster",
+      "date": "15-August-2026",
+      "time": "16:45",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Doncaster/15-August-2026/1645",
+      "id": "doncaster_15-august-2026_1645",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newmarket",
+      "date": "15-August-2026",
+      "time": "17:00",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Newmarket/15-August-2026/1700",
+      "id": "newmarket_15-august-2026_1700",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ripon",
+      "date": "15-August-2026",
+      "time": "17:05",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Ripon/15-August-2026/1705",
+      "id": "ripon_15-august-2026_1705",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Lingfield",
+      "date": "15-August-2026",
+      "time": "17:13",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Lingfield/15-August-2026/1713",
+      "id": "lingfield_15-august-2026_1713",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Lingfield",
+      "date": "15-August-2026",
+      "time": "17:46",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Lingfield/15-August-2026/1746",
+      "id": "lingfield_15-august-2026_1746",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Lingfield",
+      "date": "15-August-2026",
+      "time": "18:46",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Lingfield/15-August-2026/1846",
+      "id": "lingfield_15-august-2026_1846",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Lingfield",
+      "date": "15-August-2026",
+      "time": "19:16",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Lingfield/15-August-2026/1916",
+      "id": "lingfield_15-august-2026_1916",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
       ],
       "result": "pending",
       "winner": null
