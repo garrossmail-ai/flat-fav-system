@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15T19:14:04.006479",
+  "last_updated": "2026-08-16T09:21:44.010342",
   "races": [
     {
       "course": "Chester",
@@ -13769,6 +13769,258 @@
       "qualified": false,
       "filter_fail": [
         "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Southwell",
+      "date": "16-August-2026",
+      "time": "13:30",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Southwell/16-August-2026/1330",
+      "id": "southwell_16-august-2026_1330",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Southwell",
+      "date": "16-August-2026",
+      "time": "14:00",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Southwell/16-August-2026/1400",
+      "id": "southwell_16-august-2026_1400",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Southwell",
+      "date": "16-August-2026",
+      "time": "14:35",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Southwell/16-August-2026/1435",
+      "id": "southwell_16-august-2026_1435",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Southwell",
+      "date": "16-August-2026",
+      "time": "15:10",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Southwell/16-August-2026/1510",
+      "id": "southwell_16-august-2026_1510",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Southwell",
+      "date": "16-August-2026",
+      "time": "15:40",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Southwell/16-August-2026/1540",
+      "id": "southwell_16-august-2026_1540",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Pontefract",
+      "date": "16-August-2026",
+      "time": "15:45",
+      "race_name": "",
+      "going": "HG",
+      "runners": 19,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Pontefract/16-August-2026/1545",
+      "id": "pontefract_16-august-2026_1545",
+      "qualified": false,
+      "filter_fail": [
+        "19 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Pontefract",
+      "date": "16-August-2026",
+      "time": "16:15",
+      "race_name": "",
+      "going": "HG",
+      "runners": 19,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Pontefract/16-August-2026/1615",
+      "id": "pontefract_16-august-2026_1615",
+      "qualified": false,
+      "filter_fail": [
+        "19 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Southwell",
+      "date": "16-August-2026",
+      "time": "16:40",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Southwell/16-August-2026/1640",
+      "id": "southwell_16-august-2026_1640",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Pontefract",
+      "date": "16-August-2026",
+      "time": "16:45",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Pontefract/16-August-2026/1645",
+      "id": "pontefract_16-august-2026_1645",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Southwell",
+      "date": "16-August-2026",
+      "time": "17:10",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Southwell/16-August-2026/1710",
+      "id": "southwell_16-august-2026_1710",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Southwell",
+      "date": "16-August-2026",
+      "time": "17:40",
+      "race_name": "",
+      "going": "HG",
+      "runners": 16,
+      "favourite": "",
+      "odds": 1.4,
+      "url": "https://www.attheraces.com/racecard/Southwell/16-August-2026/1740",
+      "id": "southwell_16-august-2026_1740",
+      "qualified": false,
+      "filter_fail": [
+        "16 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Pontefract",
+      "date": "16-August-2026",
+      "time": "17:45",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Pontefract/16-August-2026/1745",
+      "id": "pontefract_16-august-2026_1745",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Pontefract",
+      "date": "16-August-2026",
+      "time": "18:15",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Pontefract/16-August-2026/1815",
+      "id": "pontefract_16-august-2026_1815",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Pontefract",
+      "date": "16-August-2026",
+      "time": "18:45",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Pontefract/16-August-2026/1845",
+      "id": "pontefract_16-august-2026_1845",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
       ],
       "result": "pending",
       "winner": null
