@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T19:20:05.255075",
+  "last_updated": "2026-08-19T09:27:19.906824",
   "races": [
     {
       "course": "Chester",
@@ -14813,6 +14813,366 @@
       "qualified": false,
       "filter_fail": [
         "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Carlisle",
+      "date": "19-August-2026",
+      "time": "14:05",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Carlisle/19-August-2026/1405",
+      "id": "carlisle_19-august-2026_1405",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "York",
+      "date": "19-August-2026",
+      "time": "14:25",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/York/19-August-2026/1425",
+      "id": "york_19-august-2026_1425",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Carlisle",
+      "date": "19-August-2026",
+      "time": "14:38",
+      "race_name": "",
+      "going": "HG",
+      "runners": 19,
+      "favourite": "",
+      "odds": 1.22,
+      "url": "https://www.attheraces.com/racecard/Carlisle/19-August-2026/1438",
+      "id": "carlisle_19-august-2026_1438",
+      "qualified": false,
+      "filter_fail": [
+        "19 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "York",
+      "date": "19-August-2026",
+      "time": "15:00",
+      "race_name": "",
+      "going": "HG",
+      "runners": 13,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/York/19-August-2026/1500",
+      "id": "york_19-august-2026_1500",
+      "qualified": false,
+      "filter_fail": [
+        "13 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Carlisle",
+      "date": "19-August-2026",
+      "time": "15:13",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Carlisle/19-August-2026/1513",
+      "id": "carlisle_19-august-2026_1513",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Carlisle",
+      "date": "19-August-2026",
+      "time": "15:48",
+      "race_name": "",
+      "going": "HG",
+      "runners": 20,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Carlisle/19-August-2026/1548",
+      "id": "carlisle_19-august-2026_1548",
+      "qualified": false,
+      "filter_fail": [
+        "20 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "York",
+      "date": "19-August-2026",
+      "time": "16:10",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/York/19-August-2026/1610",
+      "id": "york_19-august-2026_1610",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Carlisle",
+      "date": "19-August-2026",
+      "time": "16:20",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Carlisle/19-August-2026/1620",
+      "id": "carlisle_19-august-2026_1620",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "York",
+      "date": "19-August-2026",
+      "time": "16:45",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/York/19-August-2026/1645",
+      "id": "york_19-august-2026_1645",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Carlisle",
+      "date": "19-August-2026",
+      "time": "16:55",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Carlisle/19-August-2026/1655",
+      "id": "carlisle_19-august-2026_1655",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "York",
+      "date": "19-August-2026",
+      "time": "17:20",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/York/19-August-2026/1720",
+      "id": "york_19-august-2026_1720",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Kempton",
+      "date": "19-August-2026",
+      "time": "17:25",
+      "race_name": "",
+      "going": "HG",
+      "runners": 19,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Kempton/19-August-2026/1725",
+      "id": "kempton_19-august-2026_1725",
+      "qualified": false,
+      "filter_fail": [
+        "19 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Carlisle",
+      "date": "19-August-2026",
+      "time": "17:30",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Carlisle/19-August-2026/1730",
+      "id": "carlisle_19-august-2026_1730",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Kempton",
+      "date": "19-August-2026",
+      "time": "17:58",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Kempton/19-August-2026/1758",
+      "id": "kempton_19-august-2026_1758",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Kempton",
+      "date": "19-August-2026",
+      "time": "18:30",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Kempton/19-August-2026/1830",
+      "id": "kempton_19-august-2026_1830",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Kempton",
+      "date": "19-August-2026",
+      "time": "19:00",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Kempton/19-August-2026/1900",
+      "id": "kempton_19-august-2026_1900",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Kempton",
+      "date": "19-August-2026",
+      "time": "19:30",
+      "race_name": "",
+      "going": "HG",
+      "runners": 17,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Kempton/19-August-2026/1930",
+      "id": "kempton_19-august-2026_1930",
+      "qualified": false,
+      "filter_fail": [
+        "17 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Kempton",
+      "date": "19-August-2026",
+      "time": "20:00",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Kempton/19-August-2026/2000",
+      "id": "kempton_19-august-2026_2000",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Kempton",
+      "date": "19-August-2026",
+      "time": "20:30",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Kempton/19-August-2026/2030",
+      "id": "kempton_19-august-2026_2030",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Kempton",
+      "date": "19-August-2026",
+      "time": "21:00",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Kempton/19-August-2026/2100",
+      "id": "kempton_19-august-2026_2100",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
       ],
       "result": "pending",
       "winner": null
