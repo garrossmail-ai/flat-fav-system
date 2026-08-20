@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19T19:17:36.603596",
+  "last_updated": "2026-08-20T09:27:42.474415",
   "races": [
     {
       "course": "Chester",
@@ -15173,6 +15173,438 @@
       "qualified": false,
       "filter_fail": [
         "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "York",
+      "date": "20-August-2026",
+      "time": "13:50",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/York/20-August-2026/1350",
+      "id": "york_20-august-2026_1350",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newmarket",
+      "date": "20-August-2026",
+      "time": "14:00",
+      "race_name": "",
+      "going": "HG",
+      "runners": 21,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Newmarket/20-August-2026/1400",
+      "id": "newmarket_20-august-2026_1400",
+      "qualified": false,
+      "filter_fail": [
+        "21 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Lingfield",
+      "date": "20-August-2026",
+      "time": "14:10",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Lingfield/20-August-2026/1410",
+      "id": "lingfield_20-august-2026_1410",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "York",
+      "date": "20-August-2026",
+      "time": "14:25",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/York/20-August-2026/1425",
+      "id": "york_20-august-2026_1425",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newmarket",
+      "date": "20-August-2026",
+      "time": "14:35",
+      "race_name": "",
+      "going": "HG",
+      "runners": 21,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Newmarket/20-August-2026/1435",
+      "id": "newmarket_20-august-2026_1435",
+      "qualified": false,
+      "filter_fail": [
+        "21 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Lingfield",
+      "date": "20-August-2026",
+      "time": "14:45",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Lingfield/20-August-2026/1445",
+      "id": "lingfield_20-august-2026_1445",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "York",
+      "date": "20-August-2026",
+      "time": "15:00",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/York/20-August-2026/1500",
+      "id": "york_20-august-2026_1500",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newmarket",
+      "date": "20-August-2026",
+      "time": "15:10",
+      "race_name": "",
+      "going": "HG",
+      "runners": 22,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Newmarket/20-August-2026/1510",
+      "id": "newmarket_20-august-2026_1510",
+      "qualified": false,
+      "filter_fail": [
+        "22 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Lingfield",
+      "date": "20-August-2026",
+      "time": "15:20",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Lingfield/20-August-2026/1520",
+      "id": "lingfield_20-august-2026_1520",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "York",
+      "date": "20-August-2026",
+      "time": "15:35",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/York/20-August-2026/1535",
+      "id": "york_20-august-2026_1535",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newmarket",
+      "date": "20-August-2026",
+      "time": "15:45",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Newmarket/20-August-2026/1545",
+      "id": "newmarket_20-august-2026_1545",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Lingfield",
+      "date": "20-August-2026",
+      "time": "15:55",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Lingfield/20-August-2026/1555",
+      "id": "lingfield_20-august-2026_1555",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "York",
+      "date": "20-August-2026",
+      "time": "16:10",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/York/20-August-2026/1610",
+      "id": "york_20-august-2026_1610",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newmarket",
+      "date": "20-August-2026",
+      "time": "16:20",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Newmarket/20-August-2026/1620",
+      "id": "newmarket_20-august-2026_1620",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Lingfield",
+      "date": "20-August-2026",
+      "time": "16:30",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Lingfield/20-August-2026/1630",
+      "id": "lingfield_20-august-2026_1630",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "York",
+      "date": "20-August-2026",
+      "time": "16:45",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/York/20-August-2026/1645",
+      "id": "york_20-august-2026_1645",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newmarket",
+      "date": "20-August-2026",
+      "time": "16:51",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Newmarket/20-August-2026/1651",
+      "id": "newmarket_20-august-2026_1651",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Lingfield",
+      "date": "20-August-2026",
+      "time": "17:01",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Lingfield/20-August-2026/1701",
+      "id": "lingfield_20-august-2026_1701",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "York",
+      "date": "20-August-2026",
+      "time": "17:20",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/York/20-August-2026/1720",
+      "id": "york_20-august-2026_1720",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newcastle",
+      "date": "20-August-2026",
+      "time": "18:19",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Newcastle/20-August-2026/1819",
+      "id": "newcastle_20-august-2026_1819",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newcastle",
+      "date": "20-August-2026",
+      "time": "18:54",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Newcastle/20-August-2026/1854",
+      "id": "newcastle_20-august-2026_1854",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newcastle",
+      "date": "20-August-2026",
+      "time": "19:54",
+      "race_name": "",
+      "going": "HG",
+      "runners": 20,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Newcastle/20-August-2026/1954",
+      "id": "newcastle_20-august-2026_1954",
+      "qualified": false,
+      "filter_fail": [
+        "20 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newcastle",
+      "date": "20-August-2026",
+      "time": "20:24",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Newcastle/20-August-2026/2024",
+      "id": "newcastle_20-august-2026_2024",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newcastle",
+      "date": "20-August-2026",
+      "time": "20:54",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Newcastle/20-August-2026/2054",
+      "id": "newcastle_20-august-2026_2054",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
       ],
       "result": "pending",
       "winner": null
