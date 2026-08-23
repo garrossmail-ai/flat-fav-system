@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22T19:15:14.190595",
+  "last_updated": "2026-08-23T09:21:43.558056",
   "races": [
     {
       "course": "Chester",
@@ -16703,6 +16703,78 @@
       "qualified": false,
       "filter_fail": [
         "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Brighton",
+      "date": "23-August-2026",
+      "time": "14:20",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Brighton/23-August-2026/1420",
+      "id": "brighton_23-august-2026_1420",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Brighton",
+      "date": "23-August-2026",
+      "time": "14:50",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Brighton/23-August-2026/1450",
+      "id": "brighton_23-august-2026_1450",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Brighton",
+      "date": "23-August-2026",
+      "time": "15:20",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Brighton/23-August-2026/1520",
+      "id": "brighton_23-august-2026_1520",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Brighton",
+      "date": "23-August-2026",
+      "time": "15:50",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Brighton/23-August-2026/1550",
+      "id": "brighton_23-august-2026_1550",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
       ],
       "result": "pending",
       "winner": null
