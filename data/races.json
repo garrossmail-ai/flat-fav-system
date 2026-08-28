@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-27T19:22:33.405778",
+  "last_updated": "2026-08-28T02:23:09.230901",
   "races": [
     {
       "course": "Chester",
@@ -17720,6 +17720,222 @@
       "id": "bath_26-august-2026_1635",
       "qualified": true,
       "filter_fail": [],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Thirsk",
+      "date": "28-August-2026",
+      "time": "14:48",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Thirsk/28-August-2026/1448",
+      "id": "thirsk_28-august-2026_1448",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Thirsk",
+      "date": "28-August-2026",
+      "time": "15:25",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Thirsk/28-August-2026/1525",
+      "id": "thirsk_28-august-2026_1525",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Sandown",
+      "date": "28-August-2026",
+      "time": "15:35",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Sandown/28-August-2026/1535",
+      "id": "sandown_28-august-2026_1535",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Goodwood",
+      "date": "28-August-2026",
+      "time": "16:35",
+      "race_name": "",
+      "going": "HG",
+      "runners": 22,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Goodwood/28-August-2026/1635",
+      "id": "goodwood_28-august-2026_1635",
+      "qualified": false,
+      "filter_fail": [
+        "22 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Sandown",
+      "date": "28-August-2026",
+      "time": "16:45",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Sandown/28-August-2026/1645",
+      "id": "sandown_28-august-2026_1645",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Goodwood",
+      "date": "28-August-2026",
+      "time": "17:10",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Goodwood/28-August-2026/1710",
+      "id": "goodwood_28-august-2026_1710",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Thirsk",
+      "date": "28-August-2026",
+      "time": "17:13",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Thirsk/28-August-2026/1713",
+      "id": "thirsk_28-august-2026_1713",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Sandown",
+      "date": "28-August-2026",
+      "time": "17:20",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Sandown/28-August-2026/1720",
+      "id": "sandown_28-august-2026_1720",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Goodwood",
+      "date": "28-August-2026",
+      "time": "17:45",
+      "race_name": "",
+      "going": "HG",
+      "runners": 21,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Goodwood/28-August-2026/1745",
+      "id": "goodwood_28-august-2026_1745",
+      "qualified": false,
+      "filter_fail": [
+        "21 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Goodwood",
+      "date": "28-August-2026",
+      "time": "18:20",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Goodwood/28-August-2026/1820",
+      "id": "goodwood_28-august-2026_1820",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Goodwood",
+      "date": "28-August-2026",
+      "time": "18:55",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Goodwood/28-August-2026/1855",
+      "id": "goodwood_28-august-2026_1855",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Goodwood",
+      "date": "28-August-2026",
+      "time": "19:28",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Goodwood/28-August-2026/1928",
+      "id": "goodwood_28-august-2026_1928",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
       "result": "pending",
       "winner": null
     }
