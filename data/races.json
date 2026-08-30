@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-29T21:21:45.488009",
+  "last_updated": "2026-08-30T14:13:54.906166",
   "races": [
     {
       "course": "Chester",
@@ -18547,6 +18547,222 @@
       "qualified": false,
       "filter_fail": [
         "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Beverley",
+      "date": "30-August-2026",
+      "time": "13:40",
+      "race_name": "",
+      "going": "Ran",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.5,
+      "url": "https://www.attheraces.com/racecard/Beverley/30-August-2026/1340",
+      "id": "beverley_30-august-2026_1340",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Goodwood",
+      "date": "30-August-2026",
+      "time": "14:00",
+      "race_name": "",
+      "going": "Ran",
+      "runners": 11,
+      "favourite": "",
+      "odds": 1.5,
+      "url": "https://www.attheraces.com/racecard/Goodwood/30-August-2026/1400",
+      "id": "goodwood_30-august-2026_1400",
+      "qualified": false,
+      "filter_fail": [
+        "11 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Beverley",
+      "date": "30-August-2026",
+      "time": "14:15",
+      "race_name": "",
+      "going": "Ran",
+      "runners": 15,
+      "favourite": "",
+      "odds": 1.5,
+      "url": "https://www.attheraces.com/racecard/Beverley/30-August-2026/1415",
+      "id": "beverley_30-august-2026_1415",
+      "qualified": false,
+      "filter_fail": [
+        "15 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Beverley",
+      "date": "30-August-2026",
+      "time": "14:50",
+      "race_name": "",
+      "going": "",
+      "runners": 13,
+      "favourite": "",
+      "odds": 1.5,
+      "url": "https://www.attheraces.com/racecard/Beverley/30-August-2026/1450",
+      "id": "beverley_30-august-2026_1450",
+      "qualified": false,
+      "filter_fail": [
+        "13 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Goodwood",
+      "date": "30-August-2026",
+      "time": "15:10",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Goodwood/30-August-2026/1510",
+      "id": "goodwood_30-august-2026_1510",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Beverley",
+      "date": "30-August-2026",
+      "time": "15:20",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Beverley/30-August-2026/1520",
+      "id": "beverley_30-august-2026_1520",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Goodwood",
+      "date": "30-August-2026",
+      "time": "15:45",
+      "race_name": "",
+      "going": "HG",
+      "runners": 22,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Goodwood/30-August-2026/1545",
+      "id": "goodwood_30-august-2026_1545",
+      "qualified": false,
+      "filter_fail": [
+        "22 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Beverley",
+      "date": "30-August-2026",
+      "time": "15:55",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Beverley/30-August-2026/1555",
+      "id": "beverley_30-august-2026_1555",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Yarmouth",
+      "date": "30-August-2026",
+      "time": "16:00",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Yarmouth/30-August-2026/1600",
+      "id": "yarmouth_30-august-2026_1600",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Beverley",
+      "date": "30-August-2026",
+      "time": "16:30",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Beverley/30-August-2026/1630",
+      "id": "beverley_30-august-2026_1630",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Goodwood",
+      "date": "30-August-2026",
+      "time": "16:55",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Goodwood/30-August-2026/1655",
+      "id": "goodwood_30-august-2026_1655",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Yarmouth",
+      "date": "30-August-2026",
+      "time": "17:10",
+      "race_name": "",
+      "going": "HG",
+      "runners": 19,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Yarmouth/30-August-2026/1710",
+      "id": "yarmouth_30-august-2026_1710",
+      "qualified": false,
+      "filter_fail": [
+        "19 runners"
       ],
       "result": "pending",
       "winner": null
