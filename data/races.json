@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-31T23:03:46.272567",
+  "last_updated": "2026-09-01T13:52:18.041431",
   "races": [
     {
       "course": "Chester",
@@ -18763,6 +18763,380 @@
       "qualified": false,
       "filter_fail": [
         "19 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ripon",
+      "date": "01-September-2026",
+      "time": "14:10",
+      "race_name": "",
+      "going": "Ran",
+      "runners": 10,
+      "favourite": "",
+      "odds": 1.11,
+      "url": "https://www.attheraces.com/racecard/Ripon/01-September-2026/1410",
+      "id": "ripon_01-september-2026_1410",
+      "qualified": true,
+      "filter_fail": [],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Lingfield",
+      "date": "01-September-2026",
+      "time": "14:20",
+      "race_name": "",
+      "going": "",
+      "runners": 10,
+      "favourite": "",
+      "odds": 1.11,
+      "url": "https://www.attheraces.com/racecard/Lingfield/01-September-2026/1420",
+      "id": "lingfield_01-september-2026_1420",
+      "qualified": true,
+      "filter_fail": [],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Lingfield",
+      "date": "01-September-2026",
+      "time": "14:50",
+      "race_name": "",
+      "going": "Behind",
+      "runners": 16,
+      "favourite": "",
+      "odds": 1.11,
+      "url": "https://www.attheraces.com/racecard/Lingfield/01-September-2026/1450",
+      "id": "lingfield_01-september-2026_1450",
+      "qualified": false,
+      "filter_fail": [
+        "16 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ripon",
+      "date": "01-September-2026",
+      "time": "15:10",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.11,
+      "url": "https://www.attheraces.com/racecard/Ripon/01-September-2026/1510",
+      "id": "ripon_01-september-2026_1510",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Lingfield",
+      "date": "01-September-2026",
+      "time": "15:20",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.11,
+      "url": "https://www.attheraces.com/racecard/Lingfield/01-September-2026/1520",
+      "id": "lingfield_01-september-2026_1520",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ripon",
+      "date": "01-September-2026",
+      "time": "15:40",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.11,
+      "url": "https://www.attheraces.com/racecard/Ripon/01-September-2026/1540",
+      "id": "ripon_01-september-2026_1540",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Lingfield",
+      "date": "01-September-2026",
+      "time": "15:50",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.11,
+      "url": "https://www.attheraces.com/racecard/Lingfield/01-September-2026/1550",
+      "id": "lingfield_01-september-2026_1550",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ripon",
+      "date": "01-September-2026",
+      "time": "16:13",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.11,
+      "url": "https://www.attheraces.com/racecard/Ripon/01-September-2026/1613",
+      "id": "ripon_01-september-2026_1613",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Brighton",
+      "date": "01-September-2026",
+      "time": "16:36",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.11,
+      "url": "https://www.attheraces.com/racecard/Brighton/01-September-2026/1636",
+      "id": "brighton_01-september-2026_1636",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ripon",
+      "date": "01-September-2026",
+      "time": "16:48",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.11,
+      "url": "https://www.attheraces.com/racecard/Ripon/01-September-2026/1648",
+      "id": "ripon_01-september-2026_1648",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Wolverhampton",
+      "date": "01-September-2026",
+      "time": "17:12",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.11,
+      "url": "https://www.attheraces.com/racecard/Wolverhampton/01-September-2026/1712",
+      "id": "wolverhampton_01-september-2026_1712",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ripon",
+      "date": "01-September-2026",
+      "time": "17:18",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.11,
+      "url": "https://www.attheraces.com/racecard/Ripon/01-September-2026/1718",
+      "id": "ripon_01-september-2026_1718",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Brighton",
+      "date": "01-September-2026",
+      "time": "17:40",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.11,
+      "url": "https://www.attheraces.com/racecard/Brighton/01-September-2026/1740",
+      "id": "brighton_01-september-2026_1740",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Wolverhampton",
+      "date": "01-September-2026",
+      "time": "17:45",
+      "race_name": "",
+      "going": "HG",
+      "runners": 19,
+      "favourite": "",
+      "odds": 1.11,
+      "url": "https://www.attheraces.com/racecard/Wolverhampton/01-September-2026/1745",
+      "id": "wolverhampton_01-september-2026_1745",
+      "qualified": false,
+      "filter_fail": [
+        "19 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Lingfield",
+      "date": "01-September-2026",
+      "time": "17:55",
+      "race_name": "",
+      "going": "HG",
+      "runners": 19,
+      "favourite": "",
+      "odds": 1.11,
+      "url": "https://www.attheraces.com/racecard/Lingfield/01-September-2026/1755",
+      "id": "lingfield_01-september-2026_1755",
+      "qualified": false,
+      "filter_fail": [
+        "19 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Brighton",
+      "date": "01-September-2026",
+      "time": "18:15",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.11,
+      "url": "https://www.attheraces.com/racecard/Brighton/01-September-2026/1815",
+      "id": "brighton_01-september-2026_1815",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Wolverhampton",
+      "date": "01-September-2026",
+      "time": "18:20",
+      "race_name": "",
+      "going": "HG",
+      "runners": 22,
+      "favourite": "",
+      "odds": 1.11,
+      "url": "https://www.attheraces.com/racecard/Wolverhampton/01-September-2026/1820",
+      "id": "wolverhampton_01-september-2026_1820",
+      "qualified": false,
+      "filter_fail": [
+        "22 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Wolverhampton",
+      "date": "01-September-2026",
+      "time": "18:55",
+      "race_name": "",
+      "going": "HG",
+      "runners": 22,
+      "favourite": "",
+      "odds": 1.11,
+      "url": "https://www.attheraces.com/racecard/Wolverhampton/01-September-2026/1855",
+      "id": "wolverhampton_01-september-2026_1855",
+      "qualified": false,
+      "filter_fail": [
+        "22 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Brighton",
+      "date": "01-September-2026",
+      "time": "19:15",
+      "race_name": "",
+      "going": "The",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.11,
+      "url": "https://www.attheraces.com/racecard/Brighton/01-September-2026/1915",
+      "id": "brighton_01-september-2026_1915",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Wolverhampton",
+      "date": "01-September-2026",
+      "time": "19:30",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.11,
+      "url": "https://www.attheraces.com/racecard/Wolverhampton/01-September-2026/1930",
+      "id": "wolverhampton_01-september-2026_1930",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Wolverhampton",
+      "date": "01-September-2026",
+      "time": "20:00",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.11,
+      "url": "https://www.attheraces.com/racecard/Wolverhampton/01-September-2026/2000",
+      "id": "wolverhampton_01-september-2026_2000",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
       ],
       "result": "pending",
       "winner": null
