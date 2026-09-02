@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-01T21:29:17.016937",
+  "last_updated": "2026-09-02T13:09:51.489575",
   "races": [
     {
       "course": "Chester",
@@ -19137,6 +19137,348 @@
       "qualified": false,
       "filter_fail": [
         "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Bath",
+      "date": "02-September-2026",
+      "time": "14:00",
+      "race_name": "",
+      "going": "Ran",
+      "runners": 11,
+      "favourite": "",
+      "odds": 1.22,
+      "url": "https://www.attheraces.com/racecard/Bath/02-September-2026/1400",
+      "id": "bath_02-september-2026_1400",
+      "qualified": false,
+      "filter_fail": [
+        "11 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newcastle",
+      "date": "02-September-2026",
+      "time": "14:15",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Newcastle/02-September-2026/1415",
+      "id": "newcastle_02-september-2026_1415",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newcastle",
+      "date": "02-September-2026",
+      "time": "15:15",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Newcastle/02-September-2026/1515",
+      "id": "newcastle_02-september-2026_1515",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Bath",
+      "date": "02-September-2026",
+      "time": "15:30",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Bath/02-September-2026/1530",
+      "id": "bath_02-september-2026_1530",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newcastle",
+      "date": "02-September-2026",
+      "time": "15:45",
+      "race_name": "",
+      "going": "HG",
+      "runners": 22,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Newcastle/02-September-2026/1545",
+      "id": "newcastle_02-september-2026_1545",
+      "qualified": false,
+      "filter_fail": [
+        "22 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newcastle",
+      "date": "02-September-2026",
+      "time": "16:15",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Newcastle/02-September-2026/1615",
+      "id": "newcastle_02-september-2026_1615",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newcastle",
+      "date": "02-September-2026",
+      "time": "16:45",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Newcastle/02-September-2026/1645",
+      "id": "newcastle_02-september-2026_1645",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Hamilton",
+      "date": "02-September-2026",
+      "time": "16:50",
+      "race_name": "",
+      "going": "HG",
+      "runners": 19,
+      "favourite": "",
+      "odds": 1.22,
+      "url": "https://www.attheraces.com/racecard/Hamilton/02-September-2026/1650",
+      "id": "hamilton_02-september-2026_1650",
+      "qualified": false,
+      "filter_fail": [
+        "19 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Bath",
+      "date": "02-September-2026",
+      "time": "17:02",
+      "race_name": "",
+      "going": "HG",
+      "runners": 22,
+      "favourite": "",
+      "odds": 1.22,
+      "url": "https://www.attheraces.com/racecard/Bath/02-September-2026/1702",
+      "id": "bath_02-september-2026_1702",
+      "qualified": false,
+      "filter_fail": [
+        "22 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newcastle",
+      "date": "02-September-2026",
+      "time": "17:15",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Newcastle/02-September-2026/1715",
+      "id": "newcastle_02-september-2026_1715",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Kempton",
+      "date": "02-September-2026",
+      "time": "17:30",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Kempton/02-September-2026/1730",
+      "id": "kempton_02-september-2026_1730",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newcastle",
+      "date": "02-September-2026",
+      "time": "17:45",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Newcastle/02-September-2026/1745",
+      "id": "newcastle_02-september-2026_1745",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Hamilton",
+      "date": "02-September-2026",
+      "time": "17:50",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Hamilton/02-September-2026/1750",
+      "id": "hamilton_02-september-2026_1750",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Kempton",
+      "date": "02-September-2026",
+      "time": "18:00",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Kempton/02-September-2026/1800",
+      "id": "kempton_02-september-2026_1800",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Kempton",
+      "date": "02-September-2026",
+      "time": "18:30",
+      "race_name": "",
+      "going": "HG",
+      "runners": 22,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Kempton/02-September-2026/1830",
+      "id": "kempton_02-september-2026_1830",
+      "qualified": false,
+      "filter_fail": [
+        "22 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Kempton",
+      "date": "02-September-2026",
+      "time": "19:00",
+      "race_name": "",
+      "going": "HG",
+      "runners": 19,
+      "favourite": "",
+      "odds": 1.22,
+      "url": "https://www.attheraces.com/racecard/Kempton/02-September-2026/1900",
+      "id": "kempton_02-september-2026_1900",
+      "qualified": false,
+      "filter_fail": [
+        "19 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Hamilton",
+      "date": "02-September-2026",
+      "time": "19:20",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Hamilton/02-September-2026/1920",
+      "id": "hamilton_02-september-2026_1920",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Kempton",
+      "date": "02-September-2026",
+      "time": "20:00",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Kempton/02-September-2026/2000",
+      "id": "kempton_02-september-2026_2000",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Kempton",
+      "date": "02-September-2026",
+      "time": "20:30",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.22,
+      "url": "https://www.attheraces.com/racecard/Kempton/02-September-2026/2030",
+      "id": "kempton_02-september-2026_2030",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
       ],
       "result": "pending",
       "winner": null
