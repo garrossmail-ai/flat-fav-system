@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-03T21:29:47.398819",
+  "last_updated": "2026-09-04T13:05:09.614386",
   "races": [
     {
       "course": "Chester",
@@ -19479,6 +19479,240 @@
       "qualified": false,
       "filter_fail": [
         "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ascot",
+      "date": "04-September-2026",
+      "time": "13:55",
+      "race_name": "",
+      "going": "Ran",
+      "runners": 13,
+      "favourite": "",
+      "odds": 1.44,
+      "url": "https://www.attheraces.com/racecard/Ascot/04-September-2026/1355",
+      "id": "ascot_04-september-2026_1355",
+      "qualified": false,
+      "filter_fail": [
+        "13 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Haydock",
+      "date": "04-September-2026",
+      "time": "14:05",
+      "race_name": "",
+      "going": "Down",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.4,
+      "url": "https://www.attheraces.com/racecard/Haydock/04-September-2026/1405",
+      "id": "haydock_04-september-2026_1405",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ascot",
+      "date": "04-September-2026",
+      "time": "14:30",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Ascot/04-September-2026/1430",
+      "id": "ascot_04-september-2026_1430",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ascot",
+      "date": "04-September-2026",
+      "time": "15:05",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Ascot/04-September-2026/1505",
+      "id": "ascot_04-september-2026_1505",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Haydock",
+      "date": "04-September-2026",
+      "time": "15:15",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Haydock/04-September-2026/1515",
+      "id": "haydock_04-september-2026_1515",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ascot",
+      "date": "04-September-2026",
+      "time": "15:40",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Ascot/04-September-2026/1540",
+      "id": "ascot_04-september-2026_1540",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Haydock",
+      "date": "04-September-2026",
+      "time": "15:47",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Haydock/04-September-2026/1547",
+      "id": "haydock_04-september-2026_1547",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Haydock",
+      "date": "04-September-2026",
+      "time": "16:53",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Haydock/04-September-2026/1653",
+      "id": "haydock_04-september-2026_1653",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Kempton",
+      "date": "04-September-2026",
+      "time": "17:21",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Kempton/04-September-2026/1721",
+      "id": "kempton_04-september-2026_1721",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ascot",
+      "date": "04-September-2026",
+      "time": "17:25",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Ascot/04-September-2026/1725",
+      "id": "ascot_04-september-2026_1725",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Kempton",
+      "date": "04-September-2026",
+      "time": "17:54",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Kempton/04-September-2026/1754",
+      "id": "kempton_04-september-2026_1754",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Kempton",
+      "date": "04-September-2026",
+      "time": "18:24",
+      "race_name": "",
+      "going": "HG",
+      "runners": 21,
+      "favourite": "",
+      "odds": 1.4,
+      "url": "https://www.attheraces.com/racecard/Kempton/04-September-2026/1824",
+      "id": "kempton_04-september-2026_1824",
+      "qualified": false,
+      "filter_fail": [
+        "21 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Kempton",
+      "date": "04-September-2026",
+      "time": "18:54",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Kempton/04-September-2026/1854",
+      "id": "kempton_04-september-2026_1854",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
       ],
       "result": "pending",
       "winner": null
