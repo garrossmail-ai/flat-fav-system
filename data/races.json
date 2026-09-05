@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-04T21:08:53.227954",
+  "last_updated": "2026-09-05T12:17:34.330166",
   "races": [
     {
       "course": "Chester",
@@ -19713,6 +19713,546 @@
       "qualified": false,
       "filter_fail": [
         "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Haydock",
+      "date": "05-September-2026",
+      "time": "13:25",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Haydock/05-September-2026/1325",
+      "id": "haydock_05-september-2026_1325",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ascot",
+      "date": "05-September-2026",
+      "time": "13:40",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Ascot/05-September-2026/1340",
+      "id": "ascot_05-september-2026_1340",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Kempton",
+      "date": "05-September-2026",
+      "time": "13:45",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Kempton/05-September-2026/1345",
+      "id": "kempton_05-september-2026_1345",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Haydock",
+      "date": "05-September-2026",
+      "time": "13:55",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Haydock/05-September-2026/1355",
+      "id": "haydock_05-september-2026_1355",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Thirsk",
+      "date": "05-September-2026",
+      "time": "14:05",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Thirsk/05-September-2026/1405",
+      "id": "thirsk_05-september-2026_1405",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ascot",
+      "date": "05-September-2026",
+      "time": "14:10",
+      "race_name": "",
+      "going": "HG",
+      "runners": 22,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Ascot/05-September-2026/1410",
+      "id": "ascot_05-september-2026_1410",
+      "qualified": false,
+      "filter_fail": [
+        "22 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Kempton",
+      "date": "05-September-2026",
+      "time": "14:20",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Kempton/05-September-2026/1420",
+      "id": "kempton_05-september-2026_1420",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Haydock",
+      "date": "05-September-2026",
+      "time": "14:30",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Haydock/05-September-2026/1430",
+      "id": "haydock_05-september-2026_1430",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Kempton",
+      "date": "05-September-2026",
+      "time": "14:50",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Kempton/05-September-2026/1450",
+      "id": "kempton_05-september-2026_1450",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Haydock",
+      "date": "05-September-2026",
+      "time": "15:05",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Haydock/05-September-2026/1505",
+      "id": "haydock_05-september-2026_1505",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Thirsk",
+      "date": "05-September-2026",
+      "time": "15:15",
+      "race_name": "",
+      "going": "HG",
+      "runners": 20,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Thirsk/05-September-2026/1515",
+      "id": "thirsk_05-september-2026_1515",
+      "qualified": false,
+      "filter_fail": [
+        "20 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ascot",
+      "date": "05-September-2026",
+      "time": "15:25",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Ascot/05-September-2026/1525",
+      "id": "ascot_05-september-2026_1525",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Haydock",
+      "date": "05-September-2026",
+      "time": "15:40",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Haydock/05-September-2026/1540",
+      "id": "haydock_05-september-2026_1540",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Thirsk",
+      "date": "05-September-2026",
+      "time": "15:50",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Thirsk/05-September-2026/1550",
+      "id": "thirsk_05-september-2026_1550",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Kempton",
+      "date": "05-September-2026",
+      "time": "15:55",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Kempton/05-September-2026/1555",
+      "id": "kempton_05-september-2026_1555",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newcastle",
+      "date": "05-September-2026",
+      "time": "16:10",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Newcastle/05-September-2026/1610",
+      "id": "newcastle_05-september-2026_1610",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Haydock",
+      "date": "05-September-2026",
+      "time": "16:15",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Haydock/05-September-2026/1615",
+      "id": "haydock_05-september-2026_1615",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Thirsk",
+      "date": "05-September-2026",
+      "time": "16:25",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Thirsk/05-September-2026/1625",
+      "id": "thirsk_05-september-2026_1625",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Kempton",
+      "date": "05-September-2026",
+      "time": "16:30",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Kempton/05-September-2026/1630",
+      "id": "kempton_05-september-2026_1630",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ascot",
+      "date": "05-September-2026",
+      "time": "16:35",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Ascot/05-September-2026/1635",
+      "id": "ascot_05-september-2026_1635",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newcastle",
+      "date": "05-September-2026",
+      "time": "16:45",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.28,
+      "url": "https://www.attheraces.com/racecard/Newcastle/05-September-2026/1645",
+      "id": "newcastle_05-september-2026_1645",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Haydock",
+      "date": "05-September-2026",
+      "time": "16:50",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Haydock/05-September-2026/1650",
+      "id": "haydock_05-september-2026_1650",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Thirsk",
+      "date": "05-September-2026",
+      "time": "17:00",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Thirsk/05-September-2026/1700",
+      "id": "thirsk_05-september-2026_1700",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Kempton",
+      "date": "05-September-2026",
+      "time": "17:05",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Kempton/05-September-2026/1705",
+      "id": "kempton_05-september-2026_1705",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ascot",
+      "date": "05-September-2026",
+      "time": "17:10",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Ascot/05-September-2026/1710",
+      "id": "ascot_05-september-2026_1710",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Haydock",
+      "date": "05-September-2026",
+      "time": "17:25",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Haydock/05-September-2026/1725",
+      "id": "haydock_05-september-2026_1725",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Thirsk",
+      "date": "05-September-2026",
+      "time": "17:35",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Thirsk/05-September-2026/1735",
+      "id": "thirsk_05-september-2026_1735",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newcastle",
+      "date": "05-September-2026",
+      "time": "17:57",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Newcastle/05-September-2026/1757",
+      "id": "newcastle_05-september-2026_1757",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newcastle",
+      "date": "05-September-2026",
+      "time": "18:30",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Newcastle/05-September-2026/1830",
+      "id": "newcastle_05-september-2026_1830",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newcastle",
+      "date": "05-September-2026",
+      "time": "20:00",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Newcastle/05-September-2026/2000",
+      "id": "newcastle_05-september-2026_2000",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
       ],
       "result": "pending",
       "winner": null
