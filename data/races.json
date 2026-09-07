@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-06T20:56:30.878075",
+  "last_updated": "2026-09-07T14:41:55.282323",
   "races": [
     {
       "course": "Chester",
@@ -20322,6 +20322,168 @@
       "odds": 1.2,
       "url": "https://www.attheraces.com/racecard/York/06-September-2026/1700",
       "id": "york_06-september-2026_1700",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Windsor",
+      "date": "07-September-2026",
+      "time": "14:42",
+      "race_name": "",
+      "going": "",
+      "runners": 14,
+      "favourite": "",
+      "odds": 1.78,
+      "url": "https://www.attheraces.com/racecard/Windsor/07-September-2026/1442",
+      "id": "windsor_07-september-2026_1442",
+      "qualified": false,
+      "filter_fail": [
+        "14 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Windsor",
+      "date": "07-September-2026",
+      "time": "15:12",
+      "race_name": "",
+      "going": "",
+      "runners": 14,
+      "favourite": "",
+      "odds": 1.78,
+      "url": "https://www.attheraces.com/racecard/Windsor/07-September-2026/1512",
+      "id": "windsor_07-september-2026_1512",
+      "qualified": false,
+      "filter_fail": [
+        "14 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Windsor",
+      "date": "07-September-2026",
+      "time": "15:42",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Windsor/07-September-2026/1542",
+      "id": "windsor_07-september-2026_1542",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Windsor",
+      "date": "07-September-2026",
+      "time": "16:15",
+      "race_name": "",
+      "going": "HG",
+      "runners": 17,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Windsor/07-September-2026/1615",
+      "id": "windsor_07-september-2026_1615",
+      "qualified": false,
+      "filter_fail": [
+        "17 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Windsor",
+      "date": "07-September-2026",
+      "time": "16:45",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Windsor/07-September-2026/1645",
+      "id": "windsor_07-september-2026_1645",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Windsor",
+      "date": "07-September-2026",
+      "time": "17:15",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Windsor/07-September-2026/1715",
+      "id": "windsor_07-september-2026_1715",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Wolverhampton",
+      "date": "07-September-2026",
+      "time": "19:00",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Wolverhampton/07-September-2026/1900",
+      "id": "wolverhampton_07-september-2026_1900",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Wolverhampton",
+      "date": "07-September-2026",
+      "time": "19:30",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Wolverhampton/07-September-2026/1930",
+      "id": "wolverhampton_07-september-2026_1930",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Wolverhampton",
+      "date": "07-September-2026",
+      "time": "20:00",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Wolverhampton/07-September-2026/2000",
+      "id": "wolverhampton_07-september-2026_2000",
       "qualified": false,
       "filter_fail": [
         "25 runners"
