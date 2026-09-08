@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-07T21:49:41.050544",
+  "last_updated": "2026-09-08T13:14:13.110187",
   "races": [
     {
       "course": "Chester",
@@ -20487,6 +20487,308 @@
       "qualified": false,
       "filter_fail": [
         "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Goodwood",
+      "date": "08-September-2026",
+      "time": "13:30",
+      "race_name": "",
+      "going": "Ran",
+      "runners": 10,
+      "favourite": "",
+      "odds": 1.5,
+      "url": "https://www.attheraces.com/racecard/Goodwood/08-September-2026/1330",
+      "id": "goodwood_08-september-2026_1330",
+      "qualified": true,
+      "filter_fail": [],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Leicester",
+      "date": "08-September-2026",
+      "time": "13:42",
+      "race_name": "",
+      "going": "Ran",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.5,
+      "url": "https://www.attheraces.com/racecard/Leicester/08-September-2026/1342",
+      "id": "leicester_08-september-2026_1342",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Catterick",
+      "date": "08-September-2026",
+      "time": "13:53",
+      "race_name": "",
+      "going": "",
+      "runners": 8,
+      "favourite": "",
+      "odds": 1.5,
+      "url": "https://www.attheraces.com/racecard/Catterick/08-September-2026/1353",
+      "id": "catterick_08-september-2026_1353",
+      "qualified": true,
+      "filter_fail": [],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Goodwood",
+      "date": "08-September-2026",
+      "time": "14:05",
+      "race_name": "",
+      "going": "Ran",
+      "runners": 22,
+      "favourite": "",
+      "odds": 1.5,
+      "url": "https://www.attheraces.com/racecard/Goodwood/08-September-2026/1405",
+      "id": "goodwood_08-september-2026_1405",
+      "qualified": false,
+      "filter_fail": [
+        "22 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Leicester",
+      "date": "08-September-2026",
+      "time": "14:17",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Leicester/08-September-2026/1417",
+      "id": "leicester_08-september-2026_1417",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Catterick",
+      "date": "08-September-2026",
+      "time": "14:28",
+      "race_name": "",
+      "going": "HG",
+      "runners": 19,
+      "favourite": "",
+      "odds": 1.22,
+      "url": "https://www.attheraces.com/racecard/Catterick/08-September-2026/1428",
+      "id": "catterick_08-september-2026_1428",
+      "qualified": false,
+      "filter_fail": [
+        "19 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Leicester",
+      "date": "08-September-2026",
+      "time": "14:52",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Leicester/08-September-2026/1452",
+      "id": "leicester_08-september-2026_1452",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Goodwood",
+      "date": "08-September-2026",
+      "time": "15:15",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Goodwood/08-September-2026/1515",
+      "id": "goodwood_08-september-2026_1515",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Leicester",
+      "date": "08-September-2026",
+      "time": "15:27",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Leicester/08-September-2026/1527",
+      "id": "leicester_08-september-2026_1527",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Goodwood",
+      "date": "08-September-2026",
+      "time": "15:50",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Goodwood/08-September-2026/1550",
+      "id": "goodwood_08-september-2026_1550",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Leicester",
+      "date": "08-September-2026",
+      "time": "16:02",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Leicester/08-September-2026/1602",
+      "id": "leicester_08-september-2026_1602",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Goodwood",
+      "date": "08-September-2026",
+      "time": "16:25",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Goodwood/08-September-2026/1625",
+      "id": "goodwood_08-september-2026_1625",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Leicester",
+      "date": "08-September-2026",
+      "time": "16:32",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Leicester/08-September-2026/1632",
+      "id": "leicester_08-september-2026_1632",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Goodwood",
+      "date": "08-September-2026",
+      "time": "17:00",
+      "race_name": "",
+      "going": "HG",
+      "runners": 22,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Goodwood/08-September-2026/1700",
+      "id": "goodwood_08-september-2026_1700",
+      "qualified": false,
+      "filter_fail": [
+        "22 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Leicester",
+      "date": "08-September-2026",
+      "time": "17:07",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Leicester/08-September-2026/1707",
+      "id": "leicester_08-september-2026_1707",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Catterick",
+      "date": "08-September-2026",
+      "time": "17:21",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Catterick/08-September-2026/1721",
+      "id": "catterick_08-september-2026_1721",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Catterick",
+      "date": "08-September-2026",
+      "time": "17:51",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Catterick/08-September-2026/1751",
+      "id": "catterick_08-september-2026_1751",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
       ],
       "result": "pending",
       "winner": null
