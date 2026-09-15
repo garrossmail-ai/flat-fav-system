@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-14T22:11:34.005354",
+  "last_updated": "2026-09-15T14:05:49.664462",
   "races": [
     {
       "course": "Chester",
@@ -21144,6 +21144,310 @@
       "odds": 1.2,
       "url": "https://www.attheraces.com/racecard/Lingfield/10-September-2026/1905",
       "id": "lingfield_10-september-2026_1905",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Redcar",
+      "date": "15-September-2026",
+      "time": "13:53",
+      "race_name": "",
+      "going": "Ran",
+      "runners": 21,
+      "favourite": "",
+      "odds": 1.73,
+      "url": "https://www.attheraces.com/racecard/Redcar/15-September-2026/1353",
+      "id": "redcar_15-september-2026_1353",
+      "qualified": false,
+      "filter_fail": [
+        "21 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Yarmouth",
+      "date": "15-September-2026",
+      "time": "14:17",
+      "race_name": "",
+      "going": "Ran",
+      "runners": 12,
+      "favourite": "",
+      "odds": 2.5,
+      "url": "https://www.attheraces.com/racecard/Yarmouth/15-September-2026/1417",
+      "id": "yarmouth_15-september-2026_1417",
+      "qualified": false,
+      "filter_fail": [
+        "12 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Yarmouth",
+      "date": "15-September-2026",
+      "time": "14:47",
+      "race_name": "",
+      "going": "",
+      "runners": 9,
+      "favourite": "",
+      "odds": 1.83,
+      "url": "https://www.attheraces.com/racecard/Yarmouth/15-September-2026/1447",
+      "id": "yarmouth_15-september-2026_1447",
+      "qualified": true,
+      "filter_fail": [],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Yarmouth",
+      "date": "15-September-2026",
+      "time": "15:17",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Yarmouth/15-September-2026/1517",
+      "id": "yarmouth_15-september-2026_1517",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Redcar",
+      "date": "15-September-2026",
+      "time": "15:23",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Redcar/15-September-2026/1523",
+      "id": "redcar_15-september-2026_1523",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Yarmouth",
+      "date": "15-September-2026",
+      "time": "15:47",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Yarmouth/15-September-2026/1547",
+      "id": "yarmouth_15-september-2026_1547",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Redcar",
+      "date": "15-September-2026",
+      "time": "15:53",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Redcar/15-September-2026/1553",
+      "id": "redcar_15-september-2026_1553",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Redcar",
+      "date": "15-September-2026",
+      "time": "16:23",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Redcar/15-September-2026/1623",
+      "id": "redcar_15-september-2026_1623",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Wolverhampton",
+      "date": "15-September-2026",
+      "time": "16:28",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Wolverhampton/15-September-2026/1628",
+      "id": "wolverhampton_15-september-2026_1628",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Yarmouth",
+      "date": "15-September-2026",
+      "time": "16:47",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Yarmouth/15-September-2026/1647",
+      "id": "yarmouth_15-september-2026_1647",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Redcar",
+      "date": "15-September-2026",
+      "time": "16:54",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Redcar/15-September-2026/1654",
+      "id": "redcar_15-september-2026_1654",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Wolverhampton",
+      "date": "15-September-2026",
+      "time": "16:59",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.17,
+      "url": "https://www.attheraces.com/racecard/Wolverhampton/15-September-2026/1659",
+      "id": "wolverhampton_15-september-2026_1659",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Yarmouth",
+      "date": "15-September-2026",
+      "time": "17:18",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Yarmouth/15-September-2026/1718",
+      "id": "yarmouth_15-september-2026_1718",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Wolverhampton",
+      "date": "15-September-2026",
+      "time": "18:00",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Wolverhampton/15-September-2026/1800",
+      "id": "wolverhampton_15-september-2026_1800",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Wolverhampton",
+      "date": "15-September-2026",
+      "time": "18:30",
+      "race_name": "",
+      "going": "HG",
+      "runners": 22,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Wolverhampton/15-September-2026/1830",
+      "id": "wolverhampton_15-september-2026_1830",
+      "qualified": false,
+      "filter_fail": [
+        "22 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Wolverhampton",
+      "date": "15-September-2026",
+      "time": "19:00",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Wolverhampton/15-September-2026/1900",
+      "id": "wolverhampton_15-september-2026_1900",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Wolverhampton",
+      "date": "15-September-2026",
+      "time": "19:30",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Wolverhampton/15-September-2026/1930",
+      "id": "wolverhampton_15-september-2026_1930",
       "qualified": false,
       "filter_fail": [
         "23 runners"
