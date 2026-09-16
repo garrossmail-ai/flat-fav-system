@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-15T21:48:52.441126",
+  "last_updated": "2026-09-16T13:58:42.147487",
   "races": [
     {
       "course": "Chester",
@@ -21451,6 +21451,346 @@
       "qualified": false,
       "filter_fail": [
         "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Sandown",
+      "date": "16-September-2026",
+      "time": "13:45",
+      "race_name": "",
+      "going": "Ran",
+      "runners": 14,
+      "favourite": "",
+      "odds": 2.78,
+      "url": "https://www.attheraces.com/racecard/Sandown/16-September-2026/1345",
+      "id": "sandown_16-september-2026_1345",
+      "qualified": false,
+      "filter_fail": [
+        "14 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Beverley",
+      "date": "16-September-2026",
+      "time": "14:08",
+      "race_name": "",
+      "going": "",
+      "runners": 11,
+      "favourite": "",
+      "odds": 2.78,
+      "url": "https://www.attheraces.com/racecard/Beverley/16-September-2026/1408",
+      "id": "beverley_16-september-2026_1408",
+      "qualified": false,
+      "filter_fail": [
+        "11 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Sandown",
+      "date": "16-September-2026",
+      "time": "14:20",
+      "race_name": "",
+      "going": "Ran",
+      "runners": 11,
+      "favourite": "",
+      "odds": 1.53,
+      "url": "https://www.attheraces.com/racecard/Sandown/16-September-2026/1420",
+      "id": "sandown_16-september-2026_1420",
+      "qualified": false,
+      "filter_fail": [
+        "11 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Beverley",
+      "date": "16-September-2026",
+      "time": "14:43",
+      "race_name": "",
+      "going": "Ran",
+      "runners": 7,
+      "favourite": "",
+      "odds": 2.78,
+      "url": "https://www.attheraces.com/racecard/Beverley/16-September-2026/1443",
+      "id": "beverley_16-september-2026_1443",
+      "qualified": true,
+      "filter_fail": [],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Sandown",
+      "date": "16-September-2026",
+      "time": "14:55",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Sandown/16-September-2026/1455",
+      "id": "sandown_16-september-2026_1455",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Yarmouth",
+      "date": "16-September-2026",
+      "time": "15:06",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Yarmouth/16-September-2026/1506",
+      "id": "yarmouth_16-september-2026_1506",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Beverley",
+      "date": "16-September-2026",
+      "time": "15:18",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Beverley/16-September-2026/1518",
+      "id": "beverley_16-september-2026_1518",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Sandown",
+      "date": "16-September-2026",
+      "time": "15:30",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Sandown/16-September-2026/1530",
+      "id": "sandown_16-september-2026_1530",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Beverley",
+      "date": "16-September-2026",
+      "time": "15:48",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Beverley/16-September-2026/1548",
+      "id": "beverley_16-september-2026_1548",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Sandown",
+      "date": "16-September-2026",
+      "time": "16:05",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Sandown/16-September-2026/1605",
+      "id": "sandown_16-september-2026_1605",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Yarmouth",
+      "date": "16-September-2026",
+      "time": "16:12",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Yarmouth/16-September-2026/1612",
+      "id": "yarmouth_16-september-2026_1612",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Beverley",
+      "date": "16-September-2026",
+      "time": "16:18",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Beverley/16-September-2026/1618",
+      "id": "beverley_16-september-2026_1618",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Sandown",
+      "date": "16-September-2026",
+      "time": "16:40",
+      "race_name": "",
+      "going": "HG",
+      "runners": 21,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Sandown/16-September-2026/1640",
+      "id": "sandown_16-september-2026_1640",
+      "qualified": false,
+      "filter_fail": [
+        "21 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Yarmouth",
+      "date": "16-September-2026",
+      "time": "16:45",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Yarmouth/16-September-2026/1645",
+      "id": "yarmouth_16-september-2026_1645",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Beverley",
+      "date": "16-September-2026",
+      "time": "16:50",
+      "race_name": "",
+      "going": "HG",
+      "runners": 22,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Beverley/16-September-2026/1650",
+      "id": "beverley_16-september-2026_1650",
+      "qualified": false,
+      "filter_fail": [
+        "22 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Sandown",
+      "date": "16-September-2026",
+      "time": "17:10",
+      "race_name": "",
+      "going": "HG",
+      "runners": 22,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Sandown/16-September-2026/1710",
+      "id": "sandown_16-september-2026_1710",
+      "qualified": false,
+      "filter_fail": [
+        "22 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Yarmouth",
+      "date": "16-September-2026",
+      "time": "17:15",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Yarmouth/16-September-2026/1715",
+      "id": "yarmouth_16-september-2026_1715",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Beverley",
+      "date": "16-September-2026",
+      "time": "17:20",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Beverley/16-September-2026/1720",
+      "id": "beverley_16-september-2026_1720",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Beverley",
+      "date": "16-September-2026",
+      "time": "17:50",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Beverley/16-September-2026/1750",
+      "id": "beverley_16-september-2026_1750",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
       ],
       "result": "pending",
       "winner": null
