@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-16T21:47:21.020245",
+  "last_updated": "2026-09-17T14:02:31.839151",
   "races": [
     {
       "course": "Chester",
@@ -21788,6 +21788,436 @@
       "odds": 1.2,
       "url": "https://www.attheraces.com/racecard/Beverley/16-September-2026/1750",
       "id": "beverley_16-september-2026_1750",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Pontefract",
+      "date": "17-September-2026",
+      "time": "14:08",
+      "race_name": "",
+      "going": "Ran",
+      "runners": 15,
+      "favourite": "",
+      "odds": 1.5,
+      "url": "https://www.attheraces.com/racecard/Pontefract/17-September-2026/1408",
+      "id": "pontefract_17-september-2026_1408",
+      "qualified": false,
+      "filter_fail": [
+        "15 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Yarmouth",
+      "date": "17-September-2026",
+      "time": "14:15",
+      "race_name": "",
+      "going": "Ran",
+      "runners": 10,
+      "favourite": "",
+      "odds": 1.5,
+      "url": "https://www.attheraces.com/racecard/Yarmouth/17-September-2026/1415",
+      "id": "yarmouth_17-september-2026_1415",
+      "qualified": true,
+      "filter_fail": [],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ayr",
+      "date": "17-September-2026",
+      "time": "14:30",
+      "race_name": "",
+      "going": "Ran",
+      "runners": 13,
+      "favourite": "",
+      "odds": 1.5,
+      "url": "https://www.attheraces.com/racecard/Ayr/17-September-2026/1430",
+      "id": "ayr_17-september-2026_1430",
+      "qualified": false,
+      "filter_fail": [
+        "13 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Yarmouth",
+      "date": "17-September-2026",
+      "time": "14:45",
+      "race_name": "",
+      "going": "Ran",
+      "runners": 11,
+      "favourite": "",
+      "odds": 1.5,
+      "url": "https://www.attheraces.com/racecard/Yarmouth/17-September-2026/1445",
+      "id": "yarmouth_17-september-2026_1445",
+      "qualified": false,
+      "filter_fail": [
+        "11 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ayr",
+      "date": "17-September-2026",
+      "time": "15:00",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Ayr/17-September-2026/1500",
+      "id": "ayr_17-september-2026_1500",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Pontefract",
+      "date": "17-September-2026",
+      "time": "15:08",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Pontefract/17-September-2026/1508",
+      "id": "pontefract_17-september-2026_1508",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Yarmouth",
+      "date": "17-September-2026",
+      "time": "15:15",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Yarmouth/17-September-2026/1515",
+      "id": "yarmouth_17-september-2026_1515",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Pontefract",
+      "date": "17-September-2026",
+      "time": "15:38",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Pontefract/17-September-2026/1538",
+      "id": "pontefract_17-september-2026_1538",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Yarmouth",
+      "date": "17-September-2026",
+      "time": "15:45",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Yarmouth/17-September-2026/1545",
+      "id": "yarmouth_17-september-2026_1545",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ayr",
+      "date": "17-September-2026",
+      "time": "16:00",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Ayr/17-September-2026/1600",
+      "id": "ayr_17-september-2026_1600",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Yarmouth",
+      "date": "17-September-2026",
+      "time": "16:15",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Yarmouth/17-September-2026/1615",
+      "id": "yarmouth_17-september-2026_1615",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ayr",
+      "date": "17-September-2026",
+      "time": "16:30",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Ayr/17-September-2026/1630",
+      "id": "ayr_17-september-2026_1630",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Pontefract",
+      "date": "17-September-2026",
+      "time": "16:38",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Pontefract/17-September-2026/1638",
+      "id": "pontefract_17-september-2026_1638",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Yarmouth",
+      "date": "17-September-2026",
+      "time": "16:45",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Yarmouth/17-September-2026/1645",
+      "id": "yarmouth_17-september-2026_1645",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Southwell",
+      "date": "17-September-2026",
+      "time": "16:50",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Southwell/17-September-2026/1650",
+      "id": "southwell_17-september-2026_1650",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ayr",
+      "date": "17-September-2026",
+      "time": "17:01",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Ayr/17-September-2026/1701",
+      "id": "ayr_17-september-2026_1701",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Pontefract",
+      "date": "17-September-2026",
+      "time": "17:08",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Pontefract/17-September-2026/1708",
+      "id": "pontefract_17-september-2026_1708",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Yarmouth",
+      "date": "17-September-2026",
+      "time": "17:15",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Yarmouth/17-September-2026/1715",
+      "id": "yarmouth_17-september-2026_1715",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Southwell",
+      "date": "17-September-2026",
+      "time": "17:25",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.36,
+      "url": "https://www.attheraces.com/racecard/Southwell/17-September-2026/1725",
+      "id": "southwell_17-september-2026_1725",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Southwell",
+      "date": "17-September-2026",
+      "time": "18:00",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Southwell/17-September-2026/1800",
+      "id": "southwell_17-september-2026_1800",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Southwell",
+      "date": "17-September-2026",
+      "time": "18:30",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Southwell/17-September-2026/1830",
+      "id": "southwell_17-september-2026_1830",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Southwell",
+      "date": "17-September-2026",
+      "time": "19:30",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Southwell/17-September-2026/1930",
+      "id": "southwell_17-september-2026_1930",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Southwell",
+      "date": "17-September-2026",
+      "time": "20:00",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Southwell/17-September-2026/2000",
+      "id": "southwell_17-september-2026_2000",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Southwell",
+      "date": "17-September-2026",
+      "time": "20:30",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Southwell/17-September-2026/2030",
+      "id": "southwell_17-september-2026_2030",
       "qualified": false,
       "filter_fail": [
         "25 runners"
