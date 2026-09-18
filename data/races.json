@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-17T21:49:44.456732",
+  "last_updated": "2026-09-18T13:19:07.189495",
   "races": [
     {
       "course": "Chester",
@@ -22218,6 +22218,348 @@
       "odds": 1.2,
       "url": "https://www.attheraces.com/racecard/Southwell/17-September-2026/2030",
       "id": "southwell_17-september-2026_2030",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newbury",
+      "date": "18-September-2026",
+      "time": "13:47",
+      "race_name": "",
+      "going": "Ran",
+      "runners": 19,
+      "favourite": "",
+      "odds": 1.5,
+      "url": "https://www.attheraces.com/racecard/Newbury/18-September-2026/1347",
+      "id": "newbury_18-september-2026_1347",
+      "qualified": false,
+      "filter_fail": [
+        "19 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ayr",
+      "date": "18-September-2026",
+      "time": "13:55",
+      "race_name": "",
+      "going": "Ran",
+      "runners": 18,
+      "favourite": "",
+      "odds": 1.5,
+      "url": "https://www.attheraces.com/racecard/Ayr/18-September-2026/1355",
+      "id": "ayr_18-september-2026_1355",
+      "qualified": false,
+      "filter_fail": [
+        "18 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newbury",
+      "date": "18-September-2026",
+      "time": "14:22",
+      "race_name": "",
+      "going": "Down",
+      "runners": 21,
+      "favourite": "",
+      "odds": 1.4,
+      "url": "https://www.attheraces.com/racecard/Newbury/18-September-2026/1422",
+      "id": "newbury_18-september-2026_1422",
+      "qualified": false,
+      "filter_fail": [
+        "21 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ayr",
+      "date": "18-September-2026",
+      "time": "14:30",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Ayr/18-September-2026/1430",
+      "id": "ayr_18-september-2026_1430",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newbury",
+      "date": "18-September-2026",
+      "time": "14:57",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Newbury/18-September-2026/1457",
+      "id": "newbury_18-september-2026_1457",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ayr",
+      "date": "18-September-2026",
+      "time": "15:05",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Ayr/18-September-2026/1505",
+      "id": "ayr_18-september-2026_1505",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newbury",
+      "date": "18-September-2026",
+      "time": "15:32",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Newbury/18-September-2026/1532",
+      "id": "newbury_18-september-2026_1532",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ayr",
+      "date": "18-September-2026",
+      "time": "15:40",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Ayr/18-September-2026/1540",
+      "id": "ayr_18-september-2026_1540",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newbury",
+      "date": "18-September-2026",
+      "time": "16:07",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Newbury/18-September-2026/1607",
+      "id": "newbury_18-september-2026_1607",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ayr",
+      "date": "18-September-2026",
+      "time": "16:15",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Ayr/18-September-2026/1615",
+      "id": "ayr_18-september-2026_1615",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newbury",
+      "date": "18-September-2026",
+      "time": "16:40",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Newbury/18-September-2026/1640",
+      "id": "newbury_18-september-2026_1640",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ayr",
+      "date": "18-September-2026",
+      "time": "16:45",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Ayr/18-September-2026/1645",
+      "id": "ayr_18-september-2026_1645",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Wolverhampton",
+      "date": "18-September-2026",
+      "time": "17:10",
+      "race_name": "",
+      "going": "The",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Wolverhampton/18-September-2026/1710",
+      "id": "wolverhampton_18-september-2026_1710",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newbury",
+      "date": "18-September-2026",
+      "time": "17:15",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Newbury/18-September-2026/1715",
+      "id": "newbury_18-september-2026_1715",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Ayr",
+      "date": "18-September-2026",
+      "time": "17:20",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Ayr/18-September-2026/1720",
+      "id": "ayr_18-september-2026_1720",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newbury",
+      "date": "18-September-2026",
+      "time": "17:50",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Newbury/18-September-2026/1750",
+      "id": "newbury_18-september-2026_1750",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Wolverhampton",
+      "date": "18-September-2026",
+      "time": "18:15",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Wolverhampton/18-September-2026/1815",
+      "id": "wolverhampton_18-september-2026_1815",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Wolverhampton",
+      "date": "18-September-2026",
+      "time": "18:45",
+      "race_name": "",
+      "going": "HG",
+      "runners": 22,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Wolverhampton/18-September-2026/1845",
+      "id": "wolverhampton_18-september-2026_1845",
+      "qualified": false,
+      "filter_fail": [
+        "22 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Wolverhampton",
+      "date": "18-September-2026",
+      "time": "19:15",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Wolverhampton/18-September-2026/1915",
+      "id": "wolverhampton_18-september-2026_1915",
       "qualified": false,
       "filter_fail": [
         "25 runners"
