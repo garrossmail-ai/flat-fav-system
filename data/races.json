@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-19T21:10:16.288255",
+  "last_updated": "2026-09-20T13:24:13.071936",
   "races": [
     {
       "course": "Chester",
@@ -23064,6 +23064,42 @@
       "odds": 1.2,
       "url": "https://www.attheraces.com/racecard/Newcastle/19-September-2026/2030",
       "id": "newcastle_19-september-2026_2030",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Hamilton",
+      "date": "20-September-2026",
+      "time": "15:30",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Hamilton/20-September-2026/1530",
+      "id": "hamilton_20-september-2026_1530",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Hamilton",
+      "date": "20-September-2026",
+      "time": "16:00",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Hamilton/20-September-2026/1600",
+      "id": "hamilton_20-september-2026_1600",
       "qualified": false,
       "filter_fail": [
         "25 runners"
