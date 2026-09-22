@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-21T22:22:00.409759",
+  "last_updated": "2026-09-22T13:50:15.757731",
   "races": [
     {
       "course": "Chester",
@@ -23103,6 +23103,294 @@
       "qualified": false,
       "filter_fail": [
         "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Beverley",
+      "date": "22-September-2026",
+      "time": "13:30",
+      "race_name": "",
+      "going": "",
+      "runners": 12,
+      "favourite": "",
+      "odds": 3.44,
+      "url": "https://www.attheraces.com/racecard/Beverley/22-September-2026/1330",
+      "id": "beverley_22-september-2026_1330",
+      "qualified": false,
+      "filter_fail": [
+        "12 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Beverley",
+      "date": "22-September-2026",
+      "time": "14:05",
+      "race_name": "",
+      "going": "Ran",
+      "runners": 20,
+      "favourite": "",
+      "odds": 1.62,
+      "url": "https://www.attheraces.com/racecard/Beverley/22-September-2026/1405",
+      "id": "beverley_22-september-2026_1405",
+      "qualified": false,
+      "filter_fail": [
+        "20 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Beverley",
+      "date": "22-September-2026",
+      "time": "14:40",
+      "race_name": "",
+      "going": "Ran",
+      "runners": 12,
+      "favourite": "",
+      "odds": 1.62,
+      "url": "https://www.attheraces.com/racecard/Beverley/22-September-2026/1440",
+      "id": "beverley_22-september-2026_1440",
+      "qualified": false,
+      "filter_fail": [
+        "12 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Beverley",
+      "date": "22-September-2026",
+      "time": "15:15",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Beverley/22-September-2026/1515",
+      "id": "beverley_22-september-2026_1515",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Beverley",
+      "date": "22-September-2026",
+      "time": "15:50",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.25,
+      "url": "https://www.attheraces.com/racecard/Beverley/22-September-2026/1550",
+      "id": "beverley_22-september-2026_1550",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Southwell",
+      "date": "22-September-2026",
+      "time": "16:20",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Southwell/22-September-2026/1620",
+      "id": "southwell_22-september-2026_1620",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Beverley",
+      "date": "22-September-2026",
+      "time": "16:25",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Beverley/22-September-2026/1625",
+      "id": "beverley_22-september-2026_1625",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Southwell",
+      "date": "22-September-2026",
+      "time": "16:55",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Southwell/22-September-2026/1655",
+      "id": "southwell_22-september-2026_1655",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Beverley",
+      "date": "22-September-2026",
+      "time": "17:00",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Beverley/22-September-2026/1700",
+      "id": "beverley_22-september-2026_1700",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Southwell",
+      "date": "22-September-2026",
+      "time": "17:30",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Southwell/22-September-2026/1730",
+      "id": "southwell_22-september-2026_1730",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Southwell",
+      "date": "22-September-2026",
+      "time": "18:00",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Southwell/22-September-2026/1800",
+      "id": "southwell_22-september-2026_1800",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Southwell",
+      "date": "22-September-2026",
+      "time": "18:30",
+      "race_name": "",
+      "going": "HG",
+      "runners": 23,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Southwell/22-September-2026/1830",
+      "id": "southwell_22-september-2026_1830",
+      "qualified": false,
+      "filter_fail": [
+        "23 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Southwell",
+      "date": "22-September-2026",
+      "time": "19:00",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Southwell/22-September-2026/1900",
+      "id": "southwell_22-september-2026_1900",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Southwell",
+      "date": "22-September-2026",
+      "time": "19:30",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Southwell/22-September-2026/1930",
+      "id": "southwell_22-september-2026_1930",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Southwell",
+      "date": "22-September-2026",
+      "time": "20:00",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Southwell/22-September-2026/2000",
+      "id": "southwell_22-september-2026_2000",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Southwell",
+      "date": "22-September-2026",
+      "time": "20:30",
+      "race_name": "",
+      "going": "HG",
+      "runners": 24,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Southwell/22-September-2026/2030",
+      "id": "southwell_22-september-2026_2030",
+      "qualified": false,
+      "filter_fail": [
+        "24 runners"
       ],
       "result": "pending",
       "winner": null
