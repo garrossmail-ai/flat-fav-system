@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-02T22:40:32.332373",
+  "last_updated": "2026-10-03T14:06:30.672293",
   "races": [
     {
       "course": "Chester",
@@ -23391,6 +23391,24 @@
       "qualified": false,
       "filter_fail": [
         "24 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Southwell",
+      "date": "03-October-2026",
+      "time": "19:30",
+      "race_name": "",
+      "going": "HG",
+      "runners": 25,
+      "favourite": "",
+      "odds": 1.2,
+      "url": "https://www.attheraces.com/racecard/Southwell/03-October-2026/1930",
+      "id": "southwell_03-october-2026_1930",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
       ],
       "result": "pending",
       "winner": null
