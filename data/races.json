@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-09T22:57:47.168525",
+  "last_updated": "2026-10-10T14:58:03.646715",
   "races": [
     {
       "course": "Chester",
@@ -23406,6 +23406,24 @@
       "odds": 1.2,
       "url": "https://www.attheraces.com/racecard/Southwell/03-October-2026/1930",
       "id": "southwell_03-october-2026_1930",
+      "qualified": false,
+      "filter_fail": [
+        "25 runners"
+      ],
+      "result": "pending",
+      "winner": null
+    },
+    {
+      "course": "Newmarket",
+      "date": "10-October-2026",
+      "time": "15:40",
+      "race_name": "",
+      "going": "Ran",
+      "runners": 25,
+      "favourite": "",
+      "odds": 2.0,
+      "url": "https://www.attheraces.com/racecard/Newmarket/10-October-2026/1540",
+      "id": "newmarket_10-october-2026_1540",
       "qualified": false,
       "filter_fail": [
         "25 runners"
